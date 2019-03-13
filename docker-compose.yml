@@ -1,0 +1,8 @@
+version: '2'
+services:
+  webserver:
+    image: phpstorm/php-71-apache-xdebug-26
+    ports:
+      - ./:/var/www/html
+      environment:
+        XDEBUG_CONFIG: reomote_host=host.docker.internal

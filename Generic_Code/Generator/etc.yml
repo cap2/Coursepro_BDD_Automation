@@ -1,0 +1,1154 @@
+system:
+    -
+        setting: ENABLE_SLOTS
+        value: 'true'
+    -
+        setting: ENABLE_ORGANISATIONS
+        value: 'true'
+
+class_cancel_reasons:
+    -
+        reason_id: 1
+        reason: "Emergency works"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        reason_id: 2
+        reason: "Scheduled closure"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        reason_id: 3
+        reason: "Severe weather"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        reason_id: 4
+        reason: "Staff sickness"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        reason_id: 5
+        reason: "Technical difficulties"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+
+cron:
+    -
+        type_id: 1
+        lock_time: ~
+        last_run: "2013-06-02 00:00:00"
+    -
+        type_id: 3
+        lock_time: ~
+        last_run: "2013-06-02 00:00:00"
+    -
+        type_id: 4
+        lock_time: ~
+        last_run: "2013-06-02 00:00:00"
+    -
+        type_id: 5
+        lock_time: ~
+        last_run: "2013-06-02 00:00:00"
+    -
+        type_id: 6
+        lock_time: ~
+        last_run: "2013-06-02 00:00:00"
+    -
+        type_id: 7
+        lock_time: ~
+        last_run: "2013-06-02 00:00:00"
+    -
+        type_id: 8
+        lock_time: ~
+        last_run: "2013-06-02 00:00:00"
+
+api_methods:
+    -
+        staff_id: 13
+        method: "homeportal/activateAccount"
+        method_key: "8CTmogqU"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/addBadgeToBasket"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/addBookingMemberDetails"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/addBookingNoPaymentPlanLog"
+        method_key: "f48K2j9W"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/addDdToCrm"
+        method_key: "HjSVNwM0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/authenticate"
+        method_key: "bimOMnd4"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/blacklistEmail"
+        method_key: "3R7686Xl"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/changeAuthenticatedPassword"
+        method_key: "uS65mqdu"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/changePassword"
+        method_key: "48SsoimB"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/checkBookingSession"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/checkCSRF"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/checkHomePortalBookingConfig"
+        method_key: "fJk7gsD8"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/checkVoucherCode"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/clearAllSessions"
+        method_key: "p4Ifn6Yc"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/convertBadgeBasketToOrder"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/createAccount"
+        method_key: "CJpp8Eub"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/createBookingAccount"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/deleteBookingMember"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/findBookingMember"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/findDuplicateMember"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/forgotAccount"
+        method_key: "wBiEIf0c"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/forgotAnswer"
+        method_key: "97ivxw1C"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/forgotQuestion"
+        method_key: "ET53csEQ"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/forgotRespond"
+        method_key: "c5gkJLxf"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/forgotSession"
+        method_key: "nQV76Wkf"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/gatewayCallback"
+        method_key: "3DLB0NdO"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/gatewayWebCallback"
+        method_key: "HjSVNwM0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getAccessInfo"
+        method_key: "p4Ifn6Yc"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBadges"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBadgeBasket"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBadgeOrder"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBookableAssessmentTypes"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBookableCentres"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBookableCourseGroups"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBookableLevels"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBookableRegions"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBookingChoices"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBookingInformation"
+        method_key: "p4Ifn6Yc"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBookingMembersDetails"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBookingPaymentForm"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBookingPaymentInfo"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getClassHistory"
+        method_key: "KykRuF7y"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getClassInfo"
+        method_key: "B3llPTCc"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getConcessionaryTypes"
+        method_key: "B3lePTCs"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getCourseBalance"
+        method_key: "I0jwH7wj"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getDirectDebitMetadataByCentreId"
+        method_key: "38shmjsdfk"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getDirectDebitMetadataByClassId"
+        method_key: "38shmjsdfk"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getDisabilities"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getEmailInfo"
+        method_key: "iT0sGoho"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getEthnicities"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getGatewayCallback"
+        method_key: "I0jwH7wj"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getImageSet"
+        method_key: "kal34rfe"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getMarketingSources"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getMember"
+        method_key: "aTF0Midx"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getMemberFieldLimits"
+        method_key: "p4Ifn6Yc"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getMemberCentreIdsEnrolledIn"
+        method_key: "sDjs87Ss"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getMembershipFees"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getMoveClasses"
+        method_key: "RyoldvUx"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getMoveClassInfo"
+        method_key: "p407tivc"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getOverview"
+        method_key: "sQJ0Xft9"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getPaymentPlans"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getReceiptInfo"
+        method_key: "909Wsntj"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getRegisterSessionEmails"
+        method_key: "WSGaoAIO"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getRegisterSessionMembers"
+        method_key: "FJV92rmv"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getTopupInfoWithoutHoldingSpace"
+        method_key: "i6Fgm0pw"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getTopupInfo"
+        method_key: "i6Fgm0pw"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getOnlinePaymentAllocationPaymentForm"
+        method_key: "i6Fgm0pw"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/handleBalancedOnlinePayment"
+        method_key: "d3MN01lA"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/isClassAllowedFixedTermTopup"
+        method_key: "i6Fgm0pw"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getReEnrolmentInfo"
+        method_key: "i6Fgm0pw"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/hello"
+        method_key: "kytNXY8U"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/holdBookingChoices"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/isNewMember"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getHomePortal2Status"
+        method_key: "f48K2j9W"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/login"
+        method_key: "RO5fpO55"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/logout"
+        method_key: "RO5fpO55"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/memberExists"
+        method_key: "y1eAtB6M"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/move"
+        method_key: "IM36XsCh"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/registerSession"
+        method_key: "266Z5dTW"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/registerSessionCleanup"
+        method_key: "3ZbsOhym"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/registerSessionHasMembers"
+        method_key: "jOXNq4z9"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/removeBadgeFromBasket"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/resetOnlinePaymentAllocation"
+        method_key: "i6Fgm0pw"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/returnAdvert"
+        method_key: "ok392FdD"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/saveBadgeBasket"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/saveBookingChoices"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/search"
+        method_key: "x5G9q3fL"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/searchByPostcode"
+        method_key: "Zb84q20u"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/setBookingSessionAccount"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/ssoLogin"
+        method_key: "x5G9q3fL"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/startBookingSession"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/topup"
+        method_key: "RCeO6S68"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/unblacklistEmail"
+        method_key: "2cYQuwdO"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/updateBookingMemberDetails"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/validateGiftCard"
+        method_key: "Fdx34Fs2"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/validateMember"
+        method_key: "laBMfbV7"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/getBadgeSubmissionPresetDetails"
+        method_key: "laBMfbV7"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/recordBadgeOrderSuccess"
+        method_key: "laBMfbV7"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/basket/addToBasket"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/basket/getBasket"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/basket/cleanupBasketsForNotCurrentSessions"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/basket/resetBasket"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/basket/getPaymentForm"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/basket/removeFromBasket"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/basket/getCheckoutSummary"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/quickActivation/verifyActivationUrl"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/quickActivation/getSecurityQuestionFields"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/quickActivation/checkAnswerForSecurityQuestion"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/quickActivation/createAccount"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/quickActivation/addToAccount"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/validateBankAccount"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/formBuilder/getFormBuilderConfig"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/formBuilder/processForm"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/preDirectDebitValidate"
+        method_key: "AxD6nMn0"
+        last_date: ~
+    -
+        staff_id: 13
+        method: "homeportal/undoReenrol"
+        method_key: "BzE7mNm1"
+        last_date: ~
+
+ethnicities:
+    -
+        ethnicity_id: 1
+        name: "Not Given"
+    -
+        ethnicity_id: 2
+        name: "Unknown"
+    -
+        ethnicity_id: 3
+        name: "Black African"
+    -
+        ethnicity_id: 4
+        name: "White & Black African"
+    -
+        ethnicity_id: 5
+        name: "White & Black Caribbean"
+    -
+        ethnicity_id: 6
+        name: "White & Asian"
+    -
+        ethnicity_id: 7
+        name: "Black Caribbean"
+    -
+        ethnicity_id: 8
+        name: "Black Other"
+    -
+        ethnicity_id: 9
+        name: "Mixed Ethnicity"
+    -
+        ethnicity_id: 10
+        name: "Other Asian"
+    -
+        ethnicity_id: 11
+        name: "British"
+    -
+        ethnicity_id: 12
+        name: "Irish"
+    -
+        ethnicity_id: 13
+        name: "Eastern European"
+    -
+        ethnicity_id: 14
+        name: "Other European"
+    -
+        ethnicity_id: 15
+        name: "Antipodean"
+    -
+        ethnicity_id: 16
+        name: "White"
+    -
+        ethnicity_id: 17
+        name: "Other Mixed Ethnic Background"
+    -
+        ethnicity_id: 18
+        name: "Black / British Black (African)"
+    -
+        ethnicity_id: 19
+        name: "Black / British Black (Caribbean)"
+    -
+        ethnicity_id: 20
+        name: "Other Black / Black British"
+    -
+        ethnicity_id: 21
+        name: "Indian"
+    -
+        ethnicity_id: 22
+        name: "Pakistani"
+    -
+        ethnicity_id: 23
+        name: "Bangladeshi"
+    -
+        ethnicity_id: 24
+        name: "Other Asian / British Asian"
+    -
+        ethnicity_id: 25
+        name: "Chinese"
+    -
+        ethnicity_id: 26
+        name: "Other Ethnic Background"
+    -
+        ethnicity_id: 27
+        name: "Other White"
+
+disabilities:
+    -
+        disability_id: 1
+        name: "Hearing Impairment"
+    -
+        disability_id: 2
+        name: "Learning disability"
+    -
+        disability_id: 3
+        name: "Multiple Impairment"
+    -
+        disability_id: 4
+        name: "No Disability"
+    -
+        disability_id: 5
+        name: "Not Specified"
+    -
+        disability_id: 6
+        name: "Physical Impairment"
+    -
+        disability_id: 7
+        name: "Unknown"
+    -
+        disability_id: 8
+        name: "Visual Impairment"
+
+marketing_sources:
+    -
+        source_id: 1
+        name: "Website"
+        state: 1
+    -
+        source_id: 2
+        name: "Newspaper/Magazine"
+        state: 1
+    -
+        source_id: 3
+        name: "Word Of Mouth"
+        state: 1
+    -
+        source_id: 4
+        name: "Yellow Pages"
+        state: 1
+    -
+        source_id: 5
+        name: "Leaflets In Street"
+        state: 1
+    -
+        source_id: 6
+        name: "Referral"
+        state: 1
+    -
+        source_id: 7
+        name: "Facebook"
+        state: 1
+    -
+        source_id: 8
+        name: "Time Out London"
+        state: 1
+    -
+        source_id: 9
+        name: "Public Display Stand"
+        state: 1
+    -
+        source_id: 10
+        name: "Signage"
+        state: 1
+    -
+        source_id: 11
+        name: "Google Adwords"
+        state: 1
+    -
+        source_id: 12
+        name: "Previous Member"
+        state: 1
+    -
+        source_id: 13
+        name: "Poster"
+        state: 1
+    -
+        source_id: 14
+        name: "Sign"
+        state: 1
+    -
+        source_id: 15
+        name: "Guest Pass"
+        state: 1
+    -
+        source_id: 16
+        name: "Member Referral"
+        state: 1
+    -
+        source_id: 17
+        name: "SMS"
+        state: 1
+    -
+        source_id: 18
+        name: "Banner"
+        state: 1
+    -
+        source_id: 19
+        name: "Internet Search"
+        state: 1
+    -
+        source_id: 20
+        name: "Walk In"
+        state: 1
+    -
+        source_id: 21
+        name: "Not Specified"
+        state: 1
+    -
+        source_id: 22
+        name: "Advertising Campaign"
+        state: 1
+    -
+        source_id: 23
+        name: "Unknown"
+        state: 1
+    -
+        source_id: 24
+        name: "Exercise Referral"
+        state: 1
+    -
+        source_id: 25
+        name: "Schools"
+        state: 1
+    -
+        source_id: 26
+        name: "Corporate"
+        state: 1
+    -
+        source_id: 27
+        name: "Radio"
+        state: 1
+    -
+        source_id: 28
+        name: "Local Directory"
+        state: 1
+    -
+        source_id: 29
+        name: "Letter"
+        state: 1
+    -
+        source_id: 30
+        name: "Physio Referral"
+        state: 1
+
+external_classes:
+    -
+        external_class_id: 1
+        centre_course_id: 2
+        spaces: 10
+        is_full: 0
+        is_hidden: 0
+        name: "Test External Class"
+        description: "Test external class for HomePortal"
+        from_date: "2013-07-01"
+        to_date: "2013-09-01"
+        day: "1"
+        from_time: "08:00:00"
+        to_time: "09:00:00"
+        cost: 500
+        repeat: 1
+        state: 1
+        edit_staff_id: 1
+        edit_date: "2013-01-01 00:00:00"
+
+external_class_has_course_levels:
+    -
+        external_class_id: 1
+        level_id: 1
+
+direct_debit_metadata:
+    -
+        direct_debit_metadata_id: 1
+        address: "10 Happy Street<br/>Happy Town<br/>TE1 1ST"
+        company: "TEST COMPANY LTD"
+        company_short: "TESTCO"
+        service_number: "12345678"
+        small_print: "Test Company Ltd are a company registered in England. Company No. 876564523"
+    -
+        direct_debit_metadata_id: 2
+        address: "Another Street<br/>Happy Town<br/>TE1 1ST"
+        company: "Another Company Ltd"
+        company_short: "ANO"
+        service_number: "87654321"
+        small_print: "Another Company Ltd is registered in England company number 77745612"
+
+direct_debit_metadata_has_centres:
+    -
+        centre_id: 1
+        direct_debit_metadata_id: 1
+    -
+        centre_id: 2
+        direct_debit_metadata_id: 1
+    -
+        centre_id: 3
+        direct_debit_metadata_id: 2
+
+member_has_duplicates:
+    -
+        member_id: 1
+        duplicate_member_id: 299
+        edit_date: "2012-01-01 00:00:00"
+    -
+        member_id: 2
+        duplicate_member_id: 300
+        edit_date: "2012-01-01 00:00:00"
+
+age_ranges:
+    -
+        age_range_id: 1
+        create_date: "2012-01-01 00:00:00"
+        create_staff_id: 1
+        age_min: 0
+        age_max: 36
+        name: "0 - 36 mo"
+        state: 1
+        display_mode: 1
+    -
+        age_range_id: 2
+        create_date: "2012-01-01 00:00:00"
+        create_staff_id: 1
+        age_min: 36
+        age_max: 216
+        name: "3 - 18 yrs"
+        state: 1
+        display_mode: 1
+    -
+        age_range_id: 3
+        create_date: "2012-01-01 00:00:00"
+        create_staff_id: 1
+        age_min: 216
+        age_max: 9999
+        name: "Adult"
+        state: 1
+        display_mode: 0
+
+course_has_class_name_definitions:
+    -
+        course_class_name_definitions_id: 1
+        course_id: 1
+        name: Stage 1
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 2
+        course_id: 1
+        name: Stage 2
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 3
+        course_id: 1
+        name: Stage 3
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 4
+        course_id: 1
+        name: Stage 4
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 5
+        course_id: 1
+        name: Stage 5
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 6
+        course_id: 1
+        name: Stage 6
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 7
+        course_id: 1
+        name: Stage 7
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 8
+        course_id: 1
+        name: Stage 8
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 9
+        course_id: 1
+        name: Stage 9
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 10
+        course_id: 1
+        name: Stage 10
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 11
+        course_id: 2
+        name: Fixed Stage 1
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 12
+        course_id: 2
+        name: Fixed Stage 2
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 13
+        course_id: 2
+        name: Fixed Stage 3
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 14
+        course_id: 2
+        name: Fixed Stage 4
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 15
+        course_id: 2
+        name: Fixed Stage 5
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 16
+        course_id: 2
+        name: Fixed Stage 6
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 17
+        course_id: 2
+        name: Fixed Stage 7
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 18
+        course_id: 2
+        name: Fixed Stage 8
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 19
+        course_id: 2
+        name: Fixed Stage 9
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 20
+        course_id: 2
+        name: Fixed Stage 10
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 21
+        course_id: 1
+        name: Stage 7-10
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+    -
+        course_class_name_definitions_id: 22
+        course_id: 2
+        name: Fixed Stage 7-10
+        create_date: "2016-10-27 10:47:22"
+        create_staff_id: 1
+        edit_date: ~
+        edit_staff_id: ~
+
+demo_membership_price_levels:
+    -
+        price_level_id: "JUNR"
+        description: "Junior"
+    -
+        price_level_id: "STND"
+        description: "Standard"

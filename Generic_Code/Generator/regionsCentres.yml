@@ -1,0 +1,169 @@
+regions:
+    -
+        region_id: 1
+        name: "London"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        region_id: 2
+        name: "Edinburgh"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+
+centres:
+    -
+        centre_id: 1
+        region_id: 1
+        name: "Westminster Leisure Centre"
+        email_address: ~
+        telephone: ~
+        crm_centre_id: ~
+        member_reference: ~
+        postcode: "SW1A 2TT"
+        enable_badge_orders: 1
+        state: 1
+        latitude: "51.5023"
+        longitude: "-0.124345"
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        centre_id: 2
+        region_id: 1
+        name: "Canary Wharf Leisure Centre"
+        email_address: ~
+        telephone: ~
+        crm_centre_id: ~
+        member_reference: ~
+        postcode: "E14 5AB"
+        enable_badge_orders: 1
+        state: 1
+        latitude: "51.5049"
+        longitude: "-0.019523"
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        centre_id: 3
+        region_id: 2
+        name: "Castle Leisure Centre"
+        email_address: ~
+        telephone: ~
+        crm_centre_id: ~
+        member_reference: ~
+        postcode: "EH1 2NG"
+        enable_badge_orders: 1
+        state: 1
+        latitude: "55.949"
+        longitude: "-3.20148"
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        centre_id: 4
+        region_id: 2
+        name: "Festival Leisure Centre"
+        email_address: ~
+        telephone: ~
+        crm_centre_id: ~
+        member_reference: ~
+        postcode: "EH8 9FT"
+        state: 1
+        latitude: ~
+        longitude: ~
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+        
+bookable_areas:
+    -
+        area_id: 1
+        name: "Main Pool"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        area_id: 2
+        name: "Tennis Courts"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+
+centre_has_bookable_areas:
+    -
+        centre_id: 1
+        area_id: 1
+        centre_bookable_area_id: 1
+        name: "Main Pool"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        centre_id: 1
+        area_id: 2
+        centre_bookable_area_id: 2
+        name: "Tennis Courts"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        centre_id: 2
+        area_id: 1
+        centre_bookable_area_id: 3
+        name: "Main Pool"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        centre_id: 2
+        area_id: 2
+        centre_bookable_area_id: 4
+        name: "Tennis Courts"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        centre_id: 3
+        area_id: 1
+        centre_bookable_area_id: 5
+        name: "Main Pool"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        centre_id: 3
+        area_id: 2
+        centre_bookable_area_id: 6
+        name: "Tennis Courts"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+
+portable_devices:
+    -
+        device_id: 1
+        name: "iPod 1"
+        username: "test"
+        pin_code: "1234"
+        login_key: "abcdef0123456789abcdef0123456789"
+        session_id: "abcdef0123456789abcdef0123456789"
+        session_expiry_date: ~
+        session_expiry: 0
+        last_activity: ~
+        use_whitelist: 0
+        use_autosync: 0
+        use_undo: 0
+        use_logout: 0
+        force_old: 0
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+
+portable_device_has_courses:
+    -
+        device_id: 1
+        centre_course_id: 1
+    -
+        device_id: 1
+        centre_course_id: 2
+    -
+        device_id: 1
+        centre_course_id: 3

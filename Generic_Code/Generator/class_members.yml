@@ -1,0 +1,6517 @@
+class_has_members:
+    -
+        class_id: 1
+        member_id: 151
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 1
+        plan_status: 1
+        class_member_id: 1
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 1
+        member_id: 1
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 2
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 1
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 1
+        member_id: 2
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 2
+        plan_status: 1
+        class_member_id: 3
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 2
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 1
+        member_id: 3
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 3
+        plan_status: 4
+        class_member_id: 4
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 2
+        member_id: 274
+        level_id: 2
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 5
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 3
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 2
+        member_id: 4
+        level_id: 2
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 4
+        plan_status: 1
+        class_member_id: 6
+        progression_date: ~
+        active: 1
+        move: 3
+        move_date: "2013-05-26 09:00:00"
+        portal_move: 0
+        leave_date: ~
+        sessions: 2
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 2
+        member_id: 5
+        level_id: 2
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 5
+        plan_status: 1
+        class_member_id: 7
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 2
+        member_id: 6
+        level_id: 2
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 8
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 3
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 2
+        member_id: 7
+        level_id: 2
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 6
+        plan_status: 1
+        class_member_id: 9
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 3
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 2
+        member_id: 8
+        level_id: 2
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 7
+        plan_status: 1
+        class_member_id: 10
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 3
+        member_id: 283
+        level_id: 3
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 11
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 2
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 3
+        member_id: 9
+        level_id: 3
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 8
+        plan_status: 1
+        class_member_id: 12
+        progression_date: ~
+        active: 1
+        move: 4
+        move_date: "2013-05-26 09:00:00"
+        portal_move: 1
+        leave_date: ~
+        sessions: 3
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 4
+        member_id: 188
+        level_id: 4
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 9
+        plan_status: 1
+        class_member_id: 13
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 5
+        member_id: 61
+        level_id: 5
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 14
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 2
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 5
+        member_id: 11
+        level_id: 5
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 10
+        plan_status: 1
+        class_member_id: 15
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 3
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 6
+        member_id: 72
+        level_id: 6
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 11
+        plan_status: 1
+        class_member_id: 16
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 6
+        member_id: 13
+        level_id: 6
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 17
+        progression_date: ~
+        active: 1
+        move: 7
+        move_date: "2013-05-26 09:00:00"
+        portal_move: 0
+        leave_date: ~
+        sessions: 3
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 6
+        member_id: 14
+        level_id: 6
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 12
+        plan_status: 1
+        class_member_id: 18
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 3
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 7
+        member_id: 116
+        level_id: 7
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 13
+        plan_status: 1
+        class_member_id: 19
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 7
+        member_id: 15
+        level_id: 7
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 20
+        progression_date: ~
+        active: 1
+        move: 8
+        move_date: "2013-05-26 09:00:00"
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 7
+        member_id: 16
+        level_id: 7
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 14
+        plan_status: 1
+        class_member_id: 21
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 7
+        member_id: 17
+        level_id: 7
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 15
+        plan_status: 1
+        class_member_id: 22
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 7
+        member_id: 18
+        level_id: 7
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 23
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 8
+        member_id: 49
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 16
+        plan_status: 1
+        class_member_id: 24
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 8
+        member_id: 19
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 17
+        plan_status: 4
+        class_member_id: 25
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 8
+        member_id: 20
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 26
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 8
+        member_id: 21
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 18
+        plan_status: 1
+        class_member_id: 27
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 8
+        member_id: 22
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 19
+        plan_status: 1
+        class_member_id: 28
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 8
+        member_id: 23
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 29
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 9
+        member_id: 216
+        level_id: 2
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 20
+        plan_status: 1
+        class_member_id: 30
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 9
+        member_id: 24
+        level_id: 2
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 21
+        plan_status: 1
+        class_member_id: 31
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 10
+        member_id: 290
+        level_id: 3
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 32
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 10
+        member_id: 25
+        level_id: 3
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 22
+        plan_status: 1
+        class_member_id: 33
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 10
+        member_id: 26
+        level_id: 3
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 23
+        plan_status: 1
+        class_member_id: 34
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 11
+        member_id: 162
+        level_id: 4
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 35
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 11
+        member_id: 27
+        level_id: 4
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 24
+        plan_status: 1
+        class_member_id: 36
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 11
+        member_id: 29
+        level_id: 4
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 25
+        plan_status: 1
+        class_member_id: 37
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 11
+        member_id: 30
+        level_id: 4
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 38
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 12
+        member_id: 258
+        level_id: 5
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 26
+        plan_status: 1
+        class_member_id: 39
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 13
+        member_id: 70
+        level_id: 6
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 27
+        plan_status: 1
+        class_member_id: 40
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 13
+        member_id: 31
+        level_id: 6
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 41
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 14
+        member_id: 244
+        level_id: 7
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 28
+        plan_status: 1
+        class_member_id: 42
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 14
+        member_id: 32
+        level_id: 7
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 29
+        plan_status: 1
+        class_member_id: 43
+        progression_date: ~
+        active: 1
+        move: 8
+        move_date: "2013-05-26 09:00:00"
+        portal_move: 1
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 14
+        member_id: 33
+        level_id: 7
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 44
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 15
+        member_id: 175
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 30
+        plan_status: 1
+        class_member_id: 45
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 15
+        member_id: 34
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 31
+        plan_status: 1
+        class_member_id: 46
+        progression_date: ~
+        active: 1
+        move: 2
+        move_date: "2013-05-26 09:00:00"
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 15
+        member_id: 35
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 47
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 15
+        member_id: 36
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 32
+        plan_status: 1
+        class_member_id: 48
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 15
+        member_id: 39
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 33
+        plan_status: 5
+        class_member_id: 49
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 16
+        member_id: 170
+        level_id: 2
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 50
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 16
+        member_id: 40
+        level_id: 2
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 34
+        plan_status: 1
+        class_member_id: 51
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 16
+        member_id: 41
+        level_id: 2
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 35
+        plan_status: 1
+        class_member_id: 52
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 17
+        member_id: 129
+        level_id: 3
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 53
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 17
+        member_id: 42
+        level_id: 3
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 36
+        plan_status: 1
+        class_member_id: 54
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 17
+        member_id: 43
+        level_id: 3
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 37
+        plan_status: 1
+        class_member_id: 55
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 18
+        member_id: 111
+        level_id: 4
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 56
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 18
+        member_id: 44
+        level_id: 4
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 38
+        plan_status: 1
+        class_member_id: 57
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 18
+        member_id: 45
+        level_id: 4
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 39
+        plan_status: 1
+        class_member_id: 58
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 19
+        member_id: 38
+        level_id: 5
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 59
+        progression_date: ~
+        active: 1
+        move: 6
+        move_date: "2013-05-26 09:00:00"
+        portal_move: 1
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 19
+        member_id: 46
+        level_id: 5
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 40
+        plan_status: 1
+        class_member_id: 60
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 20
+        member_id: 172
+        level_id: 6
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 41
+        plan_status: 1
+        class_member_id: 61
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 20
+        member_id: 47
+        level_id: 6
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 62
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 20
+        member_id: 48
+        level_id: 6
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 42
+        plan_status: 1
+        class_member_id: 63
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 21
+        member_id: 126
+        level_id: 7
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 43
+        plan_status: 1
+        class_member_id: 64
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 21
+        member_id: 50
+        level_id: 7
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 65
+        progression_date: ~
+        active: 1
+        move: 8
+        move_date: "2013-05-26 09:00:00"
+        portal_move: 1
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 22
+        member_id: 59
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 44
+        plan_status: 1
+        class_member_id: 66
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 22
+        member_id: 52
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 45
+        plan_status: 1
+        class_member_id: 67
+        progression_date: ~
+        active: 1
+        move: 2
+        move_date: "2013-05-26 09:00:00"
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 22
+        member_id: 53
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 68
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 22
+        member_id: 54
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 46
+        plan_status: 1
+        class_member_id: 69
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 22
+        member_id: 55
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 47
+        plan_status: 1
+        class_member_id: 70
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 22
+        member_id: 56
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 71
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 23
+        member_id: 203
+        level_id: 2
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 48
+        plan_status: 1
+        class_member_id: 72
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 23
+        member_id: 57
+        level_id: 2
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 49
+        plan_status: 5
+        class_member_id: 73
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 23
+        member_id: 60
+        level_id: 2
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 74
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 24
+        member_id: 83
+        level_id: 3
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 50
+        plan_status: 1
+        class_member_id: 75
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 24
+        member_id: 62
+        level_id: 3
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 51
+        plan_status: 1
+        class_member_id: 76
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 24
+        member_id: 63
+        level_id: 3
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 77
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 25
+        member_id: 96
+        level_id: 4
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 52
+        plan_status: 1
+        class_member_id: 78
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 25
+        member_id: 65
+        level_id: 4
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 53
+        plan_status: 1
+        class_member_id: 79
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 26
+        member_id: 51
+        level_id: 5
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 80
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 27
+        member_id: 169
+        level_id: 6
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 54
+        plan_status: 1
+        class_member_id: 81
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 27
+        member_id: 66
+        level_id: 6
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 55
+        plan_status: 1
+        class_member_id: 82
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 28
+        member_id: 71
+        level_id: 7
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 83
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 28
+        member_id: 67
+        level_id: 7
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 56
+        plan_status: 1
+        class_member_id: 84
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 28
+        member_id: 68
+        level_id: 7
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 57
+        plan_status: 1
+        class_member_id: 85
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 29
+        member_id: 58
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 86
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 29
+        member_id: 69
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 58
+        plan_status: 1
+        class_member_id: 87
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 29
+        member_id: 73
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 59
+        plan_status: 1
+        class_member_id: 88
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 29
+        member_id: 75
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 89
+        progression_date: ~
+        active: 2
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 29
+        member_id: 76
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 60
+        plan_status: 1
+        class_member_id: 90
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 29
+        member_id: 77
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 61
+        plan_status: 5
+        class_member_id: 91
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 30
+        member_id: 37
+        level_id: 2
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 92
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 30
+        member_id: 78
+        level_id: 2
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 62
+        plan_status: 1
+        class_member_id: 93
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 30
+        member_id: 79
+        level_id: 2
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 63
+        plan_status: 1
+        class_member_id: 94
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 31
+        member_id: 94
+        level_id: 3
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 95
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 31
+        member_id: 80
+        level_id: 3
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 64
+        plan_status: 1
+        class_member_id: 96
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 31
+        member_id: 81
+        level_id: 3
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 65
+        plan_status: 1
+        class_member_id: 97
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 32
+        member_id: 12
+        level_id: 4
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 98
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 32
+        member_id: 82
+        level_id: 4
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 66
+        plan_status: 1
+        class_member_id: 99
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 32
+        member_id: 84
+        level_id: 4
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 67
+        plan_status: 1
+        class_member_id: 100
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 33
+        member_id: 245
+        level_id: 5
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 101
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 33
+        member_id: 85
+        level_id: 5
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 68
+        plan_status: 1
+        class_member_id: 102
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 34
+        member_id: 224
+        level_id: 6
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 69
+        plan_status: 1
+        class_member_id: 103
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 34
+        member_id: 86
+        level_id: 6
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 104
+        progression_date: ~
+        active: 1
+        move: 7
+        move_date: "2013-05-26 09:00:00"
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 34
+        member_id: 87
+        level_id: 6
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 70
+        plan_status: 1
+        class_member_id: 105
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 35
+        member_id: 91
+        level_id: 7
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 71
+        plan_status: 1
+        class_member_id: 106
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 35
+        member_id: 89
+        level_id: 7
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 107
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 35
+        member_id: 92
+        level_id: 7
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 72
+        plan_status: 1
+        class_member_id: 108
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 35
+        member_id: 93
+        level_id: 7
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 73
+        plan_status: 1
+        class_member_id: 109
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 35
+        member_id: 95
+        level_id: 7
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 110
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 36
+        member_id: 240
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 74
+        plan_status: 1
+        class_member_id: 111
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 36
+        member_id: 97
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 75
+        plan_status: 1
+        class_member_id: 112
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 36
+        member_id: 98
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 113
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 36
+        member_id: 99
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 76
+        plan_status: 1
+        class_member_id: 114
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 36
+        member_id: 100
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 77
+        plan_status: 5
+        class_member_id: 115
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 37
+        member_id: 10
+        level_id: 2
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 116
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 37
+        member_id: 101
+        level_id: 2
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 78
+        plan_status: 1
+        class_member_id: 117
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 37
+        member_id: 102
+        level_id: 2
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 79
+        plan_status: 1
+        class_member_id: 118
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 38
+        member_id: 186
+        level_id: 3
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 119
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 38
+        member_id: 103
+        level_id: 3
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 80
+        plan_status: 1
+        class_member_id: 120
+        progression_date: ~
+        active: 1
+        move: 4
+        move_date: "2013-05-26 09:00:00"
+        portal_move: 1
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 39
+        member_id: 28
+        level_id: 4
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 81
+        plan_status: 1
+        class_member_id: 121
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 39
+        member_id: 104
+        level_id: 4
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 122
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 40
+        member_id: 166
+        level_id: 5
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 82
+        plan_status: 1
+        class_member_id: 123
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 40
+        member_id: 106
+        level_id: 5
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 83
+        plan_status: 1
+        class_member_id: 124
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 40
+        member_id: 107
+        level_id: 5
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 125
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 41
+        member_id: 64
+        level_id: 6
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 84
+        plan_status: 1
+        class_member_id: 126
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 41
+        member_id: 108
+        level_id: 6
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 85
+        plan_status: 1
+        class_member_id: 127
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 41
+        member_id: 109
+        level_id: 6
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 128
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 42
+        member_id: 264
+        level_id: 7
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 86
+        plan_status: 1
+        class_member_id: 129
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 42
+        member_id: 110
+        level_id: 7
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 87
+        plan_status: 1
+        class_member_id: 130
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 43
+        member_id: 115
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 131
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 43
+        member_id: 112
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 88
+        plan_status: 1
+        class_member_id: 132
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 4
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 43
+        member_id: 113
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 89
+        plan_status: 1
+        class_member_id: 133
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 44
+        member_id: 74
+        level_id: 2
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 134
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 13
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 44
+        member_id: 114
+        level_id: 2
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 90
+        plan_status: 1
+        class_member_id: 135
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 2
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 44
+        member_id: 117
+        level_id: 2
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 91
+        plan_status: 1
+        class_member_id: 136
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 44
+        member_id: 118
+        level_id: 2
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 137
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 4
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 44
+        member_id: 119
+        level_id: 2
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 92
+        plan_status: 1
+        class_member_id: 138
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 3
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 45
+        member_id: 265
+        level_id: 3
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 93
+        plan_status: 1
+        class_member_id: 139
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 45
+        member_id: 120
+        level_id: 3
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 140
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 1
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 45
+        member_id: 121
+        level_id: 3
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 94
+        plan_status: 1
+        class_member_id: 141
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 3
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 46
+        member_id: 88
+        level_id: 4
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 95
+        plan_status: 1
+        class_member_id: 142
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 46
+        member_id: 122
+        level_id: 4
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 143
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 4
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 46
+        member_id: 123
+        level_id: 4
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 96
+        plan_status: 1
+        class_member_id: 144
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 1
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 47
+        member_id: 90
+        level_id: 5
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 97
+        plan_status: 1
+        class_member_id: 145
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 47
+        member_id: 124
+        level_id: 5
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 146
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 2
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 47
+        member_id: 125
+        level_id: 5
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 98
+        plan_status: 1
+        class_member_id: 147
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 1
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 48
+        member_id: 105
+        level_id: 6
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 99
+        plan_status: 1
+        class_member_id: 148
+        progression_date: ~
+        active: 1
+        move: 7
+        move_date: "2013-05-26 09:00:00"
+        portal_move: 1
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 48
+        member_id: 127
+        level_id: 6
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 149
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 3
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 49
+        member_id: 135
+        level_id: 7
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 100
+        plan_status: 1
+        class_member_id: 150
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 2
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 12
+        member_id: 70
+        level_id: 4
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 27
+        plan_status: 1
+        class_member_id: 151
+        progression_date: ~
+        active: 0
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 0
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 47
+        member_id: 72
+        level_id: 4
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 11
+        plan_status: 1
+        class_member_id: 152
+        progression_date: ~
+        active: 0
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 0
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 22
+        member_id: 73
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 59
+        plan_status: 1
+        class_member_id: 153
+        progression_date: ~
+        active: 0
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 0
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 22
+        member_id: 75
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 154
+        progression_date: ~
+        active: 0
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 0
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 15
+        member_id: 76
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 60
+        plan_status: 1
+        class_member_id: 155
+        progression_date: ~
+        active: 0
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 0
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 43
+        member_id: 74
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 156
+        progression_date: ~
+        active: 0
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 0
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 30
+        member_id: 81
+        level_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 65
+        plan_status: 1
+        class_member_id: 157
+        progression_date: ~
+        active: 0
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 0
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 23
+        member_id: 83
+        level_id: 1
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 50
+        plan_status: 1
+        class_member_id: 158
+        progression_date: ~
+        active: 0
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 0
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 33
+        member_id: 87
+        level_id: 4
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 2
+        member_membership_id: 70
+        plan_status: 1
+        class_member_id: 159
+        progression_date: ~
+        active: 0
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 0
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 45
+        member_id: 88
+        level_id: 2
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: 1
+        member_membership_id: 95
+        plan_status: 1
+        class_member_id: 160
+        progression_date: ~
+        active: 0
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 0
+        last_receipt_id: 1
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 57
+        member_id: 289
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 0
+        last_assessment: ~
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 161
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 109
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 57
+        member_id: 291
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 162
+        progression_date: ~
+        active: 1
+        move: 2
+        move_date: ~
+        portal_move: 1
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 110
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 58
+        member_id: 295
+        level_id: 2
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 0
+        last_assessment: ~
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 163
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 111
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 58
+        member_id: 297
+        level_id: 2
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 100
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 164
+        progression_date: ~
+        active: 1
+        move: 3
+        move_date: ~
+        portal_move: 1
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 112
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+    -
+        class_id: 99
+        member_id: 5
+        level_id: 10
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 0
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: 2
+        plan_status: 1
+        class_member_id: 165
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 1
+        last_receipt_id: 113
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2015-09-22 12:30:01"
+    -
+        class_id: 99
+        member_id: 233
+        level_id: 10
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 0
+        last_assessment: "2013-01-01 12:32:42"
+        membership_id: ~
+        member_membership_id: 2
+        plan_status: 1
+        class_member_id: 166
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: 1
+        last_receipt_id: 114
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2015-09-22 12:30:01"
+    -
+        class_id: 57
+        member_id: 228
+        level_id: 1
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        assessment: 0
+        last_assessment: ~
+        membership_id: ~
+        member_membership_id: ~
+        plan_status: 1
+        class_member_id: 167
+        progression_date: ~
+        active: 1
+        move: 0
+        move_date: ~
+        portal_move: 0
+        leave_date: ~
+        sessions: ~
+        last_receipt_id: 115
+        last_contact: ~
+        last_contact_payment: ~
+        last_contact_movement: ~
+        edit_date: "2013-01-01 00:00:00"
+
+member_has_memberships:
+    -
+        member_id: 151
+        membership_id: 1
+        member_membership_id: 1
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 2
+        membership_id: 2
+        member_membership_id: 2
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 4
+        membership_id: 2
+        member_membership_id: 4
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 5
+        membership_id: 1
+        member_membership_id: 5
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 7
+        membership_id: 2
+        member_membership_id: 6
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 8
+        membership_id: 1
+        member_membership_id: 7
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 9
+        membership_id: 2
+        member_membership_id: 8
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 188
+        membership_id: 1
+        member_membership_id: 9
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 11
+        membership_id: 2
+        member_membership_id: 10
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 72
+        membership_id: 1
+        member_membership_id: 11
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 14
+        membership_id: 2
+        member_membership_id: 12
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 116
+        membership_id: 1
+        member_membership_id: 13
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 16
+        membership_id: 2
+        member_membership_id: 14
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 17
+        membership_id: 1
+        member_membership_id: 15
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 49
+        membership_id: 2
+        member_membership_id: 16
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 21
+        membership_id: 2
+        member_membership_id: 18
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 22
+        membership_id: 1
+        member_membership_id: 19
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 216
+        membership_id: 2
+        member_membership_id: 20
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 24
+        membership_id: 1
+        member_membership_id: 21
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 25
+        membership_id: 2
+        member_membership_id: 22
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 26
+        membership_id: 1
+        member_membership_id: 23
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 27
+        membership_id: 2
+        member_membership_id: 24
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 29
+        membership_id: 1
+        member_membership_id: 25
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 258
+        membership_id: 2
+        member_membership_id: 26
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 70
+        membership_id: 1
+        member_membership_id: 27
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 244
+        membership_id: 2
+        member_membership_id: 28
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 32
+        membership_id: 1
+        member_membership_id: 29
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 175
+        membership_id: 2
+        member_membership_id: 30
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 34
+        membership_id: 1
+        member_membership_id: 31
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 36
+        membership_id: 2
+        member_membership_id: 32
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 39
+        membership_id: 1
+        member_membership_id: 33
+        state: 1
+        from_date: ~
+        to_date: "2013-01-01"
+    -
+        member_id: 40
+        membership_id: 2
+        member_membership_id: 34
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 41
+        membership_id: 1
+        member_membership_id: 35
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 42
+        membership_id: 2
+        member_membership_id: 36
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 43
+        membership_id: 1
+        member_membership_id: 37
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 44
+        membership_id: 2
+        member_membership_id: 38
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 45
+        membership_id: 1
+        member_membership_id: 39
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 46
+        membership_id: 2
+        member_membership_id: 40
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 172
+        membership_id: 1
+        member_membership_id: 41
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 48
+        membership_id: 2
+        member_membership_id: 42
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 126
+        membership_id: 1
+        member_membership_id: 43
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 59
+        membership_id: 2
+        member_membership_id: 44
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 52
+        membership_id: 1
+        member_membership_id: 45
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 54
+        membership_id: 2
+        member_membership_id: 46
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 55
+        membership_id: 1
+        member_membership_id: 47
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 203
+        membership_id: 2
+        member_membership_id: 48
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 57
+        membership_id: 1
+        member_membership_id: 49
+        state: 1
+        from_date: ~
+        to_date: "2013-01-01"
+    -
+        member_id: 83
+        membership_id: 2
+        member_membership_id: 50
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 62
+        membership_id: 1
+        member_membership_id: 51
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 96
+        membership_id: 2
+        member_membership_id: 52
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 65
+        membership_id: 1
+        member_membership_id: 53
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 169
+        membership_id: 2
+        member_membership_id: 54
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 66
+        membership_id: 1
+        member_membership_id: 55
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 67
+        membership_id: 2
+        member_membership_id: 56
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 68
+        membership_id: 1
+        member_membership_id: 57
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 69
+        membership_id: 2
+        member_membership_id: 58
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 73
+        membership_id: 1
+        member_membership_id: 59
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 76
+        membership_id: 2
+        member_membership_id: 60
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 77
+        membership_id: 1
+        member_membership_id: 61
+        state: 1
+        from_date: ~
+        to_date: "2013-01-01"
+    -
+        member_id: 78
+        membership_id: 2
+        member_membership_id: 62
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 79
+        membership_id: 1
+        member_membership_id: 63
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 80
+        membership_id: 2
+        member_membership_id: 64
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 81
+        membership_id: 1
+        member_membership_id: 65
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 82
+        membership_id: 2
+        member_membership_id: 66
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 84
+        membership_id: 1
+        member_membership_id: 67
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 85
+        membership_id: 2
+        member_membership_id: 68
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 224
+        membership_id: 1
+        member_membership_id: 69
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 87
+        membership_id: 2
+        member_membership_id: 70
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 91
+        membership_id: 1
+        member_membership_id: 71
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 92
+        membership_id: 2
+        member_membership_id: 72
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 93
+        membership_id: 1
+        member_membership_id: 73
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 240
+        membership_id: 2
+        member_membership_id: 74
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 97
+        membership_id: 1
+        member_membership_id: 75
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 99
+        membership_id: 2
+        member_membership_id: 76
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 100
+        membership_id: 1
+        member_membership_id: 77
+        state: 1
+        from_date: ~
+        to_date: "2013-01-01"
+    -
+        member_id: 101
+        membership_id: 2
+        member_membership_id: 78
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 102
+        membership_id: 1
+        member_membership_id: 79
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 103
+        membership_id: 2
+        member_membership_id: 80
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 28
+        membership_id: 1
+        member_membership_id: 81
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 166
+        membership_id: 2
+        member_membership_id: 82
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 106
+        membership_id: 1
+        member_membership_id: 83
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 64
+        membership_id: 2
+        member_membership_id: 84
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 108
+        membership_id: 1
+        member_membership_id: 85
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 264
+        membership_id: 2
+        member_membership_id: 86
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 110
+        membership_id: 1
+        member_membership_id: 87
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 112
+        membership_id: 2
+        member_membership_id: 88
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 113
+        membership_id: 1
+        member_membership_id: 89
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 114
+        membership_id: 2
+        member_membership_id: 90
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 117
+        membership_id: 1
+        member_membership_id: 91
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 119
+        membership_id: 2
+        member_membership_id: 92
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 265
+        membership_id: 1
+        member_membership_id: 93
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 121
+        membership_id: 2
+        member_membership_id: 94
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 88
+        membership_id: 1
+        member_membership_id: 95
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 123
+        membership_id: 2
+        member_membership_id: 96
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 90
+        membership_id: 1
+        member_membership_id: 97
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 125
+        membership_id: 2
+        member_membership_id: 98
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 105
+        membership_id: 1
+        member_membership_id: 99
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 135
+        membership_id: 2
+        member_membership_id: 100
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 195
+        membership_id: 1
+        member_membership_id: 101
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 196
+        membership_id: 1
+        member_membership_id: 102
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 197
+        membership_id: 1
+        member_membership_id: 103
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 198
+        membership_id: 1
+        member_membership_id: 104
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 199
+        membership_id: 1
+        member_membership_id: 105
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 200
+        membership_id: 1
+        member_membership_id: 106
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 201
+        membership_id: 1
+        member_membership_id: 107
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 202
+        membership_id: 1
+        member_membership_id: 108
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 204
+        membership_id: 1
+        member_membership_id: 109
+        state: 1
+        from_date: ~
+        to_date: ~
+    -
+        member_id: 205
+        membership_id: 1
+        member_membership_id: 110
+        state: 1
+        from_date: ~
+        to_date: ~
+
+class_member_movements:
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 1
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-26 03:00:00"
+        movement_date: "2013-05-26 09:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 6
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 5
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 4
+        date: "2013-03-17 03:30:00"
+        movement_date: "2013-03-17 09:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 8
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 11
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 8
+        date: "2013-03-10 04:00:00"
+        movement_date: "2013-03-10 10:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 3
+        staff_id: 8
+        portal: 0
+    -
+        type: 6
+        relevant: 1
+        class_member_id: 12
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: ~
+        date: "2013-01-01 00:00:00"
+        movement_date: "2013-01-01 00:00:00"
+        email_date: "2013-01-01 00:00:00"
+        from_class_member_id: ~
+        from_level_id: ~
+        to_level_id: ~
+        staff_id: 6
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 13
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 9
+        date: "2013-05-26 04:30:00"
+        movement_date: "2013-05-26 10:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 4
+        staff_id: 8
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 14
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 10
+        date: "2013-03-10 05:00:00"
+        movement_date: "2013-03-10 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 5
+        staff_id: 2
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 16
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 11
+        date: "2013-05-26 05:30:00"
+        movement_date: "2013-05-26 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 6
+        staff_id: 6
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 19
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 13
+        date: "2013-05-26 06:00:00"
+        movement_date: "2013-05-26 12:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 7
+        staff_id: 9
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 24
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 17
+        date: "2013-05-27 03:00:00"
+        movement_date: "2013-05-27 09:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 3
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 30
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 21
+        date: "2013-05-27 03:30:00"
+        movement_date: "2013-05-27 09:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 2
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 32
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 22
+        date: "2013-05-27 04:00:00"
+        movement_date: "2013-05-27 10:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 3
+        staff_id: 9
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 35
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 24
+        date: "2013-05-27 04:30:00"
+        movement_date: "2013-05-27 10:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 4
+        staff_id: 2
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 39
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 27
+        date: "2013-05-27 05:00:00"
+        movement_date: "2013-05-27 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 5
+        staff_id: 4
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 40
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 27
+        date: "2013-05-27 05:30:00"
+        movement_date: "2013-05-27 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 6
+        staff_id: 8
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 42
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 29
+        date: "2013-05-27 06:00:00"
+        movement_date: "2013-05-27 12:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 7
+        staff_id: 2
+        portal: 0
+    -
+        type: 6
+        relevant: 1
+        class_member_id: 43
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: ~
+        date: "2013-01-01 00:00:00"
+        movement_date: "2013-01-01 00:00:00"
+        email_date: "2013-01-01 00:00:00"
+        from_class_member_id: ~
+        from_level_id: ~
+        to_level_id: ~
+        staff_id: 3
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 45
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 31
+        date: "2013-05-28 03:00:00"
+        movement_date: "2013-05-28 09:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 7
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 50
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 34
+        date: "2013-05-28 03:30:00"
+        movement_date: "2013-05-28 09:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 6
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 53
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 36
+        date: "2013-05-28 04:00:00"
+        movement_date: "2013-05-28 10:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 3
+        staff_id: 4
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 56
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 38
+        date: "2013-05-28 04:30:00"
+        movement_date: "2013-05-28 10:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 4
+        staff_id: 6
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 59
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 40
+        date: "2013-05-28 05:00:00"
+        movement_date: "2013-05-28 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 5
+        staff_id: 2
+        portal: 0
+    -
+        type: 6
+        relevant: 1
+        class_member_id: 59
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: ~
+        date: "2013-01-01 00:00:00"
+        movement_date: "2013-01-01 00:00:00"
+        email_date: "2013-01-01 00:00:00"
+        from_class_member_id: ~
+        from_level_id: ~
+        to_level_id: ~
+        staff_id: 2
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 61
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 41
+        date: "2013-05-28 05:30:00"
+        movement_date: "2013-05-28 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 6
+        staff_id: 4
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 64
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 43
+        date: "2013-05-28 06:00:00"
+        movement_date: "2013-05-28 12:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 7
+        staff_id: 2
+        portal: 0
+    -
+        type: 6
+        relevant: 1
+        class_member_id: 65
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: ~
+        date: "2013-01-01 00:00:00"
+        movement_date: "2013-01-01 00:00:00"
+        email_date: "2013-01-01 00:00:00"
+        from_class_member_id: ~
+        from_level_id: ~
+        to_level_id: ~
+        staff_id: 3
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 66
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 45
+        date: "2013-05-29 03:00:00"
+        movement_date: "2013-05-29 09:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 5
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 72
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 49
+        date: "2013-05-29 03:30:00"
+        movement_date: "2013-05-29 09:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 8
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 75
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 51
+        date: "2013-05-29 04:00:00"
+        movement_date: "2013-05-29 10:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 3
+        staff_id: 7
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 78
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 53
+        date: "2013-05-29 04:30:00"
+        movement_date: "2013-05-29 10:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 4
+        staff_id: 6
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 80
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 54
+        date: "2013-05-29 05:00:00"
+        movement_date: "2013-05-29 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 5
+        staff_id: 7
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 81
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 55
+        date: "2013-05-29 05:30:00"
+        movement_date: "2013-05-29 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 6
+        staff_id: 6
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 83
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 56
+        date: "2013-05-29 06:00:00"
+        movement_date: "2013-05-29 12:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 7
+        staff_id: 3
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 86
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 58
+        date: "2013-05-30 03:00:00"
+        movement_date: "2013-05-30 09:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 7
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 92
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 62
+        date: "2013-05-30 03:30:00"
+        movement_date: "2013-05-30 09:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 8
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 95
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 64
+        date: "2013-05-30 04:00:00"
+        movement_date: "2013-05-30 10:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 3
+        staff_id: 5
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 98
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 66
+        date: "2013-05-30 04:30:00"
+        movement_date: "2013-05-30 10:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 4
+        staff_id: 3
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 101
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 68
+        date: "2013-05-30 05:00:00"
+        movement_date: "2013-05-30 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 5
+        staff_id: 6
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 103
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 69
+        date: "2013-05-30 05:30:00"
+        movement_date: "2013-05-30 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 6
+        staff_id: 7
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 106
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 71
+        date: "2013-05-30 06:00:00"
+        movement_date: "2013-05-30 12:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 7
+        staff_id: 5
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 111
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 75
+        date: "2013-05-31 03:00:00"
+        movement_date: "2013-05-31 09:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 7
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 116
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 78
+        date: "2013-05-31 03:30:00"
+        movement_date: "2013-05-31 09:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 6
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 119
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 80
+        date: "2013-05-31 04:00:00"
+        movement_date: "2013-05-31 10:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 3
+        staff_id: 4
+        portal: 0
+    -
+        type: 6
+        relevant: 1
+        class_member_id: 120
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: ~
+        date: "2013-01-01 00:00:00"
+        movement_date: "2013-01-01 00:00:00"
+        email_date: "2013-01-01 00:00:00"
+        from_class_member_id: ~
+        from_level_id: ~
+        to_level_id: ~
+        staff_id: 8
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 121
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 81
+        date: "2013-05-31 04:30:00"
+        movement_date: "2013-05-31 10:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 4
+        staff_id: 9
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 123
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 83
+        date: "2013-05-31 05:00:00"
+        movement_date: "2013-05-31 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 5
+        staff_id: 4
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 126
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 85
+        date: "2013-05-31 05:30:00"
+        movement_date: "2013-05-31 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 6
+        staff_id: 6
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 129
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 87
+        date: "2013-05-31 06:00:00"
+        movement_date: "2013-05-31 12:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 7
+        staff_id: 4
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 131
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 88
+        date: "2013-06-01 03:00:00"
+        movement_date: "2013-06-01 09:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 9
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 134
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 90
+        date: "2013-06-01 03:30:00"
+        movement_date: "2013-06-01 09:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 9
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 139
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 93
+        date: "2013-06-01 04:00:00"
+        movement_date: "2013-06-01 10:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 3
+        staff_id: 4
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 142
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 95
+        date: "2013-06-01 04:30:00"
+        movement_date: "2013-06-01 10:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 4
+        staff_id: 5
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 145
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 97
+        date: "2013-06-01 05:00:00"
+        movement_date: "2013-06-01 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 5
+        staff_id: 7
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 148
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 99
+        date: "2013-06-01 05:30:00"
+        movement_date: "2013-06-01 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 6
+        staff_id: 9
+        portal: 0
+    -
+        type: 6
+        relevant: 1
+        class_member_id: 148
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: ~
+        date: "2013-01-01 00:00:00"
+        movement_date: "2013-01-01 00:00:00"
+        email_date: "2013-01-01 00:00:00"
+        from_class_member_id: ~
+        from_level_id: ~
+        to_level_id: ~
+        staff_id: 4
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 150
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 101
+        date: "2013-03-09 06:00:00"
+        movement_date: "2013-03-09 12:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 7
+        staff_id: 6
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 151
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-03-16 10:12:25"
+        movement_date: "2013-03-18 10:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 4
+        staff_id: 4
+        portal: 0
+    -
+        type: 2
+        relevant: 1
+        class_member_id: 40
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-04 10:28:04"
+        movement_date: "2013-05-06 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 151
+        from_level_id: ~
+        to_level_id: 6
+        staff_id: 7
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 152
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-03-18 11:38:07"
+        movement_date: "2013-03-23 12:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 4
+        staff_id: 6
+        portal: 0
+    -
+        type: 2
+        relevant: 1
+        class_member_id: 16
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-02 11:04:03"
+        movement_date: "2013-05-05 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 152
+        from_level_id: ~
+        to_level_id: 6
+        staff_id: 5
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 153
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-03-15 11:10:41"
+        movement_date: "2013-03-20 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 5
+        portal: 0
+    -
+        type: 2
+        relevant: 1
+        class_member_id: 88
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-05 10:26:40"
+        movement_date: "2013-05-09 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 153
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 8
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 154
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-03-17 11:00:11"
+        movement_date: "2013-03-20 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 9
+        portal: 0
+    -
+        type: 2
+        relevant: 1
+        class_member_id: 89
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-05 10:39:13"
+        movement_date: "2013-05-09 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 154
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 7
+        portal: 0
+    -
+        type: 4
+        relevant: 1
+        class_member_id: 89
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-12 11:27:21"
+        movement_date: "2013-05-09 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: ~
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 5
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 155
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-03-17 11:27:23"
+        movement_date: "2013-03-19 12:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 9
+        portal: 0
+    -
+        type: 2
+        relevant: 1
+        class_member_id: 90
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-04 10:38:44"
+        movement_date: "2013-05-09 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 155
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 9
+        portal: 0
+    -
+        type: 4
+        relevant: 1
+        class_member_id: 90
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-12 11:19:38"
+        movement_date: "2013-05-09 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: ~
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 8
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 156
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-03-22 09:32:48"
+        movement_date: "2013-03-23 10:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 3
+        portal: 0
+    -
+        type: 2
+        relevant: 1
+        class_member_id: 134
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-08 10:13:10"
+        movement_date: "2013-05-11 10:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 156
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 9
+        portal: 0
+    -
+        type: 4
+        relevant: 1
+        class_member_id: 134
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-14 11:00:17"
+        movement_date: "2013-05-11 10:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: ~
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 9
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 157
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-03-18 10:59:09"
+        movement_date: "2013-03-21 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 9
+        portal: 0
+    -
+        type: 2
+        relevant: 1
+        class_member_id: 97
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-06 11:42:06"
+        movement_date: "2013-05-09 12:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 157
+        from_level_id: ~
+        to_level_id: 3
+        staff_id: 8
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 158
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-03-15 11:27:50"
+        movement_date: "2013-03-20 12:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 1
+        staff_id: 8
+        portal: 0
+    -
+        type: 2
+        relevant: 1
+        class_member_id: 75
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-03 12:42:44"
+        movement_date: "2013-05-08 13:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 158
+        from_level_id: ~
+        to_level_id: 3
+        staff_id: 8
+        portal: 0
+    -
+        type: 4
+        relevant: 1
+        class_member_id: 75
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-12 13:27:09"
+        movement_date: "2013-05-08 13:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: ~
+        from_level_id: ~
+        to_level_id: 3
+        staff_id: 5
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 159
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-03-19 08:38:08"
+        movement_date: "2013-03-21 09:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 4
+        staff_id: 5
+        portal: 0
+    -
+        type: 2
+        relevant: 1
+        class_member_id: 105
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-04 08:58:49"
+        movement_date: "2013-05-09 09:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 159
+        from_level_id: ~
+        to_level_id: 6
+        staff_id: 2
+        portal: 0
+    -
+        type: 4
+        relevant: 1
+        class_member_id: 105
+        plan_id: 3
+        option_id: 3
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-13 09:52:38"
+        movement_date: "2013-05-09 09:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: ~
+        from_level_id: ~
+        to_level_id: 6
+        staff_id: 2
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 160
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-03-18 10:39:31"
+        movement_date: "2013-03-23 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 3
+        portal: 0
+    -
+        type: 2
+        relevant: 1
+        class_member_id: 142
+        plan_id: 1
+        option_id: 1
+        discount_id: 0
+        receipt_id: 1
+        date: "2013-05-07 11:00:20"
+        movement_date: "2013-05-11 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 160
+        from_level_id: ~
+        to_level_id: 4
+        staff_id: 8
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 161
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 109
+        date: "2013-03-18 10:39:31"
+        movement_date: "2013-05-13 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 3
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 162
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 110
+        date: "2013-03-18 10:39:31"
+        movement_date: "2013-05-13 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 3
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 163
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 111
+        date: "2013-03-18 10:39:31"
+        movement_date: "2013-05-13 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 3
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 164
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 112
+        date: "2013-03-18 10:39:31"
+        movement_date: "2013-05-13 11:30:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 3
+        portal: 0
+    -
+        type: 1
+        relevant: 1
+        class_member_id: 167
+        plan_id: 2
+        option_id: 2
+        discount_id: 0
+        receipt_id: 115
+        date: "2013-03-18 10:39:31"
+        movement_date: "2013-05-13 11:00:00"
+        email_date: "2013-05-26 12:34:56"
+        from_class_member_id: 0
+        from_level_id: ~
+        to_level_id: 2
+        staff_id: 3
+        portal: 0
+
+member_connections:
+    -
+        from_member: 70
+        to_member: 298
+        type: 5
+        position: 1
+    -
+        from_member: 298
+        to_member: 70
+        type: 5
+        position: 1
+    -
+        from_member: 72
+        to_member: 297
+        type: 5
+        position: 1
+    -
+        from_member: 297
+        to_member: 72
+        type: 5
+        position: 1
+    -
+        from_member: 73
+        to_member: 296
+        type: 5
+        position: 1
+    -
+        from_member: 296
+        to_member: 73
+        type: 5
+        position: 1
+    -
+        from_member: 75
+        to_member: 295
+        type: 5
+        position: 1
+    -
+        from_member: 295
+        to_member: 75
+        type: 5
+        position: 1
+    -
+        from_member: 76
+        to_member: 294
+        type: 5
+        position: 1
+    -
+        from_member: 294
+        to_member: 76
+        type: 5
+        position: 1
+    -
+        from_member: 74
+        to_member: 293
+        type: 5
+        position: 1
+    -
+        from_member: 293
+        to_member: 74
+        type: 5
+        position: 1
+    -
+        from_member: 81
+        to_member: 292
+        type: 5
+        position: 1
+    -
+        from_member: 292
+        to_member: 81
+        type: 5
+        position: 1
+    -
+        from_member: 83
+        to_member: 291
+        type: 5
+        position: 1
+    -
+        from_member: 291
+        to_member: 83
+        type: 5
+        position: 1
+    -
+        from_member: 87
+        to_member: 289
+        type: 5
+        position: 1
+    -
+        from_member: 289
+        to_member: 87
+        type: 5
+        position: 1
+    -
+        from_member: 88
+        to_member: 288
+        type: 5
+        position: 1
+    -
+        from_member: 288
+        to_member: 88
+        type: 5
+        position: 1
+
+contact_trigger_log:
+    -
+        class_member_id: 89
+        method_id: 1
+        type_id: 1
+        date: "2013-05-10 11:20:00"
+        variable: 3
+        contact: "test@example.com"
+        status: 1
+    -
+        class_member_id: 90
+        method_id: 1
+        type_id: 1
+        date: "2013-05-10 11:33:05"
+        variable: 3
+        contact: "test@example.com"
+        status: 1
+    -
+        class_member_id: 134
+        method_id: 1
+        type_id: 1
+        date: "2013-05-12 10:53:59"
+        variable: 3
+        contact: "test@example.com"
+        status: 1
+    -
+        class_member_id: 75
+        method_id: 1
+        type_id: 1
+        date: "2013-05-09 13:19:30"
+        variable: 3
+        contact: "test@example.com"
+        status: 1
+    -
+        class_member_id: 105
+        method_id: 1
+        type_id: 1
+        date: "2013-05-10 09:58:59"
+        variable: 3
+        contact: "test@example.com"
+        status: 1
+
+class_has_members_contact:
+    -
+        class_member_id: 151
+        type: 3
+        contact_date: "2013-04-28 10:32:06"
+        staff_id: 2
+    -
+        class_member_id: 152
+        type: 3
+        contact_date: "2013-04-28 11:03:06"
+        staff_id: 8
+    -
+        class_member_id: 153
+        type: 3
+        contact_date: "2013-05-02 10:36:18"
+        staff_id: 3
+    -
+        class_member_id: 154
+        type: 3
+        contact_date: "2013-04-29 10:29:15"
+        staff_id: 8
+    -
+        class_member_id: 89
+        type: 2
+        contact_date: "2013-05-11 11:23:15"
+        staff_id: 5
+    -
+        class_member_id: 155
+        type: 3
+        contact_date: "2013-04-29 10:42:31"
+        staff_id: 7
+    -
+        class_member_id: 90
+        type: 2
+        contact_date: "2013-05-11 11:19:01"
+        staff_id: 4
+    -
+        class_member_id: 156
+        type: 3
+        contact_date: "2013-05-03 09:59:22"
+        staff_id: 8
+    -
+        class_member_id: 134
+        type: 2
+        contact_date: "2013-05-13 10:53:58"
+        staff_id: 7
+    -
+        class_member_id: 157
+        type: 3
+        contact_date: "2013-05-01 11:35:19"
+        staff_id: 2
+    -
+        class_member_id: 158
+        type: 3
+        contact_date: "2013-04-30 12:35:45"
+        staff_id: 7
+    -
+        class_member_id: 75
+        type: 2
+        contact_date: "2013-05-10 13:32:59"
+        staff_id: 9
+    -
+        class_member_id: 159
+        type: 3
+        contact_date: "2013-04-29 09:01:02"
+        staff_id: 5
+    -
+        class_member_id: 105
+        type: 2
+        contact_date: "2013-05-11 09:52:20"
+        staff_id: 2
+    -
+        class_member_id: 160
+        type: 3
+        contact_date: "2013-05-05 11:05:38"
+        staff_id: 8

@@ -1,0 +1,41 @@
+course_grades:
+    -
+        grade_id: 1
+        name: "Standard"
+        state: 1
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+
+course_grade_grades:
+    -
+        grade_id: 1
+        grade_grade_id: 1
+        name: "Needs Practise"
+        order: 1
+        short_name: "NP"
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        grade_id: 1
+        grade_grade_id: 2
+        name: "Fair"
+        order: 2
+        short_name: "Fair"
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        grade_id: 1
+        grade_grade_id: 3
+        name: "Good"
+        order: 3
+        short_name: "Good"
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        grade_id: 1
+        grade_grade_id: 4
+        name: "Pass"
+        order: 4
+        short_name: "Pass"
+        edit_date: "2012-01-01 00:00:00"
+        edit_staff_id: 1

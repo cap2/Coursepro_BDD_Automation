@@ -1,0 +1,1601 @@
+members:
+    -
+        member_id: 101
+        card_id: 10000101
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Jazlyn"
+        last_name: "Burns"
+        address_1: "24, New Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 7RQ"
+        home_centre: 1
+        preferred_email_address: 101
+        contact_mobile_id: 202
+        contact_home_id: 201
+        contact_work_id: ~
+        collection_password: "secret"
+        medical_details: "Asthma"
+        payment_member_id: ~
+        date_of_birth: "1980-04-01"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":117,\"class\":\"Stage 2\",\"time\":\"Friday 09:30\",\"sessions\":10,\"level\":\"Stage 2\",\"level_id\":2,\"class_id\":37,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":3,\"membership_id\":2,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"Concession Membership\",\"member_id\":101,\"membership_id\":2,\"member_membership_id\":78,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ten Weeks Concession\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 102
+        card_id: 10000102
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Dulce"
+        last_name: "Berry"
+        address_1: "114, The Drive"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 8GX"
+        home_centre: 1
+        preferred_email_address: 102
+        contact_mobile_id: 204
+        contact_home_id: 203
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: "Scared of heights (no diving!)"
+        payment_member_id: ~
+        date_of_birth: "1992-02-01"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":118,\"class\":\"Stage 2\",\"time\":\"Friday 09:30\",\"sessions\":\"&infin;\",\"level\":\"Stage 2\",\"level_id\":2,\"class_id\":37,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":1,\"membership_id\":1,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"DD Membership\",\"member_id\":102,\"membership_id\":1,\"member_membership_id\":79,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ongoing Direct Debit\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 103
+        card_id: 10000103
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Bailey"
+        last_name: "Douglas"
+        address_1: "91, The Grove"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 6NW"
+        home_centre: 1
+        preferred_email_address: 103
+        contact_mobile_id: 206
+        contact_home_id: 205
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: "Allergic to chlorine"
+        payment_member_id: ~
+        date_of_birth: "1981-05-24"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":120,\"class\":\"Stage 3\",\"time\":\"Friday 10:00\",\"sessions\":10,\"level\":\"Stage 3\",\"level_id\":3,\"class_id\":38,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":3,\"membership_id\":2,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"Concession Membership\",\"member_id\":103,\"membership_id\":2,\"member_membership_id\":80,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ten Weeks Concession\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 104
+        card_id: 10000104
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Joanna"
+        last_name: "Vargas"
+        address_1: "19, The Avenue"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 7RG"
+        home_centre: 1
+        preferred_email_address: 104
+        contact_mobile_id: 208
+        contact_home_id: 207
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: "Afraid of water"
+        payment_member_id: ~
+        date_of_birth: "1993-04-20"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":122,\"class\":\"Stage 4\",\"time\":\"Friday 10:30\",\"sessions\":10,\"level\":\"Stage 4\",\"level_id\":4,\"class_id\":39,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":2,\"membership_id\":null,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":null,\"plan\":{\"name\":\"Ten Weeks\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 105
+        card_id: 10000105
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Annabel"
+        last_name: "Goodman"
+        address_1: "80, West Street"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 6SE"
+        home_centre: 1
+        preferred_email_address: 105
+        contact_mobile_id: 210
+        contact_home_id: 209
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1998-04-30"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":148,\"class\":\"Stage 6\",\"time\":\"Saturday 11:30\",\"sessions\":\"&infin;\",\"level\":\"Stage 6\",\"level_id\":6,\"class_id\":48,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":1,\"membership_id\":1,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"DD Membership\",\"member_id\":105,\"membership_id\":1,\"member_membership_id\":99,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ongoing Direct Debit\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 106
+        card_id: 10000106
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Eden"
+        last_name: "Craig"
+        address_1: "95, Park Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 4JU"
+        home_centre: 1
+        preferred_email_address: 106
+        contact_mobile_id: 212
+        contact_home_id: 211
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: "Asthma"
+        payment_member_id: ~
+        date_of_birth: "1972-09-13"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":124,\"class\":\"Stage 5\",\"time\":\"Friday 11:00\",\"sessions\":\"&infin;\",\"level\":\"Stage 5\",\"level_id\":5,\"class_id\":40,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":1,\"membership_id\":1,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"DD Membership\",\"member_id\":106,\"membership_id\":1,\"member_membership_id\":83,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ongoing Direct Debit\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 107
+        card_id: 10000107
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Arlene"
+        last_name: "Jacobs"
+        address_1: "185, North Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 6TB"
+        home_centre: 1
+        preferred_email_address: 107
+        contact_mobile_id: 214
+        contact_home_id: 213
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1980-07-10"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":125,\"class\":\"Stage 5\",\"time\":\"Friday 11:00\",\"sessions\":10,\"level\":\"Stage 5\",\"level_id\":5,\"class_id\":40,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":2,\"membership_id\":null,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":null,\"plan\":{\"name\":\"Ten Weeks\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 108
+        card_id: 10000108
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Martha"
+        last_name: "Hernandez"
+        address_1: "85, Springfield Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 5PS"
+        home_centre: 1
+        preferred_email_address: 108
+        contact_mobile_id: 216
+        contact_home_id: 215
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: "Eczema"
+        payment_member_id: ~
+        date_of_birth: "1991-09-05"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":127,\"class\":\"Stage 6\",\"time\":\"Friday 11:30\",\"sessions\":\"&infin;\",\"level\":\"Stage 6\",\"level_id\":6,\"class_id\":41,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":1,\"membership_id\":1,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"DD Membership\",\"member_id\":108,\"membership_id\":1,\"member_membership_id\":85,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ongoing Direct Debit\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 109
+        card_id: 10000109
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Makenna"
+        last_name: "Malone"
+        address_1: "61, Church Street"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 5JG"
+        home_centre: 1
+        preferred_email_address: 109
+        contact_mobile_id: 218
+        contact_home_id: 217
+        contact_work_id: ~
+        collection_password: "secret"
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1982-05-28"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":128,\"class\":\"Stage 6\",\"time\":\"Friday 11:30\",\"sessions\":10,\"level\":\"Stage 6\",\"level_id\":6,\"class_id\":41,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":2,\"membership_id\":null,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":null,\"plan\":{\"name\":\"Ten Weeks\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 110
+        card_id: 10000110
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Haley"
+        last_name: "Gibbs"
+        address_1: "198, Chester Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 3QS"
+        home_centre: 1
+        preferred_email_address: 110
+        contact_mobile_id: 220
+        contact_home_id: 219
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: "Diabetic"
+        payment_member_id: ~
+        date_of_birth: "2003-09-05"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":130,\"class\":\"Stage 7-10\",\"time\":\"Friday 12:00\",\"sessions\":\"&infin;\",\"level\":\"Stage 7\",\"level_id\":7,\"class_id\":42,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":1,\"membership_id\":1,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"DD Membership\",\"member_id\":110,\"membership_id\":1,\"member_membership_id\":87,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ongoing Direct Debit\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 111
+        card_id: 10000111
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Aleah"
+        last_name: "Webb"
+        address_1: "42, Broadway"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 3NF"
+        home_centre: 1
+        preferred_email_address: 111
+        contact_mobile_id: 222
+        contact_home_id: 221
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1986-11-14"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":56,\"class\":\"Stage 4\",\"time\":\"Tuesday 10:30\",\"sessions\":9,\"level\":\"Stage 4\",\"level_id\":4,\"class_id\":18,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":2,\"membership_id\":null,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":null,\"plan\":{\"name\":\"Ten Weeks\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 112
+        card_id: 10000112
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Kiara"
+        last_name: "Wells"
+        address_1: "150, West Street"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 6SE"
+        home_centre: 1
+        preferred_email_address: 112
+        contact_mobile_id: 224
+        contact_home_id: 223
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: "Claustrophobic"
+        payment_member_id: ~
+        date_of_birth: "1976-06-19"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":132,\"class\":\"Stage 1\",\"time\":\"Saturday 09:00\",\"sessions\":10,\"level\":\"Stage 1\",\"level_id\":1,\"class_id\":43,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":3,\"membership_id\":2,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"Concession Membership\",\"member_id\":112,\"membership_id\":2,\"member_membership_id\":88,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ten Weeks Concession\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 113
+        card_id: 10000113
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Jaime"
+        last_name: "Clayton"
+        address_1: "44, The Avenue"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 7RG"
+        home_centre: 1
+        preferred_email_address: 113
+        contact_mobile_id: 226
+        contact_home_id: 225
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "2008-11-03"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":133,\"class\":\"Stage 1\",\"time\":\"Saturday 09:00\",\"sessions\":\"&infin;\",\"level\":\"Stage 1\",\"level_id\":1,\"class_id\":43,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":1,\"membership_id\":1,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"DD Membership\",\"member_id\":113,\"membership_id\":1,\"member_membership_id\":89,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ongoing Direct Debit\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 114
+        card_id: 10000114
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Katelin"
+        last_name: "Luna"
+        address_1: "189, Stanley Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 3BS"
+        home_centre: 1
+        preferred_email_address: 114
+        contact_mobile_id: 228
+        contact_home_id: 227
+        contact_work_id: ~
+        collection_password: "secret"
+        medical_details: "Asthma"
+        payment_member_id: ~
+        date_of_birth: "1987-05-15"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":135,\"class\":\"Stage 2\",\"time\":\"Saturday 09:30\",\"sessions\":10,\"level\":\"Stage 2\",\"level_id\":2,\"class_id\":44,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":3,\"membership_id\":2,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"Concession Membership\",\"member_id\":114,\"membership_id\":2,\"member_membership_id\":90,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ten Weeks Concession\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 115
+        card_id: 10000115
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Angela"
+        last_name: "Terry"
+        address_1: "54, Victoria Street"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 7UG"
+        home_centre: 1
+        preferred_email_address: 115
+        contact_mobile_id: 230
+        contact_home_id: 229
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "2004-01-26"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":131,\"class\":\"Stage 1\",\"time\":\"Saturday 09:00\",\"sessions\":10,\"level\":\"Stage 1\",\"level_id\":1,\"class_id\":43,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":2,\"membership_id\":null,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":null,\"plan\":{\"name\":\"Ten Weeks\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 116
+        card_id: 10000116
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Addison"
+        last_name: "Myers"
+        address_1: "194, York Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 5PU"
+        home_centre: 1
+        preferred_email_address: 116
+        contact_mobile_id: 232
+        contact_home_id: 231
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1993-02-16"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":19,\"class\":\"Stage 7-10\",\"time\":\"Sunday 12:00\",\"sessions\":\"&infin;\",\"level\":\"Stage 7\",\"level_id\":7,\"class_id\":7,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":1,\"membership_id\":1,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"DD Membership\",\"member_id\":116,\"membership_id\":1,\"member_membership_id\":13,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ongoing Direct Debit\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 117
+        card_id: 10000117
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Katerina"
+        last_name: "Shaw"
+        address_1: "33, Chester Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 3QS"
+        home_centre: 1
+        preferred_email_address: 117
+        contact_mobile_id: 234
+        contact_home_id: 233
+        contact_work_id: ~
+        collection_password: "secret"
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1999-07-06"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":136,\"class\":\"Stage 2\",\"time\":\"Saturday 09:30\",\"sessions\":\"&infin;\",\"level\":\"Stage 2\",\"level_id\":2,\"class_id\":44,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":1,\"membership_id\":1,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"DD Membership\",\"member_id\":117,\"membership_id\":1,\"member_membership_id\":91,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ongoing Direct Debit\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 118
+        card_id: 10000118
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Ciera"
+        last_name: "Kelley"
+        address_1: "128, Queen Street"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 4TY"
+        home_centre: 1
+        preferred_email_address: 118
+        contact_mobile_id: 236
+        contact_home_id: 235
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1999-01-28"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":137,\"class\":\"Stage 2\",\"time\":\"Saturday 09:30\",\"sessions\":10,\"level\":\"Stage 2\",\"level_id\":2,\"class_id\":44,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":2,\"membership_id\":null,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":null,\"plan\":{\"name\":\"Ten Weeks\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 119
+        card_id: 10000119
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Justine"
+        last_name: "Ford"
+        address_1: "8, Victoria Street"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 7UG"
+        home_centre: 1
+        preferred_email_address: 119
+        contact_mobile_id: 238
+        contact_home_id: 237
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1996-05-13"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":138,\"class\":\"Stage 2\",\"time\":\"Saturday 09:30\",\"sessions\":10,\"level\":\"Stage 2\",\"level_id\":2,\"class_id\":44,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":3,\"membership_id\":2,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"Concession Membership\",\"member_id\":119,\"membership_id\":2,\"member_membership_id\":92,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ten Weeks Concession\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 120
+        card_id: 10000120
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Mackenzie"
+        last_name: "Guerrero"
+        address_1: "89, Main Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 1XZ"
+        home_centre: 1
+        preferred_email_address: 120
+        contact_mobile_id: 240
+        contact_home_id: 239
+        contact_work_id: ~
+        collection_password: "secret"
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1981-04-02"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":140,\"class\":\"Stage 3\",\"time\":\"Saturday 10:00\",\"sessions\":10,\"level\":\"Stage 3\",\"level_id\":3,\"class_id\":45,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":2,\"membership_id\":null,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":null,\"plan\":{\"name\":\"Ten Weeks\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 121
+        card_id: 10000121
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Ivy"
+        last_name: "Martin"
+        address_1: "119, Stanley Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 3BS"
+        home_centre: 1
+        preferred_email_address: 121
+        contact_mobile_id: 242
+        contact_home_id: 241
+        contact_work_id: ~
+        collection_password: "secret"
+        medical_details: "Asthmatic"
+        payment_member_id: ~
+        date_of_birth: "1977-09-01"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":141,\"class\":\"Stage 3\",\"time\":\"Saturday 10:00\",\"sessions\":10,\"level\":\"Stage 3\",\"level_id\":3,\"class_id\":45,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":3,\"membership_id\":2,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"Concession Membership\",\"member_id\":121,\"membership_id\":2,\"member_membership_id\":94,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ten Weeks Concession\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 122
+        card_id: 10000122
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Dayana"
+        last_name: "Goodman"
+        address_1: "16, Manor Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 7JN"
+        home_centre: 1
+        preferred_email_address: 122
+        contact_mobile_id: 244
+        contact_home_id: 243
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: "Allergic to nuts"
+        payment_member_id: ~
+        date_of_birth: "1985-10-18"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":143,\"class\":\"Stage 4\",\"time\":\"Saturday 10:30\",\"sessions\":10,\"level\":\"Stage 4\",\"level_id\":4,\"class_id\":46,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":2,\"membership_id\":null,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":null,\"plan\":{\"name\":\"Ten Weeks\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 123
+        card_id: 10000123
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Jeanette"
+        last_name: "Grant"
+        address_1: "9, London Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 9ZL"
+        home_centre: 1
+        preferred_email_address: 123
+        contact_mobile_id: 246
+        contact_home_id: 245
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "2001-10-13"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":144,\"class\":\"Stage 4\",\"time\":\"Saturday 10:30\",\"sessions\":10,\"level\":\"Stage 4\",\"level_id\":4,\"class_id\":46,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":3,\"membership_id\":2,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"Concession Membership\",\"member_id\":123,\"membership_id\":2,\"member_membership_id\":96,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ten Weeks Concession\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 124
+        card_id: 10000124
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Linda"
+        last_name: "Hines"
+        address_1: "161, London Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 9ZL"
+        home_centre: 1
+        preferred_email_address: 124
+        contact_mobile_id: 248
+        contact_home_id: 247
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: "Eczema"
+        payment_member_id: ~
+        date_of_birth: "1993-03-26"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":146,\"class\":\"Stage 5\",\"time\":\"Saturday 11:00\",\"sessions\":10,\"level\":\"Stage 5\",\"level_id\":5,\"class_id\":47,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":2,\"membership_id\":null,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":null,\"plan\":{\"name\":\"Ten Weeks\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 125
+        card_id: 10000125
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Cadence"
+        last_name: "Walker"
+        address_1: "192, St. John's Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 3HL"
+        home_centre: 1
+        preferred_email_address: 125
+        contact_mobile_id: 250
+        contact_home_id: 249
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "2002-01-30"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":147,\"class\":\"Stage 5\",\"time\":\"Saturday 11:00\",\"sessions\":10,\"level\":\"Stage 5\",\"level_id\":5,\"class_id\":47,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":3,\"membership_id\":2,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"Concession Membership\",\"member_id\":125,\"membership_id\":2,\"member_membership_id\":98,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ten Weeks Concession\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 126
+        card_id: 10000126
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Alex"
+        last_name: "Tucker"
+        address_1: "155, Chester Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 3QS"
+        home_centre: 1
+        preferred_email_address: 126
+        contact_mobile_id: 252
+        contact_home_id: 251
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1984-09-06"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":64,\"class\":\"Stage 7-10\",\"time\":\"Tuesday 12:00\",\"sessions\":\"&infin;\",\"level\":\"Stage 7\",\"level_id\":7,\"class_id\":21,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":1,\"membership_id\":1,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"DD Membership\",\"member_id\":126,\"membership_id\":1,\"member_membership_id\":43,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ongoing Direct Debit\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 127
+        card_id: 10000127
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Leilani"
+        last_name: "Cohen"
+        address_1: "4, Park Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 4JU"
+        home_centre: 1
+        preferred_email_address: 127
+        contact_mobile_id: 254
+        contact_home_id: 253
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: "Deaf in left ear"
+        payment_member_id: ~
+        date_of_birth: "1999-05-24"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":149,\"class\":\"Stage 6\",\"time\":\"Saturday 11:30\",\"sessions\":10,\"level\":\"Stage 6\",\"level_id\":6,\"class_id\":48,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":2,\"membership_id\":null,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":null,\"plan\":{\"name\":\"Ten Weeks\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 128
+        card_id: 10000128
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Hazel"
+        last_name: "Turner"
+        address_1: "74, Mill Lane"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 7AG"
+        home_centre: 1
+        preferred_email_address: 128
+        contact_mobile_id: 256
+        contact_home_id: 255
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1997-02-24"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 129
+        card_id: 10000129
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Alaina"
+        last_name: "Christensen"
+        address_1: "176, King Street"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 9FN"
+        home_centre: 1
+        preferred_email_address: 129
+        contact_mobile_id: 258
+        contact_home_id: 257
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1982-10-10"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":53,\"class\":\"Stage 3\",\"time\":\"Tuesday 10:00\",\"sessions\":9,\"level\":\"Stage 3\",\"level_id\":3,\"class_id\":17,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":2,\"membership_id\":null,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":null,\"plan\":{\"name\":\"Ten Weeks\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 130
+        card_id: 10000130
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Jazmyne"
+        last_name: "Page"
+        address_1: "50, Springfield Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 5PS"
+        home_centre: 1
+        preferred_email_address: 130
+        contact_mobile_id: 260
+        contact_home_id: 259
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1987-02-15"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 131
+        card_id: 10000131
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Kyla"
+        last_name: "Paul"
+        address_1: "81, Grange Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 3JR"
+        home_centre: 1
+        preferred_email_address: 131
+        contact_mobile_id: 262
+        contact_home_id: 261
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1978-05-07"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 132
+        card_id: 10000132
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Baylee"
+        last_name: "Neal"
+        address_1: "118, School Lane"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 7GA"
+        home_centre: 1
+        preferred_email_address: 132
+        contact_mobile_id: 264
+        contact_home_id: 263
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1968-10-04"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 133
+        card_id: 10000133
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Megan"
+        last_name: "Boone"
+        address_1: "172, London Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 9ZL"
+        home_centre: 1
+        preferred_email_address: 133
+        contact_mobile_id: 266
+        contact_home_id: 265
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1980-06-29"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 134
+        card_id: 10000134
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Megan"
+        last_name: "Park"
+        address_1: "25, High Street"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 7DH"
+        home_centre: 1
+        preferred_email_address: 134
+        contact_mobile_id: 268
+        contact_home_id: 267
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1986-03-07"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 135
+        card_id: 10000135
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Annabella"
+        last_name: "Nunez"
+        address_1: "45, Church Street"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 5JG"
+        home_centre: 1
+        preferred_email_address: 135
+        contact_mobile_id: 270
+        contact_home_id: 269
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: "Asthma"
+        payment_member_id: ~
+        date_of_birth: "2010-11-12"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[{\"class_member_id\":150,\"class\":\"Stage 7-10\",\"time\":\"Saturday 12:00\",\"sessions\":10,\"level\":\"Stage 7\",\"level_id\":7,\"class_id\":49,\"course\":\"Swim School (Continuous)\",\"debt_band_1\":4,\"active\":1,\"move_date\":null,\"leave_date\":null,\"move\":0,\"portal_move\":0,\"plan_status\":1,\"last_contact\":null,\"last_contact_payment\":null,\"last_contact_movement\":null,\"plan_id\":3,\"membership_id\":2,\"centre\":\"Westminster Leisure Centre\",\"colour\":\"rgb(35,119,45)\",\"movement_level\":null,\"membership\":{\"name\":\"Concession Membership\",\"member_id\":135,\"membership_id\":2,\"member_membership_id\":100,\"session_count\":null,\"state\":1,\"from_date\":null,\"to_date\":null},\"plan\":{\"name\":\"Ten Weeks Concession\"}}]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 136
+        card_id: 10000136
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Magdalena"
+        last_name: "Schwartz"
+        address_1: "56, Grange Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 3JR"
+        home_centre: 1
+        preferred_email_address: 136
+        contact_mobile_id: 272
+        contact_home_id: 271
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1998-05-03"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 137
+        card_id: 10000137
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Hayley"
+        last_name: "Harris"
+        address_1: "155, Kingsway"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 0YD"
+        home_centre: 1
+        preferred_email_address: 137
+        contact_mobile_id: 274
+        contact_home_id: 273
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1997-01-19"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 138
+        card_id: 10000138
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Lana"
+        last_name: "McGee"
+        address_1: "157, Station Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 2EN"
+        home_centre: 1
+        preferred_email_address: 138
+        contact_mobile_id: 276
+        contact_home_id: 275
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1975-09-24"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 139
+        card_id: 10000139
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Caroline"
+        last_name: "Welch"
+        address_1: "167, Richmond Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 2BT"
+        home_centre: 1
+        preferred_email_address: 139
+        contact_mobile_id: 278
+        contact_home_id: 277
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "2001-01-21"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 140
+        card_id: 10000140
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Christa"
+        last_name: "Harmon"
+        address_1: "27, Chester Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 3QS"
+        home_centre: 1
+        preferred_email_address: 140
+        contact_mobile_id: 280
+        contact_home_id: 279
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "2002-06-25"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 141
+        card_id: 10000141
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Deja"
+        last_name: "Newman"
+        address_1: "171, Park Lane"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 1RY"
+        home_centre: 1
+        preferred_email_address: 141
+        contact_mobile_id: 282
+        contact_home_id: 281
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1972-10-06"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 142
+        card_id: 10000142
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Jalyn"
+        last_name: "Santiago"
+        address_1: "27, Broadway"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 3NF"
+        home_centre: 1
+        preferred_email_address: 142
+        contact_mobile_id: 284
+        contact_home_id: 283
+        contact_work_id: ~
+        collection_password: "secret"
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1971-10-01"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 143
+        card_id: 10000143
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Dalia"
+        last_name: "Howard"
+        address_1: "127, The Avenue"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 7RG"
+        home_centre: 1
+        preferred_email_address: 143
+        contact_mobile_id: 286
+        contact_home_id: 285
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "2008-01-20"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 144
+        card_id: 10000144
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Jaylin"
+        last_name: "Alvarado"
+        address_1: "195, London Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 9ZL"
+        home_centre: 1
+        preferred_email_address: 144
+        contact_mobile_id: 288
+        contact_home_id: 287
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1995-06-24"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 145
+        card_id: 10000145
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Kylee"
+        last_name: "Larson"
+        address_1: "159, George Street"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 4PN"
+        home_centre: 1
+        preferred_email_address: 145
+        contact_mobile_id: 290
+        contact_home_id: 289
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1995-06-24"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 146
+        card_id: 10000146
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Marley"
+        last_name: "Hines"
+        address_1: "77, Station Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 2EN"
+        home_centre: 1
+        preferred_email_address: 146
+        contact_mobile_id: 292
+        contact_home_id: 291
+        contact_work_id: ~
+        collection_password: "secret"
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "2001-03-05"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 147
+        card_id: 10000147
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Bethany"
+        last_name: "Hanson"
+        address_1: "68, Church Street"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 5JG"
+        home_centre: 1
+        preferred_email_address: 147
+        contact_mobile_id: 294
+        contact_home_id: 293
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1995-11-09"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 148
+        card_id: 10000148
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Ericka"
+        last_name: "Terry"
+        address_1: "65, Station Road"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 2EN"
+        home_centre: 1
+        preferred_email_address: 148
+        contact_mobile_id: 296
+        contact_home_id: 295
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "2008-02-01"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 149
+        card_id: 10000149
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Lia"
+        last_name: "Logan"
+        address_1: "161, Mill Lane"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 7AG"
+        home_centre: 1
+        preferred_email_address: 149
+        contact_mobile_id: 298
+        contact_home_id: 297
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "1988-11-05"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0
+    -
+        member_id: 150
+        card_id: 10000150
+        gender: 2
+        title: ""
+        preferred_name: ""
+        first_name: "Gracie"
+        last_name: "Hogan"
+        address_1: "30, Kingsway"
+        address_2: ""
+        address_3: ""
+        county: "Somerset"
+        city: "Taunton"
+        postcode: "TA1 0YD"
+        home_centre: 1
+        preferred_email_address: 150
+        contact_mobile_id: 300
+        contact_home_id: 299
+        contact_work_id: ~
+        collection_password: ""
+        medical_details: ""
+        payment_member_id: ~
+        date_of_birth: "2005-08-23"
+        join_date: ~
+        push_date: ~
+        referer_member_id: ~
+        credit: 0
+        activate_portal: 0
+        class_cache: "[]"
+        state: 1
+        edit_date: "2013-06-03 16:42:43"
+        edit_staff_id: 0

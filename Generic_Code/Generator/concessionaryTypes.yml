@@ -1,0 +1,33 @@
+concessionary_types:
+    -
+        concessionary_id: 1
+        name: "Student"
+        lang_key: "type.student"
+        display_order: 2
+        state: 1
+        edit_date: "2018-11-02 16:27:00"
+        edit_staff_id: 1
+    -
+        concessionary_id: 2
+        name: "Senior"
+        lang_key: "type.senior"
+        display_order: 3
+        state: 1
+        edit_date: "2018-11-02 16:27:00"
+        edit_staff_id: 1
+    -
+        concessionary_id: 3
+        name: "Disabled"
+        lang_key: "type.disabled"
+        display_order: 4
+        state: 1
+        edit_date: "2018-11-02 16:27:00"
+        edit_staff_id: 1
+    -
+        concessionary_id: 4
+        name: "Universal credit"
+        lang_key: "type.universal_credit"
+        display_order: 5
+        state: 1
+        edit_date: "2018-11-02 16:27:00"
+        edit_staff_id: 1

@@ -1,0 +1,298 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 5,
+    "passes": 4,
+    "pending": 0,
+    "failures": 1,
+    "start": "2019-03-11T16:02:54.093Z",
+    "end": "2019-03-11T16:05:30.513Z",
+    "duration": 156420,
+    "testsRegistered": 5,
+    "passPercent": 80,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false,
+    "passPercentClass": "success",
+    "pendingPercentClass": "danger"
+  },
+  "suites": {
+    "uuid": "e5fda9a7-be63-4226-b817-cc78f0791481",
+    "title": "",
+    "fullFile": "",
+    "file": "",
+    "beforeHooks": [],
+    "afterHooks": [],
+    "tests": [],
+    "suites": [
+      {
+        "uuid": "1b3908d0-6c04-4112-830e-1c5a35e9f1a8",
+        "title": "Miscellaneous Tests @P1 @Miscellaneous",
+        "fullFile": "",
+        "file": "",
+        "beforeHooks": [
+          {
+            "title": "\"before all\" hook: codeceptjs.beforeSuite",
+            "fullTitle": "Miscellaneous Tests @P1 @Miscellaneous \"before all\" hook: codeceptjs.beforeSuite",
+            "timedOut": false,
+            "duration": 1,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.suiteSetup(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "1868e2f2-4b62-49c6-8b8f-f77344e09a31",
+            "isHook": true,
+            "skipped": false
+          },
+          {
+            "title": "\"before each\" hook: codeceptjs.before",
+            "fullTitle": "Miscellaneous Tests @P1 @Miscellaneous \"before each\" hook: codeceptjs.before",
+            "timedOut": false,
+            "duration": 5116,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.setup(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "347a5bee-757d-4908-bbcb-6b3de37797a1",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "afterHooks": [
+          {
+            "title": "\"after all\" hook: codeceptjs.afterSuite",
+            "fullTitle": "Miscellaneous Tests @P1 @Miscellaneous \"after all\" hook: codeceptjs.afterSuite",
+            "timedOut": false,
+            "duration": 1,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.suiteTeardown(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "cb3e0fed-dd93-4e86-9800-71be3d58dbad",
+            "isHook": true,
+            "skipped": false
+          },
+          {
+            "title": "\"after each\" hook: codeceptjs.after",
+            "fullTitle": "Miscellaneous Tests @P1 @Miscellaneous \"after each\" hook: codeceptjs.after",
+            "timedOut": false,
+            "duration": 2978,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.teardown(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "00634af1-b24b-4091-9fac-6e36808d4289",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "tests": [
+          {
+            "title": "Login with valid credentials",
+            "fullTitle": "Miscellaneous Tests @P1 @Miscellaneous Login with valid credentials",
+            "timedOut": false,
+            "duration": 22491,
+            "state": "failed",
+            "pass": false,
+            "fail": true,
+            "pending": false,
+            "code": "runSteps(child.steps)",
+            "err": {
+              "message": "Error: element (#navigation) still not present on page after 5 sec\nwaiting for selector \"#navigation\" failed: timeout 5000ms exceeded",
+              "estack": "Error: element (#navigation) still not present on page after 5 sec\nwaiting for selector \"#navigation\" failed: timeout 5000ms exceeded\n    at waiter.catch (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\codeceptjs\\lib\\helper\\Puppeteer.js:1510:13)\n    at <anonymous>"
+            },
+            "isRoot": false,
+            "uuid": "ce823138-824b-4044-af64-7f42ab325894",
+            "isHook": false,
+            "skipped": false
+          },
+          {
+            "title": "Logout",
+            "fullTitle": "Miscellaneous Tests @P1 @Miscellaneous Logout",
+            "timedOut": false,
+            "duration": 12032,
+            "state": "passed",
+            "speed": "slow",
+            "pass": true,
+            "fail": false,
+            "pending": false,
+            "code": "runSteps(child.steps)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "fa3032f4-7505-4483-a1a5-f6ab01e0c834",
+            "isHook": false,
+            "skipped": false
+          },
+          {
+            "title": "Switch Leisure Centre",
+            "fullTitle": "Miscellaneous Tests @P1 @Miscellaneous Switch Leisure Centre",
+            "timedOut": false,
+            "duration": 10170,
+            "state": "passed",
+            "speed": "slow",
+            "pass": true,
+            "fail": false,
+            "pending": false,
+            "code": "runSteps(child.steps)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "53a1c4ed-a36a-4c70-b480-82597951be1d",
+            "isHook": false,
+            "skipped": false
+          },
+          {
+            "title": "User Permissions",
+            "fullTitle": "Miscellaneous Tests @P1 @Miscellaneous User Permissions",
+            "timedOut": false,
+            "duration": 8129,
+            "state": "passed",
+            "speed": "slow",
+            "pass": true,
+            "fail": false,
+            "pending": false,
+            "code": "runSteps(child.steps)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "e44602ea-94b4-4783-8591-5529ad696da8",
+            "isHook": false,
+            "skipped": false
+          }
+        ],
+        "suites": [],
+        "passes": [
+          "fa3032f4-7505-4483-a1a5-f6ab01e0c834",
+          "53a1c4ed-a36a-4c70-b480-82597951be1d",
+          "e44602ea-94b4-4783-8591-5529ad696da8"
+        ],
+        "failures": [
+          "ce823138-824b-4044-af64-7f42ab325894"
+        ],
+        "pending": [],
+        "skipped": [],
+        "duration": 52822,
+        "root": false,
+        "rootEmpty": false,
+        "_timeout": 0
+      },
+      {
+        "uuid": "62e26d36-061f-42aa-b5de-ee0b1503bb33",
+        "title": "Overview Tests @P1 @Overview_Tests",
+        "fullFile": "",
+        "file": "",
+        "beforeHooks": [
+          {
+            "title": "\"before all\" hook: codeceptjs.beforeSuite",
+            "fullTitle": "Overview Tests @P1 @Overview_Tests \"before all\" hook: codeceptjs.beforeSuite",
+            "timedOut": false,
+            "duration": 0,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.suiteSetup(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "b675e6b6-50dd-4398-815b-9326eac17ca3",
+            "isHook": true,
+            "skipped": false
+          },
+          {
+            "title": "\"before each\" hook: codeceptjs.before",
+            "fullTitle": "Overview Tests @P1 @Overview_Tests \"before each\" hook: codeceptjs.before",
+            "timedOut": false,
+            "duration": 4110,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.setup(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "a9e0870d-bb33-4f39-893a-5d7c21011c69",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "afterHooks": [
+          {
+            "title": "\"after all\" hook: codeceptjs.afterSuite",
+            "fullTitle": "Overview Tests @P1 @Overview_Tests \"after all\" hook: codeceptjs.afterSuite",
+            "timedOut": false,
+            "duration": 0,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.suiteTeardown(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "dc412d6a-2b7d-442b-a5e3-d93b874f2179",
+            "isHook": true,
+            "skipped": false
+          },
+          {
+            "title": "\"after each\" hook: codeceptjs.after",
+            "fullTitle": "Overview Tests @P1 @Overview_Tests \"after each\" hook: codeceptjs.after",
+            "timedOut": false,
+            "duration": 2621,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.teardown(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "807ac286-fa71-4326-8150-72acea39f5d3",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "tests": [
+          {
+            "title": "Assessment Asses Student",
+            "fullTitle": "Overview Tests @P1 @Overview_Tests Assessment Asses Student",
+            "timedOut": false,
+            "duration": 43956,
+            "state": "passed",
+            "speed": "slow",
+            "pass": true,
+            "fail": false,
+            "pending": false,
+            "code": "runSteps(child.steps)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "763a94bd-91a4-402a-85c6-19c738aabc51",
+            "isHook": false,
+            "skipped": false
+          }
+        ],
+        "suites": [],
+        "passes": [
+          "763a94bd-91a4-402a-85c6-19c738aabc51"
+        ],
+        "failures": [],
+        "pending": [],
+        "skipped": [],
+        "duration": 43956,
+        "root": false,
+        "rootEmpty": false,
+        "_timeout": 0
+      }
+    ],
+    "passes": [],
+    "failures": [],
+    "pending": [],
+    "skipped": [],
+    "duration": 0,
+    "root": true,
+    "rootEmpty": true,
+    "_timeout": 0
+  },
+  "copyrightYear": 2019
+}

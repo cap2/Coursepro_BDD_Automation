@@ -1,0 +1,3964 @@
+classes:
+    -
+        class_id: 50
+        centre_course_id: 2
+        name: "Fixed Stage 1"
+        name_cache: "Sunday 11:00"
+        search_day: "0"
+        search_day_time: 01100
+        search_time: "11:00:00"
+        teacher: 5
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 1
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 51
+        centre_course_id: 2
+        name: "Fixed Stage 2"
+        name_cache: "Sunday 11:30"
+        search_day: "0"
+        search_day_time: 01130
+        search_time: "11:30:00"
+        teacher: 3
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 2
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 52
+        centre_course_id: 2
+        name: "Fixed Stage 3"
+        name_cache: "Sunday 12:00"
+        search_day: "0"
+        search_day_time: 01200
+        search_time: "12:00:00"
+        teacher: 6
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 3
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 53
+        centre_course_id: 2
+        name: "Fixed Stage 4"
+        name_cache: "Sunday 12:30"
+        search_day: "0"
+        search_day_time: 01230
+        search_time: "12:30:00"
+        teacher: 5
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 4
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 54
+        centre_course_id: 2
+        name: "Fixed Stage 5"
+        name_cache: "Sunday 13:00"
+        search_day: "0"
+        search_day_time: 01300
+        search_time: "13:00:00"
+        teacher: 4
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 5
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 55
+        centre_course_id: 2
+        name: "Fixed Stage 6"
+        name_cache: "Sunday 13:30"
+        search_day: "0"
+        search_day_time: 01330
+        search_time: "13:30:00"
+        teacher: 4
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 6
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 56
+        centre_course_id: 2
+        name: "Fixed Stage 7-10"
+        name_cache: "Sunday 14:00"
+        search_day: "0"
+        search_day_time: 01400
+        search_time: "14:00:00"
+        teacher: 6
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 7
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 57
+        centre_course_id: 2
+        name: "Fixed Stage 1"
+        name_cache: "Monday 11:00"
+        search_day: "1"
+        search_day_time: 11100
+        search_time: "11:00:00"
+        teacher: 4
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 1
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 58
+        centre_course_id: 2
+        name: "Fixed Stage 2"
+        name_cache: "Monday 11:30"
+        search_day: "1"
+        search_day_time: 11130
+        search_time: "11:30:00"
+        teacher: 6
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 2
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 59
+        centre_course_id: 2
+        name: "Fixed Stage 3"
+        name_cache: "Monday 12:00"
+        search_day: "1"
+        search_day_time: 11200
+        search_time: "12:00:00"
+        teacher: 3
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 3
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 60
+        centre_course_id: 2
+        name: "Fixed Stage 4"
+        name_cache: "Monday 12:30"
+        search_day: "1"
+        search_day_time: 11230
+        search_time: "12:30:00"
+        teacher: 5
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 4
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 61
+        centre_course_id: 2
+        name: "Fixed Stage 5"
+        name_cache: "Monday 13:00"
+        search_day: "1"
+        search_day_time: 11300
+        search_time: "13:00:00"
+        teacher: 6
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 5
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 62
+        centre_course_id: 2
+        name: "Fixed Stage 6"
+        name_cache: "Monday 13:30"
+        search_day: "1"
+        search_day_time: 11330
+        search_time: "13:30:00"
+        teacher: 5
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 6
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 63
+        centre_course_id: 2
+        name: "Fixed Stage 7-10"
+        name_cache: "Monday 14:00"
+        search_day: "1"
+        search_day_time: 11400
+        search_time: "14:00:00"
+        teacher: 2
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 7
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 64
+        centre_course_id: 2
+        name: "Fixed Stage 1"
+        name_cache: "Tuesday 11:00"
+        search_day: "2"
+        search_day_time: 21100
+        search_time: "11:00:00"
+        teacher: 2
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 1
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 65
+        centre_course_id: 2
+        name: "Fixed Stage 2"
+        name_cache: "Tuesday 11:30"
+        search_day: "2"
+        search_day_time: 21130
+        search_time: "11:30:00"
+        teacher: 2
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 2
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 66
+        centre_course_id: 2
+        name: "Fixed Stage 3"
+        name_cache: "Tuesday 12:00"
+        search_day: "2"
+        search_day_time: 21200
+        search_time: "12:00:00"
+        teacher: 5
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 3
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 67
+        centre_course_id: 2
+        name: "Fixed Stage 4"
+        name_cache: "Tuesday 12:30"
+        search_day: "2"
+        search_day_time: 21230
+        search_time: "12:30:00"
+        teacher: 3
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 4
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 68
+        centre_course_id: 2
+        name: "Fixed Stage 5"
+        name_cache: "Tuesday 13:00"
+        search_day: "2"
+        search_day_time: 21300
+        search_time: "13:00:00"
+        teacher: 5
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 5
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 69
+        centre_course_id: 2
+        name: "Fixed Stage 6"
+        name_cache: "Tuesday 13:30"
+        search_day: "2"
+        search_day_time: 21330
+        search_time: "13:30:00"
+        teacher: 2
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 6
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 70
+        centre_course_id: 2
+        name: "Fixed Stage 7-10"
+        name_cache: "Tuesday 14:00"
+        search_day: "2"
+        search_day_time: 21400
+        search_time: "14:00:00"
+        teacher: 5
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 7
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 71
+        centre_course_id: 2
+        name: "Fixed Stage 1"
+        name_cache: "Wednesday 11:00"
+        search_day: "3"
+        search_day_time: 31100
+        search_time: "11:00:00"
+        teacher: 6
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 1
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 72
+        centre_course_id: 2
+        name: "Fixed Stage 2"
+        name_cache: "Wednesday 11:30"
+        search_day: "3"
+        search_day_time: 31130
+        search_time: "11:30:00"
+        teacher: 5
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 2
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 73
+        centre_course_id: 2
+        name: "Fixed Stage 3"
+        name_cache: "Wednesday 12:00"
+        search_day: "3"
+        search_day_time: 31200
+        search_time: "12:00:00"
+        teacher: 4
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 3
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 74
+        centre_course_id: 2
+        name: "Fixed Stage 4"
+        name_cache: "Wednesday 12:30"
+        search_day: "3"
+        search_day_time: 31230
+        search_time: "12:30:00"
+        teacher: 5
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 4
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 75
+        centre_course_id: 2
+        name: "Fixed Stage 5"
+        name_cache: "Wednesday 13:00"
+        search_day: "3"
+        search_day_time: 31300
+        search_time: "13:00:00"
+        teacher: 4
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 5
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 76
+        centre_course_id: 2
+        name: "Fixed Stage 6"
+        name_cache: "Wednesday 13:30"
+        search_day: "3"
+        search_day_time: 31330
+        search_time: "13:30:00"
+        teacher: 2
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 6
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 77
+        centre_course_id: 2
+        name: "Fixed Stage 7-10"
+        name_cache: "Wednesday 14:00"
+        search_day: "3"
+        search_day_time: 31400
+        search_time: "14:00:00"
+        teacher: 4
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 7
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 78
+        centre_course_id: 2
+        name: "Fixed Stage 1"
+        name_cache: "Thursday 11:00"
+        search_day: "4"
+        search_day_time: 41100
+        search_time: "11:00:00"
+        teacher: 5
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 1
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 79
+        centre_course_id: 2
+        name: "Fixed Stage 2"
+        name_cache: "Thursday 11:30"
+        search_day: "4"
+        search_day_time: 41130
+        search_time: "11:30:00"
+        teacher: 3
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 2
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 80
+        centre_course_id: 2
+        name: "Fixed Stage 3"
+        name_cache: "Thursday 12:00"
+        search_day: "4"
+        search_day_time: 41200
+        search_time: "12:00:00"
+        teacher: 2
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 3
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 81
+        centre_course_id: 2
+        name: "Fixed Stage 4"
+        name_cache: "Thursday 12:30"
+        search_day: "4"
+        search_day_time: 41230
+        search_time: "12:30:00"
+        teacher: 3
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 4
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 82
+        centre_course_id: 2
+        name: "Fixed Stage 5"
+        name_cache: "Thursday 13:00"
+        search_day: "4"
+        search_day_time: 41300
+        search_time: "13:00:00"
+        teacher: 5
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 5
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 83
+        centre_course_id: 2
+        name: "Fixed Stage 6"
+        name_cache: "Thursday 13:30"
+        search_day: "4"
+        search_day_time: 41330
+        search_time: "13:30:00"
+        teacher: 2
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 6
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 84
+        centre_course_id: 2
+        name: "Fixed Stage 7-10"
+        name_cache: "Thursday 14:00"
+        search_day: "4"
+        search_day_time: 41400
+        search_time: "14:00:00"
+        teacher: 6
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 7
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 85
+        centre_course_id: 2
+        name: "Fixed Stage 1"
+        name_cache: "Friday 11:00"
+        search_day: "5"
+        search_day_time: 51100
+        search_time: "11:00:00"
+        teacher: 2
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 1
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 86
+        centre_course_id: 2
+        name: "Fixed Stage 2"
+        name_cache: "Friday 11:30"
+        search_day: "5"
+        search_day_time: 51130
+        search_time: "11:30:00"
+        teacher: 4
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 2
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 87
+        centre_course_id: 2
+        name: "Fixed Stage 3"
+        name_cache: "Friday 12:00"
+        search_day: "5"
+        search_day_time: 51200
+        search_time: "12:00:00"
+        teacher: 6
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 3
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 88
+        centre_course_id: 2
+        name: "Fixed Stage 4"
+        name_cache: "Friday 12:30"
+        search_day: "5"
+        search_day_time: 51230
+        search_time: "12:30:00"
+        teacher: 4
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 4
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 89
+        centre_course_id: 2
+        name: "Fixed Stage 5"
+        name_cache: "Friday 13:00"
+        search_day: "5"
+        search_day_time: 51300
+        search_time: "13:00:00"
+        teacher: 3
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 5
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 90
+        centre_course_id: 2
+        name: "Fixed Stage 6"
+        name_cache: "Friday 13:30"
+        search_day: "5"
+        search_day_time: 51330
+        search_time: "13:30:00"
+        teacher: 3
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 6
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 91
+        centre_course_id: 2
+        name: "Fixed Stage 7-10"
+        name_cache: "Friday 14:00"
+        search_day: "5"
+        search_day_time: 51400
+        search_time: "14:00:00"
+        teacher: 3
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 7
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 92
+        centre_course_id: 2
+        name: "Fixed Stage 1"
+        name_cache: "Saturday 11:00"
+        search_day: "6"
+        search_day_time: 61100
+        search_time: "11:00:00"
+        teacher: 2
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 1
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 93
+        centre_course_id: 2
+        name: "Fixed Stage 2"
+        name_cache: "Saturday 11:30"
+        search_day: "6"
+        search_day_time: 61130
+        search_time: "11:30:00"
+        teacher: 6
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 2
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 94
+        centre_course_id: 2
+        name: "Fixed Stage 3"
+        name_cache: "Saturday 12:00"
+        search_day: "6"
+        search_day_time: 61200
+        search_time: "12:00:00"
+        teacher: 3
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 3
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 95
+        centre_course_id: 2
+        name: "Fixed Stage 4"
+        name_cache: "Saturday 12:30"
+        search_day: "6"
+        search_day_time: 61230
+        search_time: "12:30:00"
+        teacher: 3
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 4
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 96
+        centre_course_id: 2
+        name: "Fixed Stage 5"
+        name_cache: "Saturday 13:00"
+        search_day: "6"
+        search_day_time: 61300
+        search_time: "13:00:00"
+        teacher: 2
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 5
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 97
+        centre_course_id: 2
+        name: "Fixed Stage 6"
+        name_cache: "Saturday 13:30"
+        search_day: "6"
+        search_day_time: 61330
+        search_time: "13:30:00"
+        teacher: 2
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 6
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 98
+        centre_course_id: 2
+        name: "Fixed Stage 7-10"
+        name_cache: "Saturday 14:00"
+        search_day: "6"
+        search_day_time: 61400
+        search_time: "14:00:00"
+        teacher: 4
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 7
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 99
+        centre_course_id: 8
+        name: "(Private) Fixed Stage 7-10"
+        name_cache: "Monday 10:00"
+        search_day: "1"
+        search_day_time: 11000
+        search_time: "10:00:00"
+        teacher: 4
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 7
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        class_id: 100
+        centre_course_id: 8
+        name: "(Private) Fixed Stage 7-10"
+        name_cache: "Tuesday 10:00"
+        search_day: "2"
+        search_day_time: 21000
+        search_time: "10:00:00"
+        teacher: 4
+        open_levels: 0
+        allow_over_payment: ~
+        allow_no_payment: ~
+        force_payment: ~
+        centre_bookable_area_id: 1
+        split_section_id: 0
+        size: 0
+        held: 0
+        held_reason: ""
+        held_staff_id: ~
+        occupants: 0
+        certificate_id: ~
+        colour: 0
+        colour_level_id: 7
+        use_blended_colour: 0
+        combination_id: ~
+        mark_all: 0
+        state: 1
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+
+class_has_course_levels:
+    -
+        class_id: 50
+        level_id: 1
+    -
+        class_id: 51
+        level_id: 2
+    -
+        class_id: 52
+        level_id: 3
+    -
+        class_id: 53
+        level_id: 4
+    -
+        class_id: 54
+        level_id: 5
+    -
+        class_id: 55
+        level_id: 6
+    -
+        class_id: 56
+        level_id: 7
+    -
+        class_id: 56
+        level_id: 8
+    -
+        class_id: 56
+        level_id: 9
+    -
+        class_id: 56
+        level_id: 10
+    -
+        class_id: 57
+        level_id: 1
+    -
+        class_id: 58
+        level_id: 2
+    -
+        class_id: 59
+        level_id: 3
+    -
+        class_id: 60
+        level_id: 4
+    -
+        class_id: 61
+        level_id: 5
+    -
+        class_id: 62
+        level_id: 6
+    -
+        class_id: 63
+        level_id: 7
+    -
+        class_id: 63
+        level_id: 8
+    -
+        class_id: 63
+        level_id: 9
+    -
+        class_id: 63
+        level_id: 10
+    -
+        class_id: 64
+        level_id: 1
+    -
+        class_id: 65
+        level_id: 2
+    -
+        class_id: 66
+        level_id: 3
+    -
+        class_id: 67
+        level_id: 4
+    -
+        class_id: 68
+        level_id: 5
+    -
+        class_id: 69
+        level_id: 6
+    -
+        class_id: 70
+        level_id: 7
+    -
+        class_id: 70
+        level_id: 8
+    -
+        class_id: 70
+        level_id: 9
+    -
+        class_id: 70
+        level_id: 10
+    -
+        class_id: 71
+        level_id: 1
+    -
+        class_id: 72
+        level_id: 2
+    -
+        class_id: 73
+        level_id: 3
+    -
+        class_id: 74
+        level_id: 4
+    -
+        class_id: 75
+        level_id: 5
+    -
+        class_id: 76
+        level_id: 6
+    -
+        class_id: 77
+        level_id: 7
+    -
+        class_id: 77
+        level_id: 8
+    -
+        class_id: 77
+        level_id: 9
+    -
+        class_id: 77
+        level_id: 10
+    -
+        class_id: 78
+        level_id: 1
+    -
+        class_id: 79
+        level_id: 2
+    -
+        class_id: 80
+        level_id: 3
+    -
+        class_id: 81
+        level_id: 4
+    -
+        class_id: 82
+        level_id: 5
+    -
+        class_id: 83
+        level_id: 6
+    -
+        class_id: 84
+        level_id: 7
+    -
+        class_id: 84
+        level_id: 8
+    -
+        class_id: 84
+        level_id: 9
+    -
+        class_id: 84
+        level_id: 10
+    -
+        class_id: 85
+        level_id: 1
+    -
+        class_id: 86
+        level_id: 2
+    -
+        class_id: 87
+        level_id: 3
+    -
+        class_id: 88
+        level_id: 4
+    -
+        class_id: 89
+        level_id: 5
+    -
+        class_id: 90
+        level_id: 6
+    -
+        class_id: 91
+        level_id: 7
+    -
+        class_id: 91
+        level_id: 8
+    -
+        class_id: 91
+        level_id: 9
+    -
+        class_id: 91
+        level_id: 10
+    -
+        class_id: 92
+        level_id: 1
+    -
+        class_id: 93
+        level_id: 2
+    -
+        class_id: 94
+        level_id: 3
+    -
+        class_id: 95
+        level_id: 4
+    -
+        class_id: 96
+        level_id: 5
+    -
+        class_id: 97
+        level_id: 6
+    -
+        class_id: 98
+        level_id: 7
+    -
+        class_id: 98
+        level_id: 8
+    -
+        class_id: 98
+        level_id: 9
+    -
+        class_id: 98
+        level_id: 10
+    -
+        class_id: 99
+        level_id: 7
+    -
+        class_id: 99
+        level_id: 8
+    -
+        class_id: 99
+        level_id: 9
+    -
+        class_id: 99
+        level_id: 10
+    -
+        class_id: 100
+        level_id: 7
+    -
+        class_id: 100
+        level_id: 8
+    -
+        class_id: 100
+        level_id: 9
+    -
+        class_id: 100
+        level_id: 10
+
+class_dates:
+    -
+        date_id: 50
+        class_id: 50
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 51
+        class_id: 50
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 52
+        class_id: 51
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 53
+        class_id: 51
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 54
+        class_id: 52
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 55
+        class_id: 52
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 56
+        class_id: 53
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 57
+        class_id: 53
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 58
+        class_id: 54
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 59
+        class_id: 54
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 60
+        class_id: 55
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 61
+        class_id: 55
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 62
+        class_id: 56
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 63
+        class_id: 56
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 64
+        class_id: 57
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 65
+        class_id: 57
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 66
+        class_id: 58
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 67
+        class_id: 58
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 68
+        class_id: 59
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 69
+        class_id: 59
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 70
+        class_id: 60
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 71
+        class_id: 60
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 72
+        class_id: 61
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 73
+        class_id: 61
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 74
+        class_id: 62
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 75
+        class_id: 62
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 76
+        class_id: 63
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 77
+        class_id: 63
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 78
+        class_id: 64
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 79
+        class_id: 64
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 80
+        class_id: 65
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 81
+        class_id: 65
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 82
+        class_id: 66
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 83
+        class_id: 66
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 84
+        class_id: 67
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 85
+        class_id: 67
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 86
+        class_id: 68
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 87
+        class_id: 68
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 88
+        class_id: 69
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 89
+        class_id: 69
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 90
+        class_id: 70
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 91
+        class_id: 70
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 92
+        class_id: 71
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 93
+        class_id: 71
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 94
+        class_id: 72
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 95
+        class_id: 72
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 96
+        class_id: 73
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 97
+        class_id: 73
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 98
+        class_id: 74
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 99
+        class_id: 74
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 100
+        class_id: 75
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 101
+        class_id: 75
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 102
+        class_id: 76
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 103
+        class_id: 76
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 104
+        class_id: 77
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 105
+        class_id: 77
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 106
+        class_id: 78
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 107
+        class_id: 78
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 108
+        class_id: 79
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 109
+        class_id: 79
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 110
+        class_id: 80
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 111
+        class_id: 80
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 112
+        class_id: 81
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 113
+        class_id: 81
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 114
+        class_id: 82
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 115
+        class_id: 82
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 116
+        class_id: 83
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 117
+        class_id: 83
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 118
+        class_id: 84
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 119
+        class_id: 84
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 120
+        class_id: 85
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 121
+        class_id: 85
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 122
+        class_id: 86
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 123
+        class_id: 86
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 124
+        class_id: 87
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 125
+        class_id: 87
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 126
+        class_id: 88
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 127
+        class_id: 88
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 128
+        class_id: 89
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 129
+        class_id: 89
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 130
+        class_id: 90
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 131
+        class_id: 90
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 132
+        class_id: 91
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 133
+        class_id: 91
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 134
+        class_id: 92
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 135
+        class_id: 92
+        plan_id: 1
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 136
+        class_id: 93
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 137
+        class_id: 93
+        plan_id: 2
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 138
+        class_id: 94
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 139
+        class_id: 94
+        plan_id: 3
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 140
+        class_id: 95
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 141
+        class_id: 95
+        plan_id: 4
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 142
+        class_id: 96
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 143
+        class_id: 96
+        plan_id: 5
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 144
+        class_id: 97
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 145
+        class_id: 97
+        plan_id: 6
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 146
+        class_id: 98
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-12"
+        to: "2013-07-06"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 147
+        class_id: 98
+        plan_id: 7
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-21"
+        to: "2013-09-07"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 148
+        class_id: 99
+        plan_id: ~
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-27"
+        to: "2013-06-30"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 149
+        class_id: 100
+        plan_id: ~
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-05-27"
+        to: "2013-06-30"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 150
+        class_id: 99
+        plan_id: ~
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-01"
+        to: "2013-08-04"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+    -
+        date_id: 151
+        class_id: 100
+        plan_id: ~
+        restart_plan: 0
+        size: 10
+        held: 0
+        held_reason: ~
+        held_staff_id: ~
+        repeat: 1
+        from: "2013-07-01"
+        to: "2013-08-04"
+        edit_date: "2013-01-01 00:00:00"
+        edit_staff_id: 1
+
+class_date_times:
+    -
+        date_id: 50
+        time_id: 50
+        day: "0"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 51
+        time_id: 51
+        day: "0"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 52
+        time_id: 52
+        day: "0"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 53
+        time_id: 53
+        day: "0"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 54
+        time_id: 54
+        day: "0"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 55
+        time_id: 55
+        day: "0"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 56
+        time_id: 56
+        day: "0"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 57
+        time_id: 57
+        day: "0"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 58
+        time_id: 58
+        day: "0"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 59
+        time_id: 59
+        day: "0"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 60
+        time_id: 60
+        day: "0"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 61
+        time_id: 61
+        day: "0"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 62
+        time_id: 62
+        day: "0"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 63
+        time_id: 63
+        day: "0"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 64
+        time_id: 64
+        day: "1"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 65
+        time_id: 65
+        day: "1"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 66
+        time_id: 66
+        day: "1"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 67
+        time_id: 67
+        day: "1"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 68
+        time_id: 68
+        day: "1"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 69
+        time_id: 69
+        day: "1"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 70
+        time_id: 70
+        day: "1"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 71
+        time_id: 71
+        day: "1"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 72
+        time_id: 72
+        day: "1"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 73
+        time_id: 73
+        day: "1"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 74
+        time_id: 74
+        day: "1"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 75
+        time_id: 75
+        day: "1"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 76
+        time_id: 76
+        day: "1"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 77
+        time_id: 77
+        day: "1"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 78
+        time_id: 78
+        day: "2"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 79
+        time_id: 79
+        day: "2"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 80
+        time_id: 80
+        day: "2"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 81
+        time_id: 81
+        day: "2"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 82
+        time_id: 82
+        day: "2"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 83
+        time_id: 83
+        day: "2"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 84
+        time_id: 84
+        day: "2"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 85
+        time_id: 85
+        day: "2"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 86
+        time_id: 86
+        day: "2"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 87
+        time_id: 87
+        day: "2"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 88
+        time_id: 88
+        day: "2"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 89
+        time_id: 89
+        day: "2"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 90
+        time_id: 90
+        day: "2"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 91
+        time_id: 91
+        day: "2"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 92
+        time_id: 92
+        day: "3"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 93
+        time_id: 93
+        day: "3"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 94
+        time_id: 94
+        day: "3"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 95
+        time_id: 95
+        day: "3"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 96
+        time_id: 96
+        day: "3"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 97
+        time_id: 97
+        day: "3"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 98
+        time_id: 98
+        day: "3"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 99
+        time_id: 99
+        day: "3"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 100
+        time_id: 100
+        day: "3"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 101
+        time_id: 101
+        day: "3"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 102
+        time_id: 102
+        day: "3"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 103
+        time_id: 103
+        day: "3"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 104
+        time_id: 104
+        day: "3"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 105
+        time_id: 105
+        day: "3"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 106
+        time_id: 106
+        day: "4"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 107
+        time_id: 107
+        day: "4"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 108
+        time_id: 108
+        day: "4"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 109
+        time_id: 109
+        day: "4"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 110
+        time_id: 110
+        day: "4"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 111
+        time_id: 111
+        day: "4"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 112
+        time_id: 112
+        day: "4"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 113
+        time_id: 113
+        day: "4"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 114
+        time_id: 114
+        day: "4"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 115
+        time_id: 115
+        day: "4"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 116
+        time_id: 116
+        day: "4"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 117
+        time_id: 117
+        day: "4"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 118
+        time_id: 118
+        day: "4"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 119
+        time_id: 119
+        day: "4"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 120
+        time_id: 120
+        day: "5"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 121
+        time_id: 121
+        day: "5"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 122
+        time_id: 122
+        day: "5"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 123
+        time_id: 123
+        day: "5"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 124
+        time_id: 124
+        day: "5"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 125
+        time_id: 125
+        day: "5"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 126
+        time_id: 126
+        day: "5"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 127
+        time_id: 127
+        day: "5"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 128
+        time_id: 128
+        day: "5"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 129
+        time_id: 129
+        day: "5"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 130
+        time_id: 130
+        day: "5"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 131
+        time_id: 131
+        day: "5"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 132
+        time_id: 132
+        day: "5"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 133
+        time_id: 133
+        day: "5"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 134
+        time_id: 134
+        day: "6"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 135
+        time_id: 135
+        day: "6"
+        start: "11:00:00"
+        end: "11:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 136
+        time_id: 136
+        day: "6"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 137
+        time_id: 137
+        day: "6"
+        start: "11:30:00"
+        end: "12:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 138
+        time_id: 138
+        day: "6"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 139
+        time_id: 139
+        day: "6"
+        start: "12:00:00"
+        end: "12:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 140
+        time_id: 140
+        day: "6"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 141
+        time_id: 141
+        day: "6"
+        start: "12:30:00"
+        end: "13:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 142
+        time_id: 142
+        day: "6"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 143
+        time_id: 143
+        day: "6"
+        start: "13:00:00"
+        end: "13:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 144
+        time_id: 144
+        day: "6"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 145
+        time_id: 145
+        day: "6"
+        start: "13:30:00"
+        end: "14:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 146
+        time_id: 146
+        day: "6"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 147
+        time_id: 147
+        day: "6"
+        start: "14:00:00"
+        end: "15:00:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 148
+        time_id: 148
+        day: "1"
+        start: "10:00:00"
+        end: "10:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 149
+        time_id: 149
+        day: "2"
+        start: "10:00:00"
+        end: "10:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 150
+        time_id: 150
+        day: "1"
+        start: "10:00:00"
+        end: "10:30:00"
+        from_date: ~
+        to_date: ~
+    -
+        date_id: 151
+        time_id: 151
+        day: "2"
+        start: "10:00:00"
+        end: "10:30:00"
+        from_date: ~
+        to_date: ~

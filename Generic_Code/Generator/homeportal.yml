@@ -1,0 +1,605 @@
+homeportal_accounts:
+    -
+        account_id: 1
+        primary_member_id: 2
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "a28bc21d50899d397457a59c95f2c70e"
+        email_address: "coursepro+hp1@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 2
+        primary_member_id: 4
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "673073ccec0a763276dd9e99f58859ac"
+        email_address: "coursepro+hp2@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 3
+        primary_member_id: 6
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "a9af07d2ae605dafdab12e8dd66a3c91"
+        email_address: "coursepro+hp3@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 4
+        primary_member_id: 7
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "76417037af7a9055fa8137e2102efceb"
+        email_address: "coursepro+hp4@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 5
+        primary_member_id: 9
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "59d64843f0919e279a03814edc26fc5e"
+        email_address: "coursepro+hp5@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 6
+        primary_member_id: 11
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "bb1e11ddad17c3e2d4ed54d8a095e537"
+        email_address: "coursepro+hp6@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 7
+        primary_member_id: 24
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "a396976bb7b10ff3bd2f15ce52d47de0"
+        email_address: "coursepro+hp7@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 8
+        primary_member_id: 32
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "acc1bac560f390ca4c995810c62b9b6e"
+        email_address: "coursepro+hp8@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 9
+        primary_member_id: 38
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "558b84d7179169305714b6c8616eafe5"
+        email_address: "coursepro+hp9@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 10
+        primary_member_id: 50
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "6ea33c3eda732024268ffc2c8a6f12fc"
+        email_address: "coursepro+hp10@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 11
+        primary_member_id: 52
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "4adbbd615b1d72960c65c55098112980"
+        email_address: "coursepro+hp11@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 12
+        primary_member_id: 61
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "44ce32f6ad31a5238d26e8986f242be2"
+        email_address: "coursepro+hp12@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 13
+        primary_member_id: 70
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "9862feead00dea7449e8f02a5c7f2ae8"
+        email_address: "coursepro+hp13@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 14
+        primary_member_id: 72
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "8d4baa96e4d5ca8679ab6ff3ff0fa46a"
+        email_address: "coursepro+hp14@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 15
+        primary_member_id: 73
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "336c65a5aa9c626176a0b51ac52d2fc5"
+        email_address: "coursepro+hp15@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 16
+        primary_member_id: 74
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "68d2ab816a7074d61cb89565e6c0aabc"
+        email_address: "coursepro+hp16@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 17
+        primary_member_id: 75
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "702acecc21feaed1250fa19b923e532f"
+        email_address: "coursepro+hp17@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 18
+        primary_member_id: 76
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "88dce8b1343a51a01ada490e54f016f1"
+        email_address: "coursepro+hp18@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 19
+        primary_member_id: 81
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "43236b48143dd78796b11df9cf57822b"
+        email_address: "coursepro+hp19@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 20
+        primary_member_id: 83
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "15febc9f0bfdc8027f425431f620e148"
+        email_address: "coursepro+hp20@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 21
+        primary_member_id: 87
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "b2d45478f7b231c337d98d076fb23325"
+        email_address: "coursepro+hp21@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 22
+        primary_member_id: 88
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "6d655b237b8b9367e80564f48704d97e"
+        email_address: "coursepro+hp22@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 23
+        primary_member_id: 103
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "9caa857b998689f398da552b01ab3ac8"
+        email_address: "coursepro+hp23@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 24
+        primary_member_id: 105
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "e8521a5182b77f144674cf44745c965c"
+        email_address: "coursepro+hp24@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 25
+        primary_member_id: 119
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "445c9e5544968c2eba3b9b657cbd32c3"
+        email_address: "coursepro+hp25@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 26
+        primary_member_id: 121
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "6ff894d99d2332b923668a4e58e0b556"
+        email_address: "coursepro+hp26@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 27
+        primary_member_id: 127
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "23cc420b1f2b78755ef820b7215f4aaf"
+        email_address: "coursepro+hp27@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 28
+        primary_member_id: 274
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "9c62d2a7235bfb67b729252e21f2ad73"
+        email_address: "coursepro+hp28@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 29
+        primary_member_id: 283
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "89ab14cdc479dba6de3316c14861c1cf"
+        email_address: "coursepro+hp29@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 30
+        primary_member_id: 5
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "3cee1f79d56141b9b37118c54f681091"
+        email_address: "coursepro+hp30@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+    -
+        account_id: 31
+        primary_member_id: 233
+        password: "$2a$08$HkqDBTFgkUpTFETDQDXp0.IRmx4n69hc/6IwU/Otv2STGiIPa70ra"
+        salt: ""
+        login_key: "4201023e163240ce8237413dffe5bab4"
+        email_address: "coursepro+hp31@cap2.co.uk"
+        last_login: ~
+        activated: 1
+        authcode: ~
+        forgot_date: ~
+        first_time: 0
+        accept_terms: "2013-01-01 00:00:00"
+        legacy: 0
+
+homeportal_account_has_members:
+    -
+        account_id: 1
+        member_id: 2
+        enable_login: 1
+    -
+        account_id: 2
+        member_id: 4
+        enable_login: 1
+    -
+        account_id: 3
+        member_id: 6
+        enable_login: 1
+    -
+        account_id: 4
+        member_id: 7
+        enable_login: 1
+    -
+        account_id: 5
+        member_id: 9
+        enable_login: 1
+    -
+        account_id: 6
+        member_id: 11
+        enable_login: 1
+    -
+        account_id: 7
+        member_id: 24
+        enable_login: 1
+    -
+        account_id: 8
+        member_id: 32
+        enable_login: 1
+    -
+        account_id: 9
+        member_id: 38
+        enable_login: 1
+    -
+        account_id: 10
+        member_id: 50
+        enable_login: 1
+    -
+        account_id: 11
+        member_id: 52
+        enable_login: 1
+    -
+        account_id: 12
+        member_id: 61
+        enable_login: 1
+    -
+        account_id: 13
+        member_id: 70
+        enable_login: 1
+    -
+        account_id: 13
+        member_id: 298
+        enable_login: 1
+    -
+        account_id: 14
+        member_id: 72
+        enable_login: 1
+    -
+        account_id: 14
+        member_id: 297
+        enable_login: 1
+    -
+        account_id: 15
+        member_id: 73
+        enable_login: 1
+    -
+        account_id: 15
+        member_id: 296
+        enable_login: 1
+    -
+        account_id: 16
+        member_id: 74
+        enable_login: 1
+    -
+        account_id: 16
+        member_id: 293
+        enable_login: 1
+    -
+        account_id: 17
+        member_id: 75
+        enable_login: 1
+    -
+        account_id: 17
+        member_id: 295
+        enable_login: 1
+    -
+        account_id: 18
+        member_id: 76
+        enable_login: 1
+    -
+        account_id: 18
+        member_id: 294
+        enable_login: 1
+    -
+        account_id: 19
+        member_id: 81
+        enable_login: 1
+    -
+        account_id: 19
+        member_id: 292
+        enable_login: 1
+    -
+        account_id: 20
+        member_id: 83
+        enable_login: 1
+    -
+        account_id: 20
+        member_id: 291
+        enable_login: 1
+    -
+        account_id: 21
+        member_id: 87
+        enable_login: 1
+    -
+        account_id: 21
+        member_id: 289
+        enable_login: 1
+    -
+        account_id: 21
+        member_id: 228
+        enable_login: 1
+    -
+        account_id: 22
+        member_id: 88
+        enable_login: 1
+    -
+        account_id: 22
+        member_id: 288
+        enable_login: 1
+    -
+        account_id: 23
+        member_id: 103
+        enable_login: 1
+    -
+        account_id: 24
+        member_id: 105
+        enable_login: 1
+    -
+        account_id: 25
+        member_id: 119
+        enable_login: 1
+    -
+        account_id: 26
+        member_id: 121
+        enable_login: 1
+    -
+        account_id: 27
+        member_id: 127
+        enable_login: 1
+    -
+        account_id: 28
+        member_id: 274
+        enable_login: 1
+    -
+        account_id: 29
+        member_id: 283
+        enable_login: 1
+    -
+        account_id: 30
+        member_id: 5
+        enable_login: 1
+    -
+        account_id: 31
+        member_id: 233
+        enable_login: 1

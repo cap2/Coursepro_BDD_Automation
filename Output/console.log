@@ -1,14 +1,9 @@
 
 [0m[0m
 [0m  Miscellaneous Tests @P1 @Miscellaneous[0m
-  [32m  √[0m[90m Login with valid credentials[0m[31m (13750ms)[0m
-  [32m  √[0m[90m Logout[0m[31m (11165ms)[0m
-  [32m  √[0m[90m Switch Leisure Centre[0m[31m (9296ms)[0m
-  [32m  √[0m[90m User Permissions[0m[31m (6966ms)[0m
+  [32m  √[0m[90m Login with valid credentials[0m[31m (11467ms)[0m
+  [32m  √[0m[90m Logout[0m[31m (10730ms)[0m
+  [32m  √[0m[90m Switch Leisure Centre[0m[31m (9993ms)[0m
+  [32m  √[0m[90m User Permissions[0m[31m (7096ms)[0m
 
 [0m  Overview Tests @P1 @Overview_Tests[0m
-  [32m  √[0m[90m Assessment Asses Student[0m[31m (40639ms)[0m
-
-
-[92m [0m[32m 5 passing[0m[90m (2m)[0m
-

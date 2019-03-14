@@ -1,8 +1,11 @@
-version: '2'
+version: "2"        // which version of compose syntax you are using
 services:
-  webserver:
-    image: phpstorm/php-71-apache-xdebug-26
-    ports:
-      - ./:/var/www/html
-      environment:
-        XDEBUG_CONFIG: reomote_host=host.docker.internal
+  app:
+    container_name: app  // explicit so we can use this for app:3000
+    build: .             // a self defined Dockerfile, see below
+    volumes:             // maps so changes to these can be seen
+    - ./Tests:/Tests
+    - ./package.json:/package.json
+    - ./package-lock.json:/package-lock.json
+    - ./.gitignore:/.gitignore
+    - ./app.js:/app.js

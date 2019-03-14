@@ -1,8 +1,10 @@
 version: "2"        // which version of compose syntax you are using
 services:
   app:
-    container_name: app  // explicit so we can use this for app:3000
+    container_name: app
     build: .             // a self defined Dockerfile, see below
+    ports:               // exposes port
+    - "2375"         to other containers, and to our local
     volumes:             // maps so changes to these can be seen
     - ./Tests:/Tests
     - ./package.json:/package.json

@@ -51,7 +51,7 @@ module.exports = {
     },
 
     overview_page (){
-        I.waitForElement('#navigation',5);
+        I.waitForElement('#navigation',10);
         I.wait(2);
         I.seeTextEquals('Overview','#navigation_classes > a > span');
     },

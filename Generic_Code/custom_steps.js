@@ -1,7 +1,6 @@
 const I = actor();
 const global = require('../node_modules/.bin/codecept.conf');
 
-
 module.exports = {
 
     fields:{
@@ -10,7 +9,6 @@ module.exports = {
         Admin_email: global.config.CoursePro_Username1,
         Admin_password: global.config.CoursePro_Password1,
         Domain: global.config.domain,
-
     },
 
     login_admin () {
@@ -51,8 +49,83 @@ module.exports = {
     },
 
     overview_page (){
+        I.amOnPage(this.fields.Domain + '/classes/');
         I.waitForElement('#navigation',10);
         I.wait(2);
         I.seeTextEquals('Overview','#navigation_classes > a > span');
+        I.wait(2);
+    },
+
+    asses_pupil () {
+        I.waitForElement('#assessMember_20', 3);
+        I.click('#assessMember_20');
+        I.waitForElement('#percentage', 3);
+        I.wait(2);
+        I.amOnPage(global.config.domain + '/classes/session/547/?assess=1');
+        I.waitForElement('#assessMember_20', 3);
+        I.click('#assessMember_20');
+        I.waitForElement('#percentage', 3);
+        I.wait(2);
+        let element_array = 1;
+        while(element_array <= 13)
+        {
+            I.click('#assessCompetency_' + element_array +' > ul > li:nth-child(5)');
+            I.wait(1);
+            element_array ++;
+        }
+        I.click('#save');
+        I.amOnPage(global.config.domain + '/classes/session/547/?assess=1');
+        I.waitForElement('#assessMember_20', 3);
+        I.click('#assessMember_20');
+        I.wait(2);
+        I.see('85%', '#percentage');
+    },
+
+    cancel_class () {
+        I.waitForElement('#cancelClasses', 4);
+        I.click('#cancelClasses');
+        I.waitForElement('#head0 > button.cancel.red',3);
+        I.click('#head0 > button.cancel.red');
+        I.wait(1);
+        I.click('#doCancel');
+        I.waitForElement('#cancelReason', 2);
+        I.click('#cancelReason');
+        I.waitForElement('#cancelReason-list', 2);
+        I.click('#cancelReason-list > ul > li:nth-child(1)');
+        I.waitForElement('#popupBoxOK', 2);
+        I.click('#popupBoxOK');
+        I.wait(2);
+    },
+
+    un_cancel_class () {
+        I.waitForElement('#cancelClasses', 4);
+        I.click('#cancelClasses');
+        I.waitForElement('#head0 > button.cancel.red',3);
+        I.click('#head0 > button.cancel.red');
+        I.wait(1);
+        I.click('#doCancel');
+        I.wait(1);
+    },
+
+    async change_day () {
+        let text_before;
+        let text_after;
+
+        I.waitForElement('#plus',4);
+        await I.grabHTMLFrom('#dateDescription')
+            .then(function(value){text_before = value.toString();})
+            .catch();
+        I.click('#plus');
+        I.waitForElement('#dateDescription',2);
+        I.wait(2);
+        //     /week +(\d*)/gi
+        await I.grabHTMLFrom('#dateDescription')
+            .then(function(value){text_after = value.toString();})
+            .catch();
+        if(I.assertNotEqual(text_before, text_after) === false)
+        {
+            I.fail_test(`${text_before} matches ${text_after}`);
+            I.say(`${text_before} matches ${text_after}`);
+        }
     },
 };

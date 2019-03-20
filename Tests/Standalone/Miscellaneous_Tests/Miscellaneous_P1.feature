@@ -1,4 +1,5 @@
 @P1
+@Standalone
 @Miscellaneous
 Feature: Miscellaneous Tests
   Login

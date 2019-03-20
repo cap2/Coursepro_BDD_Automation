@@ -61,26 +61,27 @@ When('I go to a class', () => {
 });
 
 Then('I should be able to assess a pupil', () => {
-    I.waitForElement('#assessMember_20', 3);
-    I.click('#assessMember_20');
-    I.waitForElement('#percentage', 3);
-    I.wait(2);
-    I.amOnPage(global.config.domain + '/classes/session/547/?assess=1');
-    I.waitForElement('#assessMember_20', 3);
-    I.click('#assessMember_20');
-    I.waitForElement('#percentage', 3);
-    I.wait(2);
-    let element_array = 1;
-    while(element_array <= 13)
-    {
-        I.click('#assessCompetency_' + element_array +' > ul > li:nth-child(5)');
-        I.wait(1);
-        element_array ++;
-    }
-    I.click('#save');
-    I.amOnPage(global.config.domain + '/classes/session/547/?assess=1');
-    I.waitForElement('#assessMember_20', 3);
-    I.click('#assessMember_20');
-    I.wait(2);
-    I.see('85%', '#percentage');
+    generic_code.asses_pupil();
+});
+
+Then('I should be able to mark a pupil', () => {
+    I.amOnPage(global.config.domain + '/classes/session/547/');
+    I.waitForElement('#present_49', 3);
+    I.click('#present_49');
+});
+
+When('I on the overview page', () => {
+    generic_code.overview_page();
+});
+
+Then('I should be able to cancel a class', () => {
+    generic_code.cancel_class();
+});
+
+Then('un-cancel a class', () => {
+    generic_code.un_cancel_class();
+});
+
+Then('I should be able to change the day', () => {
+    generic_code.change_day();
 });

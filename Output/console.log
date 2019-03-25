@@ -1,7 +1,7 @@
 
 [0m[0m
-[0m  Overview Tests @P1 @Standalone @Overview_Tests[0m
-  [32m  √[0m[90m Week Day Navigation[0m[31m (14650ms)[0m
+[0m  Booking Tests @P1 @Standalone @Booking_Tests[0m
+  [32m  √[0m[90m Continuous Class Cash Payment[0m[31m (13928ms)[0m
 
 
 [92m [0m[32m 1 passing[0m[90m (22s)[0m

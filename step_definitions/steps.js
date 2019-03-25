@@ -1,6 +1,5 @@
 const I = actor();
 const generic_code = require('../Generic_Code/custom_steps.js');
-const global = require('../node_modules/.bin/codecept.conf');
 
 Given('Im on the login page for coursepro', () => {
     generic_code.home_page()
@@ -84,4 +83,32 @@ Then('un-cancel a class', () => {
 
 Then('I should be able to change the day', () => {
     generic_code.change_day();
+});
+
+When('I go to the booking page', () => {
+    generic_code.booking_page();
+});
+
+Then('I should be able to book a continuous class', () => {
+    generic_code.book_continuous_class();
+});
+
+Then('I should be able to book a fixed class', () => {
+    generic_code.book_fixed_class();
+});
+
+Then('I should be able to topup a continuous class', () => {
+    generic_code.topup_continuous_class();
+});
+
+Then('I should be able to topup a fixed class', () => {
+    generic_code.topup_fixed_class();
+});
+
+Then('I pay with cash', () => {
+    generic_code.pay_with_cash();
+});
+
+Then('I pay with DD', () => {
+    generic_code.pay_with_dd();
 });

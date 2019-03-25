@@ -3,6 +3,7 @@
 let Helper = codecept_helper;
 let I;
 const assert = require('assert');
+const global = require('../node_modules/.bin/codecept.conf');
 
 class MyHelper extends Helper {
 

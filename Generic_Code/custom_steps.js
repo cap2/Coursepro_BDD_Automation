@@ -56,6 +56,11 @@ module.exports = {
         I.wait(2);
     },
 
+    booking_page (){
+        I.amOnPage(this.fields.Domain + '/book/');
+        I.waitForElement('#course',3);
+    },
+
     asses_pupil () {
         I.waitForElement('#assessMember_20', 3);
         I.click('#assessMember_20');
@@ -128,4 +133,41 @@ module.exports = {
             I.say(`${text_before} matches ${text_after}`);
         }
     },
+
+    book_continuous_class (){
+        I.waitForElement('#level', 3);
+        I.click('#level');
+        I.waitForElement('#level-list > ul > li:nth-child(2)',2);
+        I.click('#level-list > ul > li:nth-child(2)');
+        I.waitForElement('#results');
+
+
+    },
+
+    book_fixed_class (){
+        I.amOnPage(this.fields.Domain + '/classes/');
+
+    },
+
+    topup_continuous_class (){
+        I.amOnPage(this.fields.Domain + '/classes/');
+
+    },
+
+    topup_fixed_class (){
+        I.amOnPage(this.fields.Domain + '/classes/');
+
+    },
+
+    pay_with_cash (){
+        I.amOnPage(this.fields.Domain + '/classes/');
+
+    },
+
+    pay_with_dd (){
+        I.amOnPage(this.fields.Domain + '/classes/');
+
+    },
+
+
 };

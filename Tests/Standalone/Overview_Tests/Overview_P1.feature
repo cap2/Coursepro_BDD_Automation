@@ -9,21 +9,21 @@ Feature: Overview Tests
 
   Scenario: Assessment Asses Student
     Given Im logged in
-    When I go to a class
-    Then I should be able to assess a pupil
+    When  I go to a class
+    Then  I should be able to assess a pupil
 
   Scenario: Assessment Mark Attendance
     Given Im logged in
-    When I go to a class
-    Then I should be able to mark a pupil
+    When  I go to a class
+    Then  I should be able to mark a pupil
 
   Scenario: Cancel and Un_cancel Classes
     Given Im logged in
-    When I on the overview page
-    Then I should be able to cancel a class
-    Then un-cancel a class
+    When  I on the overview page
+    Then  I should be able to cancel a class
+    Then  un-cancel a class
 
   Scenario: Week Day Navigation
     Given Im logged in
-    When I on the overview page
-    Then I should be able to change the day
+    When  I on the overview page
+    Then  I should be able to change the day

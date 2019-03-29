@@ -1,8 +1,29 @@
 
 [0m[0m
-[0m  Booking Tests @P1 @Standalone @Booking_Tests[0m
-  [32m  √[0m[90m Continuous Class Cash Payment[0m[31m (13928ms)[0m
+[0m  Member Tests @P1 @Standalone @Member_Tests[0m
+  [32m  √[0m[90m Search Member[0m[31m (14199ms)[0m
+  [32m  √[0m[90m Add Member[0m[31m (27100ms)[0m
+  [32m  √[0m[90m Add Membership[0m[31m (18686ms)[0m
+  [31m  1) View Financial Information[0m
 
 
-[92m [0m[32m 1 passing[0m[90m (22s)[0m
+[92m [0m[32m 3 passing[0m[90m (2m)[0m
+[31m  1 failing[0m
+
+[0m  1) Member Tests @P1 @Standalone @Member_Tests
+       View Financial Information:
+
+      [31mexpected element #balance to include "Dan Jakobson"[0m
+      [32m+ expected[0m [31m- actual[0m
+
+      [31m-Courses[0m
+      [31m-Transactions[0m
+      [31m-0.00[0m
+      [31m-0.00[0m
+      [31m- [0m
+      [32m+Dan Jakobson[0m
+      [0m[90m
+  
+[0m
+
 

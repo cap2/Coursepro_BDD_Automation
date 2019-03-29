@@ -57,6 +57,7 @@ Then('I should not be able to switch leisure centres', () => {
 When('I go to a class', () => {
     I.wait(2);
     I.amOnPage(global.config.domain + '/classes/session/547/?assess=1');
+    I.wait(2);
 });
 
 Then('I should be able to assess a pupil', () => {
@@ -89,6 +90,10 @@ When('I go to the booking page', () => {
     generic_code.booking_page();
 });
 
+When('I go to the topup page', () => {
+    generic_code.topup_page();
+});
+
 Then('I should be able to book a continuous class', () => {
     generic_code.book_continuous_class();
 });
@@ -97,18 +102,54 @@ Then('I should be able to book a fixed class', () => {
     generic_code.book_fixed_class();
 });
 
-Then('I should be able to topup a continuous class', () => {
-    generic_code.topup_continuous_class();
-});
-
-Then('I should be able to topup a fixed class', () => {
-    generic_code.topup_fixed_class();
-});
-
 Then('I pay with cash', () => {
     generic_code.pay_with_cash();
 });
 
-Then('I pay with DD', () => {
+Then('I pay with dd', () => {
     generic_code.pay_with_dd();
+});
+
+Then('I topup with cash', () => {
+    generic_code.topup_with_cash();
+});
+
+Then('I topup with dd', () => {
+    generic_code.topup_with_dd();
+});
+
+When('I use booking member 1', () =>{
+    generic_code.booking_member_1();
+});
+
+When('I use booking member 2', () =>{
+    generic_code.booking_member_2();
+});
+
+When('I use topup member 1', () =>{
+    generic_code.topup_member_1();
+});
+
+When('I use topup member 2', () =>{
+    generic_code.topup_member_2();
+});
+
+When('I go to the member page', () =>{
+    generic_code.member_page();
+});
+
+Then('I should be able to search for a member', () =>{
+    generic_code.member_search();
+});
+
+Then('I should be able to add a member', () =>{
+    generic_code.member_add();
+});
+
+Then('I should be able to add a membership', () =>{
+    generic_code.member_add_membership();
+});
+
+Then('I should be able to view a financial screen', () =>{
+    generic_code.member_view_fiancial_screen();
 });

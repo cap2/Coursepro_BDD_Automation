@@ -66,6 +66,21 @@ module.exports = {
         I.waitForElement('#member',3);
     },
 
+    settings_page () {
+        I.amOnPage(this.fields.Domain + '/settings/');
+        I.waitForElement('#mySettings',3);
+    },
+
+    user_settings_page () {
+        I.amOnPage(this.fields.Domain + '/settings/users/');
+        I.waitForElement('#results',3);
+    },
+
+    member_settings_page () {
+        I.amOnPage(this.fields.Domain + '/settings/members/');
+        I.waitForElement('#results',3);
+    },
+
     topup_page (){
         I.amOnPage(this.fields.Domain + '/book/topup');
         I.waitForElement('#member',3);
@@ -333,7 +348,45 @@ module.exports = {
         I.click('#finance_mini > a.viewAll');
         I.wait(0.5);
         I.waitForElement('#financeSummary');
-        I.see('Dan Jakobson','#balance');
+        I.see('Courses','#balance');
+    },
+
+    create_user () {
+        I.waitForElement('#add',6);
+        I.click('#add');
+        I.waitForElement('#first_name',6);
+        I.wait(0.5);
+        I.fillField('#first_name','Dan');
+        I.fillField('#last_name','Jakobson');
+        I.fillField('#email','qa@cap2.co.uk');
+        I.fillField('#username','danjak');
+        I.click('#generatepassword');
+        I.waitForElement('#password',6);
+        I.fillField('#password','qwerty');
+        I.fillField('#password_2','qwerty');
+        I.click('#allCentres');
+        I.click('#allCourses');
+        I.click('#submit');
+        I.waitForElement('#messages',3);
+        I.wait(1);
+        I.see('Success: Your user was successfully added','#messages');
+    },
+
+    create_contact_trigger () {
+        I.amOnPage(this.fields.Domain + '/settings/members/triggers/');
+        I.waitForElement('#add',3);
+        I.click('#add');
+        I.waitForElement('#name',3);
+        I.fillField('#name', 'Test Trigger');
+        I.fillField('#variable', '5');
+        I.click('#everywhere');
+        I.click('#add_method');
+        I.waitForElement('#email_subject_0',3);
+        I.fillField('#email_subject_0', 'test_test');
+        I.click('#submit');
+        I.waitForElement('#messages',3);
+        I.wait(1);
+        I.see('Success: Your trigger was successfully added','#messages');
     },
 
 };

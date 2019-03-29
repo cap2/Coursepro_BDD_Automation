@@ -1,25 +1,25 @@
 {
   "stats": {
     "suites": 1,
-    "tests": 4,
-    "passes": 3,
+    "tests": 2,
+    "passes": 1,
     "pending": 0,
     "failures": 1,
-    "start": "2019-03-29T11:24:22.112Z",
-    "end": "2019-03-29T11:26:11.173Z",
-    "duration": 109061,
-    "testsRegistered": 20,
-    "passPercent": 15,
+    "start": "2019-03-29T15:49:07.914Z",
+    "end": "2019-03-29T15:50:02.164Z",
+    "duration": 54250,
+    "testsRegistered": 22,
+    "passPercent": 4.5,
     "pendingPercent": 0,
     "other": 0,
     "hasOther": false,
-    "skipped": 16,
+    "skipped": 20,
     "hasSkipped": true,
     "passPercentClass": "danger",
     "pendingPercentClass": "danger"
   },
   "suites": {
-    "uuid": "2c392b88-94da-40a9-bb16-ae1aee98a01f",
+    "uuid": "6149a7a9-d4d2-4940-8369-fdeae917a1fc",
     "title": "",
     "fullFile": "",
     "file": "",
@@ -28,7 +28,7 @@
     "tests": [],
     "suites": [
       {
-        "uuid": "133cbc14-0fa7-480d-a03a-c276e50a3630",
+        "uuid": "888ced68-6d6d-4c50-a780-789f7f0a0144",
         "title": "Booking Tests @P1 @Standalone @Booking_Tests",
         "fullFile": "",
         "file": "",
@@ -44,7 +44,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "0701c684-3c8f-46c5-b679-bcc858e639c0",
+            "uuid": "f7e571cc-0c16-4f75-9c6d-d3bf9ffd0008",
             "isHook": true,
             "skipped": false
           },
@@ -59,7 +59,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "3a2ce8b6-1756-47e5-938f-42bda9df1975",
+            "uuid": "d2d0f9ac-2ff9-4b08-981a-4eb5f7c8a3cc",
             "isHook": true,
             "skipped": false
           }
@@ -76,7 +76,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "05a97c54-2115-4794-948d-d730e38a8d09",
+            "uuid": "b8254f25-820c-426b-bc5c-7e95549e56af",
             "isHook": true,
             "skipped": false
           },
@@ -91,7 +91,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "51591e49-626a-4cbc-a458-9c7f731fbd21",
+            "uuid": "796963a8-326b-4e2d-941b-341bf1e84df9",
             "isHook": true,
             "skipped": false
           }
@@ -108,7 +108,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "c9ff2500-d8f0-4fcc-bf4a-285e032de3ad",
+            "uuid": "a24e55b3-fa21-4ff1-8e3c-90f1f949b1f4",
             "isHook": false,
             "skipped": true
           },
@@ -123,7 +123,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "40dfa927-1bcc-445c-9a15-c1008bfb6ed0",
+            "uuid": "d406d233-891c-4b8f-a48d-3c977798fa06",
             "isHook": false,
             "skipped": true
           },
@@ -138,7 +138,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "532f0203-c8d4-44c2-a463-26ad9fe639b8",
+            "uuid": "7a38f8b3-d053-4ff7-b8cf-6503f1552747",
             "isHook": false,
             "skipped": true
           },
@@ -153,7 +153,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "7025e944-f854-4c19-a1c8-f80e01aac0f3",
+            "uuid": "6cb38b49-6062-4b72-9fb1-3ae18893fa53",
             "isHook": false,
             "skipped": true
           },
@@ -168,7 +168,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "666cbd86-ab8a-4121-9787-a86a5d9ce3d0",
+            "uuid": "ef561942-172d-457b-9f68-b6548b623284",
             "isHook": false,
             "skipped": true
           },
@@ -183,7 +183,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "caa27b31-10f5-4fa6-8f57-7ee73572f9aa",
+            "uuid": "a1ca9c81-c501-4be4-bb82-79f4e6846f3b",
             "isHook": false,
             "skipped": true
           },
@@ -198,7 +198,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "b3c187e2-1c2e-4d4f-8190-86f8ea840d0b",
+            "uuid": "6c3a132e-46ff-4add-819d-f26a2f0fe56f",
             "isHook": false,
             "skipped": true
           },
@@ -213,7 +213,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "af3ca682-4fcb-464f-8de2-9f42a102e338",
+            "uuid": "e0ba75e2-5605-4365-8111-1b62629d651f",
             "isHook": false,
             "skipped": true
           }
@@ -223,14 +223,14 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "c9ff2500-d8f0-4fcc-bf4a-285e032de3ad",
-          "40dfa927-1bcc-445c-9a15-c1008bfb6ed0",
-          "532f0203-c8d4-44c2-a463-26ad9fe639b8",
-          "7025e944-f854-4c19-a1c8-f80e01aac0f3",
-          "666cbd86-ab8a-4121-9787-a86a5d9ce3d0",
-          "caa27b31-10f5-4fa6-8f57-7ee73572f9aa",
-          "b3c187e2-1c2e-4d4f-8190-86f8ea840d0b",
-          "af3ca682-4fcb-464f-8de2-9f42a102e338"
+          "a24e55b3-fa21-4ff1-8e3c-90f1f949b1f4",
+          "d406d233-891c-4b8f-a48d-3c977798fa06",
+          "7a38f8b3-d053-4ff7-b8cf-6503f1552747",
+          "6cb38b49-6062-4b72-9fb1-3ae18893fa53",
+          "ef561942-172d-457b-9f68-b6548b623284",
+          "a1ca9c81-c501-4be4-bb82-79f4e6846f3b",
+          "6c3a132e-46ff-4add-819d-f26a2f0fe56f",
+          "e0ba75e2-5605-4365-8111-1b62629d651f"
         ],
         "duration": null,
         "root": false,
@@ -238,7 +238,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "5bd447b1-c75e-4524-9736-6c282b779afd",
+        "uuid": "6401021c-27cf-4fe0-b5a6-8457e5583d4b",
         "title": "Member Tests @P1 @Standalone @Member_Tests",
         "fullFile": "",
         "file": "",
@@ -247,14 +247,14 @@
             "title": "\"before all\" hook: codeceptjs.beforeSuite",
             "fullTitle": "Member Tests @P1 @Standalone @Member_Tests \"before all\" hook: codeceptjs.beforeSuite",
             "timedOut": false,
-            "duration": 1,
+            "duration": 0,
             "pass": false,
             "fail": false,
             "pending": false,
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "c7588c0e-ce0b-497f-b3e6-ae7f4a1686fc",
+            "uuid": "f477f117-8314-4026-960a-58bfa8bf36fe",
             "isHook": true,
             "skipped": false
           },
@@ -262,14 +262,14 @@
             "title": "\"before each\" hook: codeceptjs.before",
             "fullTitle": "Member Tests @P1 @Standalone @Member_Tests \"before each\" hook: codeceptjs.before",
             "timedOut": false,
-            "duration": 5327,
+            "duration": 0,
             "pass": false,
             "fail": false,
             "pending": false,
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "b0b4c556-921f-4db0-9507-01746887e673",
+            "uuid": "77b0fec5-c0c0-42a4-9af0-8643e60c047c",
             "isHook": true,
             "skipped": false
           }
@@ -279,14 +279,14 @@
             "title": "\"after all\" hook: codeceptjs.afterSuite",
             "fullTitle": "Member Tests @P1 @Standalone @Member_Tests \"after all\" hook: codeceptjs.afterSuite",
             "timedOut": false,
-            "duration": 1,
+            "duration": 0,
             "pass": false,
             "fail": false,
             "pending": false,
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "6bced718-f9d2-4d8c-9104-15f3d72024d4",
+            "uuid": "2d51db6e-6142-4636-9804-97fae3d3a4d1",
             "isHook": true,
             "skipped": false
           },
@@ -294,14 +294,14 @@
             "title": "\"after each\" hook: codeceptjs.after",
             "fullTitle": "Member Tests @P1 @Standalone @Member_Tests \"after each\" hook: codeceptjs.after",
             "timedOut": false,
-            "duration": 1331,
+            "duration": 0,
             "pass": false,
             "fail": false,
             "pending": false,
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "de8b8f05-3555-461d-b55b-6437687d0e0f",
+            "uuid": "e64e156a-fd86-414b-895f-d5969e215615",
             "isHook": true,
             "skipped": false
           }
@@ -311,90 +311,80 @@
             "title": "Search Member",
             "fullTitle": "Member Tests @P1 @Standalone @Member_Tests Search Member",
             "timedOut": false,
-            "duration": 14199,
-            "state": "passed",
-            "speed": "slow",
-            "pass": true,
+            "duration": 0,
+            "pass": false,
             "fail": false,
             "pending": false,
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "b185f1bf-715b-4e4b-af7f-721506e69b1a",
+            "uuid": "419f947f-7dd2-4d7e-95ab-adcfa1acacc5",
             "isHook": false,
-            "skipped": false
+            "skipped": true
           },
           {
             "title": "Add Member",
             "fullTitle": "Member Tests @P1 @Standalone @Member_Tests Add Member",
             "timedOut": false,
-            "duration": 27100,
-            "state": "passed",
-            "speed": "slow",
-            "pass": true,
+            "duration": 0,
+            "pass": false,
             "fail": false,
             "pending": false,
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "b19569a2-2371-425f-b0c4-cb9653b5b6a5",
+            "uuid": "4771b6a3-f7a1-4739-bfaf-58e3d7701cc8",
             "isHook": false,
-            "skipped": false
+            "skipped": true
           },
           {
             "title": "Add Membership",
             "fullTitle": "Member Tests @P1 @Standalone @Member_Tests Add Membership",
             "timedOut": false,
-            "duration": 18686,
-            "state": "passed",
-            "speed": "slow",
-            "pass": true,
+            "duration": 0,
+            "pass": false,
             "fail": false,
             "pending": false,
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "fba8e335-7359-41d4-ba5c-48d4b0cd851d",
+            "uuid": "cbfe189f-43f2-4a60-8572-e079ee9c0e63",
             "isHook": false,
-            "skipped": false
+            "skipped": true
           },
           {
             "title": "View Financial Information",
             "fullTitle": "Member Tests @P1 @Standalone @Member_Tests View Financial Information",
             "timedOut": false,
-            "duration": 13737,
-            "state": "failed",
+            "duration": 0,
             "pass": false,
-            "fail": true,
+            "fail": false,
             "pending": false,
             "code": "runSteps(child.steps)",
-            "err": {
-              "diff": "- Courses\n- Transactions\n- 0.00\n- 0.00\n-  \n+ Dan Jakobson\n"
-            },
+            "err": {},
             "isRoot": false,
-            "uuid": "0d1a48e2-52a7-4c43-9fcf-375492386f10",
+            "uuid": "02c0bd83-8207-46fa-80be-a0a3949fde31",
             "isHook": false,
-            "skipped": false
+            "skipped": true
           }
         ],
         "suites": [],
-        "passes": [
-          "b185f1bf-715b-4e4b-af7f-721506e69b1a",
-          "b19569a2-2371-425f-b0c4-cb9653b5b6a5",
-          "fba8e335-7359-41d4-ba5c-48d4b0cd851d"
-        ],
-        "failures": [
-          "0d1a48e2-52a7-4c43-9fcf-375492386f10"
-        ],
+        "passes": [],
+        "failures": [],
         "pending": [],
-        "skipped": [],
-        "duration": 73722,
+        "skipped": [
+          "419f947f-7dd2-4d7e-95ab-adcfa1acacc5",
+          "4771b6a3-f7a1-4739-bfaf-58e3d7701cc8",
+          "cbfe189f-43f2-4a60-8572-e079ee9c0e63",
+          "02c0bd83-8207-46fa-80be-a0a3949fde31"
+        ],
+        "duration": null,
         "root": false,
         "rootEmpty": false,
         "_timeout": 0
       },
       {
-        "uuid": "765e339f-65b5-487c-80f0-214c151bc1b3",
+        "uuid": "c08539ee-5089-452c-8960-fe65eb163e52",
         "title": "Miscellaneous Tests @P1 @Standalone @Miscellaneous",
         "fullFile": "",
         "file": "",
@@ -410,7 +400,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "408595fb-7e67-4c23-aaa0-b6b4372dbc5d",
+            "uuid": "5f920490-a0f2-4c29-94bc-2ab3fd5eff82",
             "isHook": true,
             "skipped": false
           },
@@ -425,7 +415,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "b176f56a-2c75-4b9c-9fc9-5dd876fa7ee7",
+            "uuid": "47df7c0d-9171-47fb-9523-253239588fd7",
             "isHook": true,
             "skipped": false
           }
@@ -442,7 +432,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "1d8b25c0-8418-4279-85e3-c3526b60493c",
+            "uuid": "1333ae58-f8af-4917-9b85-c722627f808d",
             "isHook": true,
             "skipped": false
           },
@@ -457,7 +447,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "8e5bae78-7276-4263-9782-14892cf1c17b",
+            "uuid": "d2612f1d-9c6c-4cda-ba36-6ed854281b7f",
             "isHook": true,
             "skipped": false
           }
@@ -474,7 +464,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "17444385-8c55-4526-8684-012526f2e3e9",
+            "uuid": "5e3ce2b1-0e99-4d95-9893-8d51e76826df",
             "isHook": false,
             "skipped": true
           },
@@ -489,7 +479,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "ecba0687-8e8f-4d71-954a-4f9c08e8753e",
+            "uuid": "2a26a299-05fc-4fd0-b600-9c991de48560",
             "isHook": false,
             "skipped": true
           },
@@ -504,7 +494,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "b19f210b-27df-451d-864d-8e15d8fe5e16",
+            "uuid": "96c08299-2c8e-4697-9bcb-b867c7f7b586",
             "isHook": false,
             "skipped": true
           },
@@ -519,7 +509,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "eff55864-65fe-496c-948b-93ddeb08225a",
+            "uuid": "3a67654c-7112-4e94-ad1a-7e3deeb1d194",
             "isHook": false,
             "skipped": true
           }
@@ -529,10 +519,10 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "17444385-8c55-4526-8684-012526f2e3e9",
-          "ecba0687-8e8f-4d71-954a-4f9c08e8753e",
-          "b19f210b-27df-451d-864d-8e15d8fe5e16",
-          "eff55864-65fe-496c-948b-93ddeb08225a"
+          "5e3ce2b1-0e99-4d95-9893-8d51e76826df",
+          "2a26a299-05fc-4fd0-b600-9c991de48560",
+          "96c08299-2c8e-4697-9bcb-b867c7f7b586",
+          "3a67654c-7112-4e94-ad1a-7e3deeb1d194"
         ],
         "duration": null,
         "root": false,
@@ -540,7 +530,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "fa9f093b-f099-4a13-ba6a-fdbaf75a0115",
+        "uuid": "a324493f-5979-4ea4-b6fd-f55181a21b6f",
         "title": "Overview Tests @P1 @Standalone @Overview_Tests",
         "fullFile": "",
         "file": "",
@@ -556,7 +546,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "482366a5-5b07-4ace-b0a1-17cef8dab265",
+            "uuid": "3787e24a-e095-433a-8834-ac236c8f02ad",
             "isHook": true,
             "skipped": false
           },
@@ -571,7 +561,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "5ad25998-dd7b-44a9-9780-ce165ce72dab",
+            "uuid": "2fb6a5a4-b783-4ac7-87d9-74d21eb91cef",
             "isHook": true,
             "skipped": false
           }
@@ -588,7 +578,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "5aa6356c-7e72-4ddb-abe0-e5fdba7352f3",
+            "uuid": "9dbb6b30-d7c7-4ed7-8001-26bbf2711354",
             "isHook": true,
             "skipped": false
           },
@@ -603,7 +593,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "0a74cae4-d513-4631-9865-652da62e7a33",
+            "uuid": "cae7e35b-4bea-4432-8dee-812b4a2801e1",
             "isHook": true,
             "skipped": false
           }
@@ -620,7 +610,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "7874d6ce-503c-473c-9522-85bce36c62e4",
+            "uuid": "4771a194-ea67-4c41-bc66-fb1763869542",
             "isHook": false,
             "skipped": true
           },
@@ -635,7 +625,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "8ce2d5eb-3398-4290-bfad-0af11cb2e4d4",
+            "uuid": "da517ee8-95fb-4932-9cf3-2bf7b8e7c81a",
             "isHook": false,
             "skipped": true
           },
@@ -650,7 +640,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "7ac5179f-41d1-487f-af73-e5ec65f1d9f3",
+            "uuid": "0b10d2ce-8c0b-4803-917c-3c6e147c31ac",
             "isHook": false,
             "skipped": true
           },
@@ -665,7 +655,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "c8c0f8f6-0191-4c93-932e-bb0636e0db1c",
+            "uuid": "661cc9a9-502a-4d44-969f-7ff370404fb0",
             "isHook": false,
             "skipped": true
           }
@@ -675,12 +665,132 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "7874d6ce-503c-473c-9522-85bce36c62e4",
-          "8ce2d5eb-3398-4290-bfad-0af11cb2e4d4",
-          "7ac5179f-41d1-487f-af73-e5ec65f1d9f3",
-          "c8c0f8f6-0191-4c93-932e-bb0636e0db1c"
+          "4771a194-ea67-4c41-bc66-fb1763869542",
+          "da517ee8-95fb-4932-9cf3-2bf7b8e7c81a",
+          "0b10d2ce-8c0b-4803-917c-3c6e147c31ac",
+          "661cc9a9-502a-4d44-969f-7ff370404fb0"
         ],
         "duration": null,
+        "root": false,
+        "rootEmpty": false,
+        "_timeout": 0
+      },
+      {
+        "uuid": "d68e81f4-c261-44bb-af0b-a376e8c80a86",
+        "title": "Settings Tests @P1 @Standalone @Settings_Tests",
+        "fullFile": "",
+        "file": "",
+        "beforeHooks": [
+          {
+            "title": "\"before all\" hook: codeceptjs.beforeSuite",
+            "fullTitle": "Settings Tests @P1 @Standalone @Settings_Tests \"before all\" hook: codeceptjs.beforeSuite",
+            "timedOut": false,
+            "duration": 2,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.suiteSetup(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "1333ed94-0fbb-41a2-819a-aac25b35097c",
+            "isHook": true,
+            "skipped": false
+          },
+          {
+            "title": "\"before each\" hook: codeceptjs.before",
+            "fullTitle": "Settings Tests @P1 @Standalone @Settings_Tests \"before each\" hook: codeceptjs.before",
+            "timedOut": false,
+            "duration": 4784,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.setup(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "ed7a3fb3-3421-4653-9282-bbba8de63cda",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "afterHooks": [
+          {
+            "title": "\"after all\" hook: codeceptjs.afterSuite",
+            "fullTitle": "Settings Tests @P1 @Standalone @Settings_Tests \"after all\" hook: codeceptjs.afterSuite",
+            "timedOut": false,
+            "duration": 1,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.suiteTeardown(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "83661e8f-3001-41bf-83b6-177cbab89253",
+            "isHook": true,
+            "skipped": false
+          },
+          {
+            "title": "\"after each\" hook: codeceptjs.after",
+            "fullTitle": "Settings Tests @P1 @Standalone @Settings_Tests \"after each\" hook: codeceptjs.after",
+            "timedOut": false,
+            "duration": 2974,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.teardown(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "85fd49ad-44ce-409e-962f-2a0913118ab2",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "tests": [
+          {
+            "title": "Create New User",
+            "fullTitle": "Settings Tests @P1 @Standalone @Settings_Tests Create New User",
+            "timedOut": false,
+            "duration": 16377,
+            "state": "passed",
+            "speed": "slow",
+            "pass": true,
+            "fail": false,
+            "pending": false,
+            "code": "runSteps(child.steps)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "d768d239-0a7a-4f65-81d1-eef317c50fa0",
+            "isHook": false,
+            "skipped": false
+          },
+          {
+            "title": "Create new Contact Trigger",
+            "fullTitle": "Settings Tests @P1 @Standalone @Settings_Tests Create new Contact Trigger",
+            "timedOut": false,
+            "duration": 19230,
+            "state": "failed",
+            "pass": false,
+            "fail": true,
+            "pending": false,
+            "code": "runSteps(child.steps)",
+            "err": {
+              "diff": "+ Success: Your trigger was successfully added\n"
+            },
+            "isRoot": false,
+            "uuid": "b695eaa7-7689-4f81-8ab8-e12dfa6e3c88",
+            "isHook": false,
+            "skipped": false
+          }
+        ],
+        "suites": [],
+        "passes": [
+          "d768d239-0a7a-4f65-81d1-eef317c50fa0"
+        ],
+        "failures": [
+          "b695eaa7-7689-4f81-8ab8-e12dfa6e3c88"
+        ],
+        "pending": [],
+        "skipped": [],
+        "duration": 35607,
         "root": false,
         "rootEmpty": false,
         "_timeout": 0

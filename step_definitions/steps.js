@@ -1,5 +1,6 @@
 const I = actor();
 const generic_code = require('../Generic_Code/custom_steps.js');
+const global = require('../node_modules/.bin/codecept.conf.js');
 
 //Given //
 Given('Im on the login page for coursepro', () => {
@@ -11,7 +12,20 @@ Given('Im logged in', () => {
 Given('Im logged in as a none root user', () => {
     generic_code.login_default()
 });
+Given('I run the cron', () => {
+    generic_code.run_cron()
+});
 
+
+// To make "And" command work I had to amend files:
+// Codecept.js (line 83)
+// bdd.js (line 54)
+// to include "And" related items.
+
+//And
+And('I know its completed', () => {
+    generic_code.confirm_cron_ran()
+});
 
 //When //
 When('I successfully login', () => {
@@ -23,11 +37,13 @@ When('I click the logout button', () => {
 When('I click the leisure centre button', () => {
     I.click('#userCentre');
     I.click('#centreList > ul > li:nth-child(2)');
+    I.wait(2);
 });
 When('I click the leisure centre button for lead', () => {
     I.waitForElement('#userCentre', 3);
     I.click('#userCentre');
     I.see('Westminster Leisure Centre', '#centreList');
+    I.wait(2);
 });
 When('I go to a class', () => {
     I.wait(2);
@@ -67,6 +83,12 @@ When('I click the user settings page', () =>{
 When('I click the member settings page', () =>{
     generic_code.member_settings_page();
 });
+When('I click the waiting list page', () =>{
+    generic_code.waiting_list_page();
+});
+When('I go to the reports page', () => {
+generic_code.reports_page()
+});
 
 
 //Then //
@@ -79,13 +101,14 @@ Then('I should see the homepage', () => {
     I.see('Please log in to continue');
 });
 Then('I should be able to switch leisure centres', () => {
-    I.waitForElement('#userCentre', 3);
+    I.waitForElement('#userCentre', 6);
     I.wait(2);
     I.seeTextEquals('Castle Leisure Centre', '#userCentre');
 });
 Then('I should not be able to switch leisure centres', () => {
-    I.waitForElement('#userCentre', 3);
+    I.waitForElement('#userCentre', 6);
     I.click('#userCentre');
+    I.wait(2);
     I.dontSeeElement('#centreList > ul > li:nth-child(2)');
 });
 Then('I should be able to assess a pupil', () => {
@@ -140,4 +163,37 @@ Then('I should be able to create a new user', () =>{
 });
 Then('I should be able to create a new contact trigger', () =>{
     generic_code.create_contact_trigger();
+});
+Then('I should be able to add to an existing list', () =>{
+    generic_code.add_to_existing_list();
+});
+Then('I should be able to add to a new list', () =>{
+    generic_code.add_to_new_list();
+});
+Then('I should see overview report', () => {
+generic_code.overview_report()
+});
+Then('I should see class member report', () => {
+generic_code.class_member_report()
+});
+Then('I should see class session member report', () => {
+generic_code.class_session_member_report()
+});
+Then('I should see classes report', () => {
+generic_code.classes_report()
+});
+Then('I should see members report', () => {
+generic_code.member_report()
+});
+Then('I should see transactions report', () => {
+generic_code.transactions_report()
+});
+Then('I should see transactions credit report', () => {
+generic_code.transactions_credit_report()
+});
+Then('I should see transactions refunds report', () => {
+generic_code.transactions_refund_report()
+});
+Then('I should see transactions online report', () => {
+generic_code.transactions_online_report()
 });

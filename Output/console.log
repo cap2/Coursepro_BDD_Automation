@@ -1,20 +1,73 @@
 
 [0m[0m
+[0m  Booking Tests @P1 @Standalone @Booking_Tests[0m
+  [32m  √[0m[90m Continuous Class Cash Payment[0m[31m (33163ms)[0m
+  [32m  √[0m[90m Continuous Class DD Payment[0m[31m (31176ms)[0m
+  [32m  √[0m[90m Fixed Class Cash Payment[0m[31m (32607ms)[0m
+  [32m  √[0m[90m Fixed Class DD Payment[0m[31m (33611ms)[0m
+  [32m  √[0m[90m Top-up Continuous Cash Payment[0m[31m (22758ms)[0m
+  [32m  √[0m[90m Top-up Continuous DD Payment[0m[31m (22283ms)[0m
+  [32m  √[0m[90m Top-up Fixed Cash Payment[0m[31m (23535ms)[0m
+  [32m  √[0m[90m Top-up Fixed DD Payment[0m[31m (21895ms)[0m
+
+[0m  Member Tests @P1 @Standalone @Member_Tests[0m
+  [32m  √[0m[90m Search Member[0m[31m (13517ms)[0m
+  [32m  √[0m[90m Add Member[0m[31m (22455ms)[0m
+  [32m  √[0m[90m Add Membership[0m[31m (17815ms)[0m
+  [32m  √[0m[90m View Financial Information[0m[31m (15444ms)[0m
+
+[0m  Miscellaneous Tests @P1 @Standalone @Miscellaneous[0m
+  [32m  √[0m[90m Login with valid credentials[0m[31m (18213ms)[0m
+  [31m  1) Logout[0m
+  [32m  √[0m[90m Switch Leisure Centre[0m[31m (10927ms)[0m
+  [32m  √[0m[90m User Permissions[0m[31m (11066ms)[0m
+
+[0m  Overview Tests @P1 @Standalone @Overview_Tests[0m
+  [32m  √[0m[90m Assessment Asses Student[0m[31m (42198ms)[0m
+  [32m  √[0m[90m Assessment Mark Attendance[0m[31m (17492ms)[0m
+  [32m  √[0m[90m Cancel and Un_cancel Classes[0m[31m (22088ms)[0m
+  [32m  √[0m[90m Week Day Navigation[0m[31m (16506ms)[0m
+
+[0m  Report Tests @P1 @Standalone @Report_Tests[0m
+  [32m  √[0m[90m Class Member Report[0m[31m (18302ms)[0m
+  [32m  √[0m[90m Class Session Member Report[0m[31m (17184ms)[0m
+  [32m  √[0m[90m Classes Report[0m[31m (19240ms)[0m
+  [32m  √[0m[90m Members Report[0m[31m (18539ms)[0m
+  [32m  √[0m[90m Transactions Report[0m[31m (27450ms)[0m
+  [32m  √[0m[90m Transactions Credit Report[0m[31m (26974ms)[0m
+  [32m  √[0m[90m Transactions Refunds Report[0m[31m (27567ms)[0m
+  [32m  √[0m[90m Transactions Online Report[0m[31m (27285ms)[0m
+
 [0m  Settings Tests @P1 @Standalone @Settings_Tests[0m
-  [32m  √[0m[90m Create New User[0m[31m (16377ms)[0m
-  [31m  1) Create new Contact Trigger[0m
+  [32m  √[0m[90m Create New User[0m[31m (18037ms)[0m
+  [32m  √[0m[90m Create new Contact Trigger[0m[31m (54421ms)[0m
+
+[0m  Waiting List Tests @P1 @Standalone @Waiting_List_Tests[0m
+  [32m  √[0m[90m Add to existing waiting list[0m[31m (20670ms)[0m
+  [32m  √[0m[90m Add to new waiting list[0m[31m (21489ms)[0m
 
 
-[92m [0m[32m 1 passing[0m[90m (54s)[0m
+[92m [0m[32m 31 passing[0m[90m (16m)[0m
 [31m  1 failing[0m
 
-[0m  1) Settings Tests @P1 @Standalone @Settings_Tests
-       Create new Contact Trigger:
+[0m  1) Miscellaneous Tests @P1 @Standalone @Miscellaneous
+       Logout:
 
-      [31mexpected element #messages to include "Success: Your trigger was successfully added"[0m
+      [31mexpected web application to include "Please log in to continue"[0m
       [32m+ expected[0m [31m- actual[0m
 
-      [32m+Success: Your trigger was successfully added[0m
+      [31m-Error: Please enter a username![0m
+      [31m-Username:[0m
+      [31m- [0m
+      [31m-Password:[0m
+      [31m- [0m
+      [31m-Log In[0m
+      [31m- [0m
+      [31m-© CAP2 2019[0m
+      [31m-Version 2.10.49-devel[0m
+      [31m-Standalone[0m
+      [31m---( 1 lines more )---[0m
+      [32m+Please log in to continue[0m
       [0m[90m
   
 [0m

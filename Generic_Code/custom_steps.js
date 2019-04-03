@@ -12,7 +12,7 @@ module.exports = {
     },
 
     login_admin () {
-        I.amOnPage(global.config.domain + '/');
+        I.amOnPage(this.fields.Domain + '/');
         I.waitForElement('#username',3);
         I.wait(2);
         I.see('Please log in to continue');
@@ -59,31 +59,49 @@ module.exports = {
     booking_page (){
         I.amOnPage(this.fields.Domain + '/book/');
         I.waitForElement('#course',3);
+        I.wait(2);
     },
 
     member_page () {
         I.amOnPage(this.fields.Domain + '/members/');
         I.waitForElement('#member',3);
+        I.wait(2);
     },
 
     settings_page () {
         I.amOnPage(this.fields.Domain + '/settings/');
         I.waitForElement('#mySettings',3);
+        I.wait(2);
     },
 
     user_settings_page () {
         I.amOnPage(this.fields.Domain + '/settings/users/');
         I.waitForElement('#results',3);
+        I.wait(2);
     },
 
     member_settings_page () {
         I.amOnPage(this.fields.Domain + '/settings/members/');
         I.waitForElement('#results',3);
+        I.wait(2);
     },
 
     topup_page (){
         I.amOnPage(this.fields.Domain + '/book/topup');
         I.waitForElement('#member',3);
+        I.wait(2);
+    },
+
+    waiting_list_page () {
+        I.amOnPage(this.fields.Domain + '/waiting/');
+        I.waitForElement('#add',3);
+        I.wait(2);
+    },
+
+    reports_page () {
+        I.amOnPage(this.fields.Domain + '/newreports/');
+        I.waitForElement('#fields',6);
+        I.wait(2);
     },
 
     asses_pupil () {
@@ -91,7 +109,7 @@ module.exports = {
         I.click('#assessMember_20');
         I.waitForElement('#percentage', 3);
         I.wait(2);
-        I.amOnPage(global.config.domain + '/classes/session/547/?assess=1');
+        I.amOnPage(this.fields.Domain + '/classes/session/547/?assess=1');
         I.waitForElement('#assessMember_20', 3);
         I.click('#assessMember_20');
         I.waitForElement('#percentage', 3);
@@ -104,7 +122,7 @@ module.exports = {
             element_array ++;
         }
         I.click('#save');
-        I.amOnPage(global.config.domain + '/classes/session/547/?assess=1');
+        I.amOnPage(this.fields.Domain + '/classes/session/547/?assess=1');
         I.waitForElement('#assessMember_20', 3);
         I.click('#assessMember_20');
         I.wait(2);
@@ -155,30 +173,29 @@ module.exports = {
         if(I.assertNotEqual(text_before, text_after) === false)
         {
             I.fail_test(`${text_before} matches ${text_after}`);
-            I.say(`${text_before} matches ${text_after}`);
         }
     },
 
     book_continuous_class (){
-        I.waitForElement('#level', 3);
+        I.waitForElement('#level', 6);
         I.click('#level');
-        I.waitForElement('#level-list > ul > li:nth-child(2)',2);
+        I.waitForElement('#level-list > ul > li:nth-child(2)',6);
         I.click('#level-list > ul > li:nth-child(2)');
-        I.waitForElement('#results',5);
+        I.waitForElement('#results',6);
         I.wait(2);
         I.click('#c8');
         I.wait(3);
     },
 
     book_fixed_class (){
-        I.waitForElement('#course',3);
+        I.waitForElement('#course',6);
         I.click('#course');
-        I.waitForElement('#course-list',3);
+        I.waitForElement('#course-list',6);
         I.wait(1);
         I.click('#course-list > ul > li:nth-child(2)');
-        I.waitForElement('#level', 3);
+        I.waitForElement('#level', 6);
         I.click('#level');
-        I.waitForElement('#level-list',3);
+        I.waitForElement('#level-list',6);
         I.wait(1);
         I.click('#level-list > ul > li:nth-child(2)');
         I.waitForElement('#results',5);
@@ -287,7 +304,7 @@ module.exports = {
 
     member_add () {
         I.amOnPage(this.fields.Domain + '/members/add/');
-        I.waitForElement('#title',3);
+        I.waitForElement('#title',6);
         I.fillField('#first_name', 'Dan');
         I.wait(0.5);
         I.fillField('#last_name', 'Jakobson');
@@ -306,7 +323,7 @@ module.exports = {
         I.wait(0.5);
         I.click('#terms_consent');
         I.click('#submit');
-        I.waitForElement('#profile',3);
+        I.waitForElement('#profile',6);
         I.see('Dan Jakobson','#profile');
 
     },
@@ -375,18 +392,165 @@ module.exports = {
     create_contact_trigger () {
         I.amOnPage(this.fields.Domain + '/settings/members/triggers/');
         I.waitForElement('#add',3);
+        I.wait(1);
         I.click('#add');
         I.waitForElement('#name',3);
+        I.wait(1);
         I.fillField('#name', 'Test Trigger');
+        I.wait(0.5);
         I.fillField('#variable', '5');
+        I.wait(0.5);
         I.click('#everywhere');
+        I.wait(0.5);
         I.click('#add_method');
+        I.wait(0.5);
         I.waitForElement('#email_subject_0',3);
+        I.wait(1);
         I.fillField('#email_subject_0', 'test_test');
+        I.wait(0.5);
         I.click('#submit');
-        I.waitForElement('#messages',3);
+        I.waitForElement('#messages',6);
         I.wait(1);
         I.see('Success: Your trigger was successfully added','#messages');
+    },
+
+    add_to_existing_list () {
+        I.waitForElement('#add',3);
+        I.click('#add');
+        I.waitForElement('#level_id',5);
+        I.click('#level_id');
+        I.waitForElement('#level_id-list',5);
+        I.click('#level_id-list > ul > li:nth-child(2)');
+        I.fillField('#member', 'Camille Matthews');
+        I.wait(2);
+        I.pressKey('Shift');
+        I.pressKey('Enter');
+        I.waitForElement('#memberResults',5);
+        I.wait(1);
+        I.click('#m_row_0');
+        I.wait(0.5);
+        I.click('#days_element_1_0');
+        I.wait(0.5);
+        I.click('#days_moveRight');
+        I.wait(0.5);
+        I.click('#submit');
+        I.waitForElement('#results',5);
+        I.wait(2);
+        I.see('Camille Matthews','#results');
+    },
+
+    add_to_new_list () {
+        I.waitForElement('#add',3);
+        I.click('#add');
+        I.waitForElement('#level_id',5);
+        I.click('#level_id');
+        I.waitForElement('#level_id-list',5);
+        I.click('#level_id-list > ul > li:nth-child(7)');
+        I.wait(0.5);
+        I.fillField('#member', 'Camille Matthews');
+        I.wait(2);
+        I.pressKey('Shift');
+        I.pressKey('Enter');
+        I.waitForElement('#memberResults',5);
+        I.wait(1);
+        I.click('#m_row_0');
+        I.wait(0.5);
+        I.click('#days_element_1_0');
+        I.wait(0.5);
+        I.click('#days_moveRight');
+        I.wait(0.5);
+        I.click('#submit');
+        I.waitForElement('#results',5);
+        I.wait(2);
+        I.see('Camille Matthews','#results');
+    },
+
+    class_member_report () {
+        I.wait(2);
+        I.amOnPage(this.fields.Domain + '/newreports/classmembers?norun=1');
+        I.wait(2);
+        I.click('#update');
+        I.waitForElement('#total',4);
+    },
+
+    class_session_member_report () {
+        I.wait(2);
+        I.amOnPage(this.fields.Domain + '/newreports/classmembers?norun=1');
+        I.wait(2);
+        I.click('#update');
+        I.waitForElement('#total',4);
+    },
+
+    classes_report () {
+        I.wait(2);
+        I.amOnPage(this.fields.Domain + '/newreports/classes?norun=1');
+        I.wait(2);
+        I.click('#update');
+        I.waitForElement('#total',4);
+        I.wait(2);
+        I.see('100','#total');
+    },
+
+    member_report () {
+        I.wait(2);
+        I.amOnPage(this.fields.Domain + '/newreports/members?norun=1');
+        I.wait(2);
+        I.click('#update');
+        I.waitForElement('#total',4);
+        I.wait(2);
+        I.see('301','#total');
+    },
+
+    transactions_report () {
+        I.wait(2);
+        I.amOnPage(this.fields.Domain + '/newreports/transactions?norun=1');
+        I.wait(2);
+        I.waitForElement('#from_date',4);
+        I.fillField('#from_date', '01/01/2019');
+        let date = new Date().getDate().toString();
+        I.fillField('#to_date', date);
+        I.wait(10);
+        I.click('#update');
+        I.waitForElement('#total',4);
+    },
+
+    transactions_credit_report () {
+        I.wait(2);
+        I.amOnPage(this.fields.Domain + '/newreports/transactions/credits?norun=1');
+        I.wait(2);
+        I.waitForElement('#from_date',4);
+        I.fillField('#from_date', '01/01/2019');
+        let date = new Date().getDate().toString();
+        I.fillField('#to_date', date);
+        I.wait(10);
+        I.click('#update');
+        I.waitForElement('#total',4);
+    },
+
+    transactions_refund_report () {
+        I.wait(2);
+        I.amOnPage(this.fields.Domain + '/newreports/transactions/refunds?norun=1');
+        I.wait(2);
+        I.waitForElement('#from_date',4);
+        I.fillField('#from_date', '01/01/2019');
+        let date = new Date().getDate().toString();
+        I.fillField('#to_date', date);
+        I.wait(10);
+        I.click('#update');
+        I.waitForElement('#total',4);
+    },
+
+    transactions_online_report () {
+        I.wait(2);
+        I.amOnPage(this.fields.Domain + '/newreports/transactions/online?norun=1');
+        I.wait(2);
+        I.waitForElement('#from_date',4);
+        I.fillField('#from_date', '01/01/2019');
+        let date = new Date().getDate().toString();
+        I.fillField('#to_date', date);
+        I.wait(10);
+        I.click('#update');
+        I.waitForElement('#total',4);
     },
 
 };

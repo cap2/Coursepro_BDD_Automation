@@ -553,4 +553,13 @@ module.exports = {
         I.waitForElement('#total',4);
     },
 
+    run_cron () {
+
+    },
+
+    X_Sessions_Remaining_email () {
+
+    },
+
+
 };

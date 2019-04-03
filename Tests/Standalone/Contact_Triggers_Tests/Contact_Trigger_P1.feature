@@ -14,8 +14,6 @@ Feature: Contact Trigger Tests
 
   Background:
     Given I run the cron
-    And   I know its completed
 
   Scenario: X Sessions Remaining
-    Given I can see the db
     Then  I should be able to see the X Sessions Remaining email

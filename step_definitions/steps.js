@@ -17,16 +17,6 @@ Given('I run the cron', () => {
 });
 
 
-// To make "And" command work I had to amend files:
-// Codecept.js (line 83)
-// bdd.js (line 54)
-// to include "And" related items.
-
-//And
-And('I know its completed', () => {
-    generic_code.confirm_cron_ran()
-});
-
 //When //
 When('I successfully login', () => {
     generic_code.login_admin()
@@ -196,4 +186,7 @@ generic_code.transactions_refund_report()
 });
 Then('I should see transactions online report', () => {
 generic_code.transactions_online_report()
+});
+Then('I should be able to see the X Sessions Remaining email', () => {
+    generic_code.X_Sessions_Remaining_email()
 });

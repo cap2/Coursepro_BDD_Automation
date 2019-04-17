@@ -19,6 +19,8 @@ class MyHelper extends Helper {
         assert.fail(message);
     }
 
+
+
 }
 
 module.exports = MyHelper;

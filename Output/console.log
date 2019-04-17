@@ -1,5 +1,45 @@
 
 [0m[0m
 [0m  Contact Trigger Tests @P1 @Standalone @Contact_Trigger_Tests[0m
-  [32m  √[0m[90m X Sessions Remaining[0m
+  [31m  1) X Sessions Remaining[0m
+  [31m  2) "after each" hook: codeceptjs.after for "X Sessions Remaining"[0m
+
+
+[92m [0m[32m 0 passing[0m[90m (4s)[0m
+[31m  2 failing[0m
+
+[0m  1) Contact Trigger Tests @P1 @Standalone @Contact_Trigger_Tests
+       X Sessions Remaining:
+[0m[31m     TypeError: this.__base.Driver.open is not a function[0m[90m
+      at new Connection (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\database-js\lib\connection.js:15:48)
+      at DbHelper.createConnection (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\codeceptjs-dbhelper\index.js:115:16)
+      at DbHelper.connect (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\codeceptjs-dbhelper\index.js:31:49)
+      at Step.run (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\codeceptjs\lib\step.js:40:47)
+      at recorder.add (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\codeceptjs\lib\actor.js:70:23)
+      at <anonymous>
+[0m
+[0m  2) Contact Trigger Tests @P1 @Standalone @Contact_Trigger_Tests
+       "after each" hook: codeceptjs.after for "X Sessions Remaining":
+[0m[31m     Error: Evaluation failed: DOMException: Failed to read the 'localStorage' property from 'Window': Access is denied for this document.
+    at __puppeteer_evaluation_script__:1:1[0m[90m
+      at ExecutionContext.evaluateHandle (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\puppeteer\lib\ExecutionContext.js:80:15)
+      at <anonymous>
+      at process._tickCallback (internal/process/next_tick.js:188:7)
+    -- ASYNC --
+      at ExecutionContext.<anonymous> (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\puppeteer\lib\helper.js:108:27)
+      at ExecutionContext.evaluate (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\puppeteer\lib\ExecutionContext.js:48:31)
+      at ExecutionContext.<anonymous> (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\puppeteer\lib\helper.js:109:23)
+      at DOMWorld.evaluate (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\puppeteer\lib\DOMWorld.js:105:20)
+      at <anonymous>
+      at process._tickCallback (internal/process/next_tick.js:188:7)
+    -- ASYNC --
+      at Frame.<anonymous> (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\puppeteer\lib\helper.js:108:27)
+      at Page.evaluate (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\puppeteer\lib\Page.js:815:43)
+      at Page.<anonymous> (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\puppeteer\lib\helper.js:109:23)
+      at Puppeteer.executeScript (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\codeceptjs\lib\helper\Puppeteer.js:1197:29)
+      at Puppeteer._after (C:\Users\DJakobson\Regression Tests\CodeCeption_Testing_Ground\node_modules\codeceptjs\lib\helper\Puppeteer.js:231:16)
+      at <anonymous>
+      at process._tickCallback (internal/process/next_tick.js:188:7)
+[0m
+
 

@@ -1,5 +1,8 @@
 const I = actor();
 const global = require('../node_modules/.bin/codecept.conf');
+const run_cmd = require('../Generic_Code/RunCMD');
+const DB_Connect = require('../Generic_Code/DB_Connection');
+
 
 module.exports = {
 
@@ -9,6 +12,10 @@ module.exports = {
         Admin_email: global.config.CoursePro_Username1,
         Admin_password: global.config.CoursePro_Password1,
         Domain: global.config.domain,
+        Sql_host: global.config.Sql_host,
+        Sql_server_username: global.config.Sql_server_username,
+        Sql_server_password: global.config.Sql_server_password,
+        Sql_database_name: global.config.Sql_database_name,
     },
 
     login_admin () {
@@ -553,12 +560,33 @@ module.exports = {
         I.waitForElement('#total',4);
     },
 
-    run_cron () {
-
+    async run_cron () {
+        await run_cmd.cmd_run_Cron();
     },
 
-    X_Sessions_Remaining_email () {
-
+    async X_Sessions_Remaining_email () {
+        let sql_query = "SELECT * FROM dev_mail";
+        let connection_String = (
+            `mysql:///${this.fields.Sql_server_username}
+            :${this.fields.Sql_server_password}
+            @${this.fields.Sql_host}
+            /${this.fields.Sql_database_name}`).toString();
+        I.connect( "coursepro_default", connection_String);
+        const database_results = await I.query("coursepro_default",sql_query);
+        let values = Object.values(database_results);
+        for(let i=0; i< values.length; i++)
+        {
+            const row = values[i];
+            if(row['message'].match('sessions remaining in'))
+            {
+                I.say(row);
+            }
+            else
+            {
+                I.fail_test(`X Sessions Remaining Test Failed`);
+            }
+        }
+        await I.removeConnection( "coursepro_default" ); // also disconnects
     },
 
 

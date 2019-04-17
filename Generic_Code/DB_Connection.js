@@ -1,4 +1,4 @@
-const sql = require('../../node_modules/mysql');
+const sql = require('../node_modules/mysql');
 const global = require('../node_modules/.bin/codecept.conf');
 
 module.exports =
@@ -25,16 +25,15 @@ module.exports =
                     await con.connect((err) => {
                         if (err) {
                             reject(err.message);
-                            return;
+                            return err.message;
                         }
-                    });
-
-                    con.query(sql_query, (err, result) => {
+                    }).then(function () {
+                        con.query(sql_query, (err, result) => {
                         if (err) throw err;
 
                         resolve(result);
                         return result;
-                    });
+                    });});
 
                     con.end();
 

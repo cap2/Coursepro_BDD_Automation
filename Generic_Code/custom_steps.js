@@ -74,6 +74,7 @@ module.exports = {
         I.waitForElement('#member',3);
         I.wait(2);
     },
+    
 
     settings_page () {
         I.amOnPage(this.fields.Domain + '/settings/');

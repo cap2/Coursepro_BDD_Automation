@@ -14,8 +14,7 @@ exports.generate_coursepro = function () {
 
             importer.import(global.config.Sql_File_Path)
                 .then(()=> {resolve(['Generation Complete']);})
-                .catch((err)=>{reject(['Generation Failed', err.message]);});
-
+                .catch((err)=> {reject(['Generation Failed', err.message]);});
         })();
     });
 };

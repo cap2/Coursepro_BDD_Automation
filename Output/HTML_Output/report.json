@@ -2,24 +2,24 @@
   "stats": {
     "suites": 1,
     "tests": 1,
-    "passes": 0,
+    "passes": 1,
     "pending": 0,
-    "failures": 1,
-    "start": "2019-04-11T15:56:41.712Z",
-    "end": "2019-04-11T15:56:46.138Z",
-    "duration": 4426,
-    "testsRegistered": 33,
-    "passPercent": 0,
+    "failures": 0,
+    "start": "2019-04-24T08:43:58.599Z",
+    "end": "2019-04-24T08:44:09.617Z",
+    "duration": 11018,
+    "testsRegistered": 34,
+    "passPercent": 2.9,
     "pendingPercent": 0,
     "other": 1,
     "hasOther": true,
-    "skipped": 32,
+    "skipped": 33,
     "hasSkipped": true,
     "passPercentClass": "danger",
     "pendingPercentClass": "danger"
   },
   "suites": {
-    "uuid": "ff67660f-d3b1-4fa6-b887-08acd1823126",
+    "uuid": "391e9c1f-63c3-47b7-b323-cdbbb92b6645",
     "title": "",
     "fullFile": "",
     "file": "",
@@ -28,7 +28,7 @@
     "tests": [],
     "suites": [
       {
-        "uuid": "0b9ad328-ba05-48df-9d96-b5e5c190a3ff",
+        "uuid": "f62130f1-6970-4eec-ad7f-004a9c771500",
         "title": "Booking Tests @P1 @Standalone @Booking_Tests",
         "fullFile": "",
         "file": "",
@@ -44,7 +44,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "048de923-8634-4b55-a057-e231b05a1562",
+            "uuid": "1c0ea1e8-0bff-44a0-be8d-528aa36947ed",
             "isHook": true,
             "skipped": false
           },
@@ -59,7 +59,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "138b8fc0-374b-4bea-9217-0a5516e6e54f",
+            "uuid": "ced36a28-0467-43c9-9e16-24c126d690cf",
             "isHook": true,
             "skipped": false
           }
@@ -76,7 +76,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "380eb5cf-f131-4823-b98a-d0a1517773fc",
+            "uuid": "4d2ac860-c3c5-472f-ad52-d089ee3c1f4e",
             "isHook": true,
             "skipped": false
           },
@@ -91,7 +91,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "cc08e4f7-87a9-4866-b571-15d0bbaa4175",
+            "uuid": "be3c4a98-5570-474a-982e-74df45e81cc2",
             "isHook": true,
             "skipped": false
           }
@@ -108,7 +108,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "a8601ce7-2928-4d3f-918c-19a7369a4754",
+            "uuid": "5bcac8a7-621c-4048-8c1f-b8a62a24b24c",
             "isHook": false,
             "skipped": true
           },
@@ -123,7 +123,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "a5f60f00-02de-4240-8f77-f2e23a5b592b",
+            "uuid": "af92a7e9-a46e-4af7-a7d5-a4f0de237cfc",
             "isHook": false,
             "skipped": true
           },
@@ -138,7 +138,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "9e903ed9-e99d-478e-a93a-e719d6f2f587",
+            "uuid": "9a0ee001-3a45-43b1-a1ea-203c4faf6d32",
             "isHook": false,
             "skipped": true
           },
@@ -153,7 +153,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "e04a282f-3f51-4fd4-bce0-bddf2ec8663b",
+            "uuid": "6a1e8c58-717e-43e5-ad44-4510c2db52b9",
             "isHook": false,
             "skipped": true
           },
@@ -168,7 +168,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "3f7d8fbb-f341-4f7e-a899-fd0fdf3de377",
+            "uuid": "772db2f7-42bb-44f0-9596-eaf24c25752d",
             "isHook": false,
             "skipped": true
           },
@@ -183,7 +183,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "d28d6e19-e36e-4c4d-ad24-fd0fe3f6792e",
+            "uuid": "fcf721b8-0a9c-43b3-ba6b-0ca93fed8bf3",
             "isHook": false,
             "skipped": true
           },
@@ -198,7 +198,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "6bb5c040-b980-4a2a-86cf-a7a09e7ce3a5",
+            "uuid": "535b6ed3-d9c4-4575-b859-a7f92743be8d",
             "isHook": false,
             "skipped": true
           },
@@ -213,7 +213,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "c6a7e7b7-c8eb-4c97-a98c-3f725ecc82a5",
+            "uuid": "f0bc99e0-9811-4511-9c74-3cb63726b261",
             "isHook": false,
             "skipped": true
           }
@@ -223,14 +223,14 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "a8601ce7-2928-4d3f-918c-19a7369a4754",
-          "a5f60f00-02de-4240-8f77-f2e23a5b592b",
-          "9e903ed9-e99d-478e-a93a-e719d6f2f587",
-          "e04a282f-3f51-4fd4-bce0-bddf2ec8663b",
-          "3f7d8fbb-f341-4f7e-a899-fd0fdf3de377",
-          "d28d6e19-e36e-4c4d-ad24-fd0fe3f6792e",
-          "6bb5c040-b980-4a2a-86cf-a7a09e7ce3a5",
-          "c6a7e7b7-c8eb-4c97-a98c-3f725ecc82a5"
+          "5bcac8a7-621c-4048-8c1f-b8a62a24b24c",
+          "af92a7e9-a46e-4af7-a7d5-a4f0de237cfc",
+          "9a0ee001-3a45-43b1-a1ea-203c4faf6d32",
+          "6a1e8c58-717e-43e5-ad44-4510c2db52b9",
+          "772db2f7-42bb-44f0-9596-eaf24c25752d",
+          "fcf721b8-0a9c-43b3-ba6b-0ca93fed8bf3",
+          "535b6ed3-d9c4-4575-b859-a7f92743be8d",
+          "f0bc99e0-9811-4511-9c74-3cb63726b261"
         ],
         "duration": null,
         "root": false,
@@ -238,7 +238,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "432b2219-033d-45ce-aebc-581c0e3e5f8e",
+        "uuid": "0e7331b7-9fed-4363-a867-51e1b83edab2",
         "title": "Contact Trigger Tests @P1 @Standalone @Contact_Trigger_Tests",
         "fullFile": "",
         "file": "",
@@ -247,14 +247,14 @@
             "title": "\"before all\" hook: codeceptjs.beforeSuite",
             "fullTitle": "Contact Trigger Tests @P1 @Standalone @Contact_Trigger_Tests \"before all\" hook: codeceptjs.beforeSuite",
             "timedOut": false,
-            "duration": 4203,
+            "duration": 0,
             "pass": false,
             "fail": false,
             "pending": false,
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "6e4ba59e-678d-4cbf-86a2-4d15852772bd",
+            "uuid": "624706e0-a0e0-40ef-a6d8-3572924d9dee",
             "isHook": true,
             "skipped": false
           },
@@ -269,22 +269,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "4d92e3c8-477e-4423-bdf8-3a4b8cd126ba",
-            "isHook": true,
-            "skipped": false
-          },
-          {
-            "title": "\"before each\" hook: Before",
-            "fullTitle": "Contact Trigger Tests @P1 @Standalone @Contact_Trigger_Tests \"before each\" hook: Before",
-            "timedOut": false,
-            "duration": 49,
-            "pass": false,
-            "fail": false,
-            "pending": false,
-            "code": "runSteps(child.steps)",
-            "err": {},
-            "isRoot": false,
-            "uuid": "667d0052-971a-4b6c-8d0b-91abbdab1aba",
+            "uuid": "b0405bfd-5247-43a5-b3a0-33ce2191dde3",
             "isHook": true,
             "skipped": false
           }
@@ -294,33 +279,29 @@
             "title": "\"after all\" hook: codeceptjs.afterSuite",
             "fullTitle": "Contact Trigger Tests @P1 @Standalone @Contact_Trigger_Tests \"after all\" hook: codeceptjs.afterSuite",
             "timedOut": false,
-            "duration": 1,
+            "duration": 0,
             "pass": false,
             "fail": false,
             "pending": false,
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "c66a2c81-925c-4cce-9b2b-bb652e47140f",
+            "uuid": "1a385526-9515-4b15-94d0-a205c1bb6836",
             "isHook": true,
             "skipped": false
           },
           {
-            "title": "\"after each\" hook: codeceptjs.after for \"X Sessions Remaining\"",
-            "fullTitle": "Contact Trigger Tests @P1 @Standalone @Contact_Trigger_Tests \"after each\" hook: codeceptjs.after for \"X Sessions Remaining\"",
+            "title": "\"after each\" hook: codeceptjs.after",
+            "fullTitle": "Contact Trigger Tests @P1 @Standalone @Contact_Trigger_Tests \"after each\" hook: codeceptjs.after",
             "timedOut": false,
-            "duration": 11,
-            "state": "failed",
+            "duration": 0,
             "pass": false,
-            "fail": true,
+            "fail": false,
             "pending": false,
             "code": "scenario.teardown(suite)",
-            "err": {
-              "message": "Error: Evaluation failed: DOMException: Failed to read the 'localStorage' property from 'Window': Access is denied for this document.\n    at __puppeteer_evaluation_script__:1:1",
-              "estack": "Error: Evaluation failed: DOMException: Failed to read the 'localStorage' property from 'Window': Access is denied for this document.\n    at __puppeteer_evaluation_script__:1:1\n    at ExecutionContext.evaluateHandle (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\ExecutionContext.js:80:15)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)\n  -- ASYNC --\n    at ExecutionContext.<anonymous> (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\helper.js:108:27)\n    at ExecutionContext.evaluate (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\ExecutionContext.js:48:31)\n    at ExecutionContext.<anonymous> (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\helper.js:109:23)\n    at DOMWorld.evaluate (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\DOMWorld.js:105:20)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)\n  -- ASYNC --\n    at Frame.<anonymous> (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\helper.js:108:27)\n    at Page.evaluate (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\Page.js:815:43)\n    at Page.<anonymous> (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\helper.js:109:23)\n    at Puppeteer.executeScript (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\codeceptjs\\lib\\helper\\Puppeteer.js:1197:29)\n    at Puppeteer._after (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\codeceptjs\\lib\\helper\\Puppeteer.js:231:16)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)"
-            },
+            "err": {},
             "isRoot": false,
-            "uuid": "b09e05ca-b599-4eae-aae1-bbf55ad25f6a",
+            "uuid": "7cce0f8e-5f1a-4566-b18a-c74a5f4588ed",
             "isHook": true,
             "skipped": false
           }
@@ -330,36 +311,32 @@
             "title": "X Sessions Remaining",
             "fullTitle": "Contact Trigger Tests @P1 @Standalone @Contact_Trigger_Tests X Sessions Remaining",
             "timedOut": false,
-            "duration": 77,
-            "state": "failed",
+            "duration": 0,
             "pass": false,
-            "fail": true,
+            "fail": false,
             "pending": false,
             "code": "runSteps(child.steps)",
-            "err": {
-              "message": "TypeError: this.__base.Driver.open is not a function",
-              "estack": "TypeError: this.__base.Driver.open is not a function\n    at new Connection (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\database-js\\lib\\connection.js:15:48)\n    at DbHelper.createConnection (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\codeceptjs-dbhelper\\index.js:115:16)\n    at DbHelper.connect (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\codeceptjs-dbhelper\\index.js:31:49)\n    at Step.run (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\codeceptjs\\lib\\step.js:40:47)\n    at recorder.add (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\codeceptjs\\lib\\actor.js:70:23)\n    at <anonymous>"
-            },
+            "err": {},
             "isRoot": false,
-            "uuid": "40c28b9b-2340-4872-9113-a553a6fc82d4",
+            "uuid": "3823c910-c1fc-41f9-b118-8d88357e4900",
             "isHook": false,
-            "skipped": false
+            "skipped": true
           }
         ],
         "suites": [],
         "passes": [],
-        "failures": [
-          "40c28b9b-2340-4872-9113-a553a6fc82d4"
-        ],
+        "failures": [],
         "pending": [],
-        "skipped": [],
-        "duration": 77,
+        "skipped": [
+          "3823c910-c1fc-41f9-b118-8d88357e4900"
+        ],
+        "duration": null,
         "root": false,
         "rootEmpty": false,
         "_timeout": 0
       },
       {
-        "uuid": "56d7fc51-b205-4501-bfed-075b158373ed",
+        "uuid": "64078fa1-a6f2-401e-9201-4823f7c6e27f",
         "title": "Member Tests @P1 @Standalone @Member_Tests",
         "fullFile": "",
         "file": "",
@@ -375,7 +352,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "1366bbc3-9138-434b-bd35-0c9ba2f12884",
+            "uuid": "cc598f99-6f6f-4101-b1a8-3b90d7217c4a",
             "isHook": true,
             "skipped": false
           },
@@ -390,7 +367,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "79fb27e0-a65d-449f-8025-1f27f56fd4c5",
+            "uuid": "c07e4c6f-ca3d-4382-a14e-9e6a3380a545",
             "isHook": true,
             "skipped": false
           }
@@ -407,7 +384,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "c0cd9c8d-9644-4c2f-bbfd-7658d44a79ac",
+            "uuid": "9a8cf5a1-e7c1-4b27-b47c-a94ad0fd483a",
             "isHook": true,
             "skipped": false
           },
@@ -422,7 +399,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "2462fb51-8749-415e-9a6e-8716fda72a0e",
+            "uuid": "3f75debf-267a-4b68-b675-cdda0db2fe22",
             "isHook": true,
             "skipped": false
           }
@@ -439,7 +416,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "e4056317-6112-43f7-9d64-d6e554e0be61",
+            "uuid": "946759d9-a694-42c1-9a54-223cf85c46d8",
             "isHook": false,
             "skipped": true
           },
@@ -454,7 +431,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "9b17438c-59c4-4077-9ba0-d64c754a6c4f",
+            "uuid": "873adef9-93ef-4da3-8b06-bb4968100365",
             "isHook": false,
             "skipped": true
           },
@@ -469,7 +446,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "07d7131a-18bd-47ab-924d-8f43c38f5f10",
+            "uuid": "31fb830f-844a-40d9-982c-46e50f2b09bb",
             "isHook": false,
             "skipped": true
           },
@@ -484,7 +461,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "17a48371-ff02-42b1-95dd-3c91afd78ef6",
+            "uuid": "9be12d46-f249-4536-9761-a78af42266de",
             "isHook": false,
             "skipped": true
           }
@@ -494,10 +471,10 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "e4056317-6112-43f7-9d64-d6e554e0be61",
-          "9b17438c-59c4-4077-9ba0-d64c754a6c4f",
-          "07d7131a-18bd-47ab-924d-8f43c38f5f10",
-          "17a48371-ff02-42b1-95dd-3c91afd78ef6"
+          "946759d9-a694-42c1-9a54-223cf85c46d8",
+          "873adef9-93ef-4da3-8b06-bb4968100365",
+          "31fb830f-844a-40d9-982c-46e50f2b09bb",
+          "9be12d46-f249-4536-9761-a78af42266de"
         ],
         "duration": null,
         "root": false,
@@ -505,7 +482,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "66b91f77-0b88-44d5-905f-de78cb472461",
+        "uuid": "0698f7e2-6914-483e-9f74-4093a1612a0d",
         "title": "Miscellaneous Tests @P1 @Standalone @Miscellaneous",
         "fullFile": "",
         "file": "",
@@ -521,7 +498,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "20e32f9e-4afe-40e9-b470-dfbc577f28ba",
+            "uuid": "c22cc59d-beb5-431e-9304-1f9c641f58a8",
             "isHook": true,
             "skipped": false
           },
@@ -536,7 +513,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "87cf00d1-fa58-4392-b032-799ee7cf5643",
+            "uuid": "ebddfe43-4e01-4bff-857f-04050270391e",
             "isHook": true,
             "skipped": false
           }
@@ -553,7 +530,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "bf40a656-e2e4-4c49-b351-e0c8dd87a325",
+            "uuid": "421ea80f-3b0f-4df4-a851-2f4975fc1325",
             "isHook": true,
             "skipped": false
           },
@@ -568,7 +545,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "94b311a1-3048-4300-a138-cd452e88cfde",
+            "uuid": "7353a92f-5d6c-4a6d-9e9a-88ec19adf64d",
             "isHook": true,
             "skipped": false
           }
@@ -585,7 +562,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "271638de-d779-4a25-9745-40b1961681f3",
+            "uuid": "4df3505a-1b5f-4f54-a466-5a1c1fcc5d77",
             "isHook": false,
             "skipped": true
           },
@@ -600,7 +577,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "2b4a2e42-a2cf-4905-bca9-22ca15651faf",
+            "uuid": "71238c3c-85cb-4421-8449-a3faed1bd049",
             "isHook": false,
             "skipped": true
           },
@@ -615,7 +592,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "1357a4d8-38b2-491d-a530-8c8ef0ce1fce",
+            "uuid": "0d1bee56-7c39-4c6a-91ea-f840f44f2ce2",
             "isHook": false,
             "skipped": true
           },
@@ -630,7 +607,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "65db7dbc-7f9e-4219-ad0c-09b694ad976e",
+            "uuid": "480ccc9d-24dd-43ce-9ca1-a532f8a7e558",
             "isHook": false,
             "skipped": true
           }
@@ -640,10 +617,10 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "271638de-d779-4a25-9745-40b1961681f3",
-          "2b4a2e42-a2cf-4905-bca9-22ca15651faf",
-          "1357a4d8-38b2-491d-a530-8c8ef0ce1fce",
-          "65db7dbc-7f9e-4219-ad0c-09b694ad976e"
+          "4df3505a-1b5f-4f54-a466-5a1c1fcc5d77",
+          "71238c3c-85cb-4421-8449-a3faed1bd049",
+          "0d1bee56-7c39-4c6a-91ea-f840f44f2ce2",
+          "480ccc9d-24dd-43ce-9ca1-a532f8a7e558"
         ],
         "duration": null,
         "root": false,
@@ -651,7 +628,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "bc211536-11f1-441a-aa7a-c901643ea6a2",
+        "uuid": "fc8c8a11-8bef-4b7c-a21b-919bf1d64e86",
         "title": "Overview Tests @P1 @Standalone @Overview_Tests",
         "fullFile": "",
         "file": "",
@@ -667,7 +644,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "1b4ea3bd-e694-4054-a398-568361459f44",
+            "uuid": "d67c91f2-16bc-404c-a438-82cd5881e8bc",
             "isHook": true,
             "skipped": false
           },
@@ -682,7 +659,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "ca686891-afec-4c3a-9de2-3b21d3844ce4",
+            "uuid": "5ed2c9ec-b738-480b-aecc-4224cb659c70",
             "isHook": true,
             "skipped": false
           }
@@ -699,7 +676,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "437a4400-a912-4046-8882-236520d5c100",
+            "uuid": "5e81c914-a858-401a-948c-05b98aad9b6d",
             "isHook": true,
             "skipped": false
           },
@@ -714,7 +691,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "bc1747c0-081e-442a-a237-bf08c0aa28f1",
+            "uuid": "f6a869a7-7fe8-4d99-951f-c3ade163ce7c",
             "isHook": true,
             "skipped": false
           }
@@ -731,7 +708,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "011ebd5c-a749-4c9f-93c2-1c76b02d00c8",
+            "uuid": "78fc5562-b10d-48a8-8288-9580991d6fc2",
             "isHook": false,
             "skipped": true
           },
@@ -746,7 +723,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "9ff8c255-ae64-47a0-8f29-c9c465a141aa",
+            "uuid": "df9f4191-ad72-4f3b-b654-db137d3a51c9",
             "isHook": false,
             "skipped": true
           },
@@ -761,7 +738,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "83e94104-59fe-476d-bb8c-5e6c79d5dc69",
+            "uuid": "ccb669f2-4adf-47d3-b445-f0890a1add8e",
             "isHook": false,
             "skipped": true
           },
@@ -776,7 +753,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "e3310f34-c0b5-4e4b-a2b0-c120e968f3bf",
+            "uuid": "d219e68b-d909-4414-8154-273a2a27e68e",
             "isHook": false,
             "skipped": true
           }
@@ -786,10 +763,10 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "011ebd5c-a749-4c9f-93c2-1c76b02d00c8",
-          "9ff8c255-ae64-47a0-8f29-c9c465a141aa",
-          "83e94104-59fe-476d-bb8c-5e6c79d5dc69",
-          "e3310f34-c0b5-4e4b-a2b0-c120e968f3bf"
+          "78fc5562-b10d-48a8-8288-9580991d6fc2",
+          "df9f4191-ad72-4f3b-b654-db137d3a51c9",
+          "ccb669f2-4adf-47d3-b445-f0890a1add8e",
+          "d219e68b-d909-4414-8154-273a2a27e68e"
         ],
         "duration": null,
         "root": false,
@@ -797,7 +774,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "4c3ca298-77f5-48a1-a1e8-d817400d108d",
+        "uuid": "2dcc32b4-2f4f-4758-ac78-9c08f2e77d57",
         "title": "Report Tests @P1 @Standalone @Report_Tests",
         "fullFile": "",
         "file": "",
@@ -813,7 +790,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "fe8f1593-38f2-44cf-93b5-901032b02f3c",
+            "uuid": "94b961d9-8c01-4878-9e61-81692794362f",
             "isHook": true,
             "skipped": false
           },
@@ -828,7 +805,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "22320656-b4cc-4e9b-a061-aac0d4db3c2b",
+            "uuid": "fd9e076e-1a72-4d80-9e1c-d7647288dd32",
             "isHook": true,
             "skipped": false
           }
@@ -845,7 +822,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "1d3c0769-e725-4f28-af07-3df6918fd1c6",
+            "uuid": "2b24610b-62af-4491-814e-9ec2ee9b3c58",
             "isHook": true,
             "skipped": false
           },
@@ -860,7 +837,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "e6740061-e798-4595-8b37-14c242dfa038",
+            "uuid": "83201e90-8a60-4bc6-9ad0-d06ee7bde979",
             "isHook": true,
             "skipped": false
           }
@@ -877,7 +854,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "bd638027-bc82-4b83-9d79-7006c37d8640",
+            "uuid": "2148cdeb-6c53-4567-a675-017ab950343c",
             "isHook": false,
             "skipped": true
           },
@@ -892,7 +869,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "267821dc-3818-4fb4-b747-fba4624f837d",
+            "uuid": "8d93115a-62ac-44f0-ab08-c89b39811db9",
             "isHook": false,
             "skipped": true
           },
@@ -907,7 +884,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "1a4e38db-9772-4f43-a9bd-ca7fd0aa9cd1",
+            "uuid": "ce16af8c-a29c-4f18-a85f-35a41afb3929",
             "isHook": false,
             "skipped": true
           },
@@ -922,7 +899,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "7a640dfd-cd16-4190-872d-03d6b2805892",
+            "uuid": "c183bb52-22c4-458a-8f6f-a1299dcc8c04",
             "isHook": false,
             "skipped": true
           },
@@ -937,7 +914,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "194f6b44-3126-4d4d-9b4c-62327c8ebe65",
+            "uuid": "261a64c1-e3f6-4d15-9e72-b7a5cd97be7d",
             "isHook": false,
             "skipped": true
           },
@@ -952,7 +929,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "d193792b-e0c5-40ff-a4b7-e1352e718fa4",
+            "uuid": "2d1c5c7c-ebbb-43c3-841a-3f0aa4f6fcbc",
             "isHook": false,
             "skipped": true
           },
@@ -967,7 +944,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "4d089281-dda8-4230-9159-596d7be23bd1",
+            "uuid": "de1ff014-3c4a-4b01-976a-9c9fefd1f364",
             "isHook": false,
             "skipped": true
           },
@@ -982,7 +959,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "88ead859-7534-4508-9dfa-6df2fcff70d7",
+            "uuid": "5e105c4f-76cc-4043-874c-05e349b978af",
             "isHook": false,
             "skipped": true
           }
@@ -992,14 +969,14 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "bd638027-bc82-4b83-9d79-7006c37d8640",
-          "267821dc-3818-4fb4-b747-fba4624f837d",
-          "1a4e38db-9772-4f43-a9bd-ca7fd0aa9cd1",
-          "7a640dfd-cd16-4190-872d-03d6b2805892",
-          "194f6b44-3126-4d4d-9b4c-62327c8ebe65",
-          "d193792b-e0c5-40ff-a4b7-e1352e718fa4",
-          "4d089281-dda8-4230-9159-596d7be23bd1",
-          "88ead859-7534-4508-9dfa-6df2fcff70d7"
+          "2148cdeb-6c53-4567-a675-017ab950343c",
+          "8d93115a-62ac-44f0-ab08-c89b39811db9",
+          "ce16af8c-a29c-4f18-a85f-35a41afb3929",
+          "c183bb52-22c4-458a-8f6f-a1299dcc8c04",
+          "261a64c1-e3f6-4d15-9e72-b7a5cd97be7d",
+          "2d1c5c7c-ebbb-43c3-841a-3f0aa4f6fcbc",
+          "de1ff014-3c4a-4b01-976a-9c9fefd1f364",
+          "5e105c4f-76cc-4043-874c-05e349b978af"
         ],
         "duration": null,
         "root": false,
@@ -1007,7 +984,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "f79ec2e8-5eca-4615-b3a8-efa8c196a33a",
+        "uuid": "bbd5ae3e-0127-4fd8-9612-942f4ada34e7",
         "title": "Settings Tests @P1 @Standalone @Settings_Tests",
         "fullFile": "",
         "file": "",
@@ -1023,7 +1000,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "10865f08-e042-4d50-a55d-d72b4506d4da",
+            "uuid": "6f7b444e-ec08-4469-a7f4-c511196b9f14",
             "isHook": true,
             "skipped": false
           },
@@ -1038,7 +1015,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "2763768b-266f-4040-b65c-780d7a96043e",
+            "uuid": "06cec063-d050-46d5-8ed2-11531204c868",
             "isHook": true,
             "skipped": false
           }
@@ -1055,7 +1032,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "71b40786-8c99-4c58-a62e-db0e7d4ab111",
+            "uuid": "ba51086f-bc9d-4155-9872-0473732a088f",
             "isHook": true,
             "skipped": false
           },
@@ -1070,7 +1047,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "ab2b1872-550a-4264-872a-d00d08320a8a",
+            "uuid": "ed4a5905-a80c-4a80-ac6b-455d0282ae6c",
             "isHook": true,
             "skipped": false
           }
@@ -1087,7 +1064,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "ba4d02ad-1f9f-42d0-a03d-20cd5f36385c",
+            "uuid": "735e899f-cbb7-4abe-b027-77fab28b3e67",
             "isHook": false,
             "skipped": true
           },
@@ -1102,7 +1079,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "1686a5b1-bf8b-4a0c-bdf4-48671aa19673",
+            "uuid": "8430ffb5-fec2-42bf-8492-f4a4248bc217",
             "isHook": false,
             "skipped": true
           }
@@ -1112,8 +1089,8 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "ba4d02ad-1f9f-42d0-a03d-20cd5f36385c",
-          "1686a5b1-bf8b-4a0c-bdf4-48671aa19673"
+          "735e899f-cbb7-4abe-b027-77fab28b3e67",
+          "8430ffb5-fec2-42bf-8492-f4a4248bc217"
         ],
         "duration": null,
         "root": false,
@@ -1121,7 +1098,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "e1ea5e1b-5b7e-499e-81ff-b45c34c1ff70",
+        "uuid": "f80e91f6-e6df-42da-ba93-b31d41b67f5d",
         "title": "Waiting List Tests @P1 @Standalone @Waiting_List_Tests",
         "fullFile": "",
         "file": "",
@@ -1137,7 +1114,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "78515f4e-930f-4b70-b1cb-b31a5985d238",
+            "uuid": "54c7087e-07cc-4d7f-8ea7-f083050e4b9a",
             "isHook": true,
             "skipped": false
           },
@@ -1152,7 +1129,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "472947fa-f35f-4543-ab90-37a8455ecf09",
+            "uuid": "6560772b-468b-4318-b719-2cfdf4bf7544",
             "isHook": true,
             "skipped": false
           }
@@ -1169,7 +1146,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "263e98bc-c25f-4e6d-9d8c-b84e76b536c7",
+            "uuid": "efbce5e3-76c7-4914-a032-423ae9d565d4",
             "isHook": true,
             "skipped": false
           },
@@ -1184,7 +1161,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "1d8eb46e-3f89-491e-940b-20c4aaf96ad5",
+            "uuid": "b8fdd3d2-c3d3-4026-a4e8-f2ce62ab395a",
             "isHook": true,
             "skipped": false
           }
@@ -1201,7 +1178,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "3e76ad09-53cf-4ea6-8b43-e31930c421ff",
+            "uuid": "d20901d5-e1f5-4ee2-a0e9-82868f98112e",
             "isHook": false,
             "skipped": true
           },
@@ -1216,7 +1193,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "efcd8603-7035-4152-a481-0afe29a7d1fc",
+            "uuid": "3b184f10-5adf-4c67-a554-83e1b3b1e3b3",
             "isHook": false,
             "skipped": true
           }
@@ -1226,10 +1203,114 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "3e76ad09-53cf-4ea6-8b43-e31930c421ff",
-          "efcd8603-7035-4152-a481-0afe29a7d1fc"
+          "d20901d5-e1f5-4ee2-a0e9-82868f98112e",
+          "3b184f10-5adf-4c67-a554-83e1b3b1e3b3"
         ],
         "duration": null,
+        "root": false,
+        "rootEmpty": false,
+        "_timeout": 0
+      },
+      {
+        "uuid": "a1a53297-4983-42ab-9df9-9865aef09a83",
+        "title": "API Testing",
+        "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\1_test.js",
+        "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\1_test.js",
+        "beforeHooks": [
+          {
+            "title": "\"before all\" hook: codeceptjs.beforeSuite",
+            "fullTitle": "API Testing \"before all\" hook: codeceptjs.beforeSuite",
+            "timedOut": false,
+            "duration": 10942,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.suiteSetup(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "e79489e6-a710-4eec-9bb3-86fb463484f3",
+            "isHook": true,
+            "skipped": false
+          },
+          {
+            "title": "\"before each\" hook: codeceptjs.before",
+            "fullTitle": "API Testing \"before each\" hook: codeceptjs.before",
+            "timedOut": false,
+            "duration": 0,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.setup(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "787aea89-5e09-4e5d-bdd9-cb4fda330847",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "afterHooks": [
+          {
+            "title": "\"after all\" hook: codeceptjs.afterSuite",
+            "fullTitle": "API Testing \"after all\" hook: codeceptjs.afterSuite",
+            "timedOut": false,
+            "duration": 1,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.suiteTeardown(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "080bba18-0a8c-4331-8870-edbf8f42972f",
+            "isHook": true,
+            "skipped": false
+          },
+          {
+            "title": "\"after each\" hook: finalize codeceptjs for \"api test\"",
+            "fullTitle": "API Testing \"after each\" hook: finalize codeceptjs for \"api test\"",
+            "timedOut": false,
+            "duration": 29,
+            "state": "failed",
+            "pass": false,
+            "fail": true,
+            "pending": false,
+            "code": "scenario.teardown(suite)",
+            "err": {
+              "message": "Error: Evaluation failed: DOMException: Failed to read the 'localStorage' property from 'Window': Access is denied for this document.\n    at __puppeteer_evaluation_script__:1:1",
+              "estack": "Error: Evaluation failed: DOMException: Failed to read the 'localStorage' property from 'Window': Access is denied for this document.\n    at __puppeteer_evaluation_script__:1:1\n    at ExecutionContext.evaluateHandle (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\ExecutionContext.js:80:15)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)\n  -- ASYNC --\n    at ExecutionContext.<anonymous> (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\helper.js:108:27)\n    at ExecutionContext.evaluate (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\ExecutionContext.js:48:31)\n    at ExecutionContext.<anonymous> (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\helper.js:109:23)\n    at DOMWorld.evaluate (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\DOMWorld.js:105:20)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)\n  -- ASYNC --\n    at Frame.<anonymous> (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\helper.js:108:27)\n    at Page.evaluate (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\Page.js:815:43)\n    at Page.<anonymous> (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\puppeteer\\lib\\helper.js:109:23)\n    at Puppeteer.executeScript (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\codeceptjs\\lib\\helper\\Puppeteer.js:1197:29)\n    at Puppeteer._after (C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\node_modules\\codeceptjs\\lib\\helper\\Puppeteer.js:231:16)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)"
+            },
+            "isRoot": false,
+            "uuid": "9863c51c-f0e1-4388-a006-2d35c8db6a67",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "tests": [
+          {
+            "title": "api test",
+            "fullTitle": "API Testing: api test",
+            "timedOut": false,
+            "duration": 29,
+            "state": "passed",
+            "speed": "fast",
+            "pass": true,
+            "fail": false,
+            "pending": false,
+            "code": "let sessionID = await I.sendGetRequest('/api/session/sessionId');\nI.say(sessionID);",
+            "err": {},
+            "isRoot": false,
+            "uuid": "65e66ff8-98b1-42ff-9ee0-d42828893f44",
+            "isHook": false,
+            "skipped": false
+          }
+        ],
+        "suites": [],
+        "passes": [
+          "65e66ff8-98b1-42ff-9ee0-d42828893f44"
+        ],
+        "failures": [],
+        "pending": [],
+        "skipped": [],
+        "duration": 29,
         "root": false,
         "rootEmpty": false,
         "_timeout": 0

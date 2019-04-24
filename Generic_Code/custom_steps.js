@@ -1,6 +1,5 @@
 const I = actor();
 const global = require('../node_modules/.bin/codecept.conf');
-const run_cmd = require('../Generic_Code/RunCMD');
 const DB_Connect = require('../Generic_Code/DB_Connection');
 
 
@@ -74,7 +73,6 @@ module.exports = {
         I.waitForElement('#member',3);
         I.wait(2);
     },
-    
 
     settings_page () {
         I.amOnPage(this.fields.Domain + '/settings/');
@@ -559,10 +557,6 @@ module.exports = {
         I.wait(10);
         I.click('#update');
         I.waitForElement('#total',4);
-    },
-
-    async run_cron () {
-        await run_cmd.cmd_run_Cron();
     },
 
     async X_Sessions_Remaining_email () {

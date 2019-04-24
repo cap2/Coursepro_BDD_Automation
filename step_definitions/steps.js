@@ -1,6 +1,7 @@
 const I = actor();
 const generic_code = require('../Generic_Code/custom_steps.js');
 const global = require('../node_modules/.bin/codecept.conf.js');
+const db_run = require('../Generic_Code/DB_Connection');
 
 //Given //
 Given('Im on the login page for coursepro', () => {
@@ -11,9 +12,6 @@ Given('Im logged in', () => {
 });
 Given('Im logged in as a none root user', () => {
     generic_code.login_default()
-});
-Given('I run the cron', () => {
-    generic_code.run_cron()
 });
 
 
@@ -188,5 +186,6 @@ Then('I should see transactions online report', () => {
 generic_code.transactions_online_report()
 });
 Then('I should be able to see the X Sessions Remaining email', () => {
-    generic_code.X_Sessions_Remaining_email()
+    let query = 'SELECT * FROM dev_mail';
+    db_run.connect_to_db(query);
 });

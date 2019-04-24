@@ -12,8 +12,7 @@ Feature: Contact Trigger Tests
   Receipt - Not Paid
   Receipt - Paid
 
-  Background:
-    Given I run the cron
-
   Scenario: X Sessions Remaining
-    Then  I should be able to see the X Sessions Remaining email
+    Given Im logged in
+    When  I go to the member page
+    Then  I should be able to search for a member

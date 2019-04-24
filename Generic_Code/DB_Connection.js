@@ -1,5 +1,6 @@
 const sql = require('../node_modules/mysql');
 const global = require('../node_modules/.bin/codecept.conf');
+const I = actor();
 
 module.exports =
     {
@@ -11,7 +12,7 @@ module.exports =
             Cron_run_location: global.config.Cron_run_location,
         },
 
-        connect_to_db: function (sql_query)
+        connect_to_db: async function (sql_query)
         {
             return new Promise((resolve, reject) => {
                 (async () => {
@@ -30,7 +31,7 @@ module.exports =
                     }).then(function () {
                         con.query(sql_query, (err, result) => {
                         if (err) throw err;
-
+                        I.say(result);
                         resolve(result);
                         return result;
                     });});

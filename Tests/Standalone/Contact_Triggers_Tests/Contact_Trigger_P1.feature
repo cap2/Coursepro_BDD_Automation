@@ -11,8 +11,3 @@ Feature: Contact Trigger Tests
   Re-Enrolment
   Receipt - Not Paid
   Receipt - Paid
-
-  Scenario: X Sessions Remaining
-    Given Im logged in
-    When  I go to the member page
-    Then  I should be able to search for a member

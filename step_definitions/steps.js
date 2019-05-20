@@ -191,7 +191,3 @@ generic_code.transactions_refund_report()
 Then('I should see transactions online report', () => {
 generic_code.transactions_online_report()
 });
-Then('I should be able to see the X Sessions Remaining email', () => {
-    let query = 'SELECT * FROM dev_mail';
-    db_run.connect_to_db(query);
-});

@@ -1,7 +1,8 @@
 @P1
 @Standalone
 @Report_Tests
-Feature: Report Tests
+Feature: Overview Report
+  Report Tests
   Class Member Report
   Class Session Member Report
   Classes Report
@@ -10,6 +11,11 @@ Feature: Report Tests
   Transactions Credit Report
   Transactions Refunds Report
   Transactions Online Report
+
+  Scenario: Overview Report
+    Given Im logged in
+    When  I go to the reports page
+    Then  I should see overview report
 
   Scenario: Class Member Report
     Given Im logged in

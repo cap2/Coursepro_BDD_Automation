@@ -1,8 +1,8 @@
 
 [0m[0m
 [0m  API Testing[0m
-  [32m  √[0m[90m api assign member to basket test[0m[31m (3928ms)[0m
+  [32m  √[0m[90m api delete item from basket test[0m[31m (3236ms)[0m
 
 
-[92m [0m[32m 1 passing[0m[90m (11s)[0m
+[92m [0m[32m 1 passing[0m[90m (18s)[0m
 

@@ -46,9 +46,10 @@ module.exports = {
     },
 
     logout () {
+        I.wait(3);
         I.waitForElement('#userLogout',3);
         I.click('#userLogout');
-        I.wait(2);
+        I.wait(5);
     },
 
     home_page () {
@@ -198,6 +199,7 @@ module.exports = {
     },
 
     book_fixed_class (){
+        I.wait(2);
         I.waitForElement('#course',6);
         I.click('#course');
         I.waitForElement('#course-list',6);
@@ -208,6 +210,7 @@ module.exports = {
         I.waitForElement('#level-list',6);
         I.wait(1);
         I.click('#level-list > ul > li:nth-child(2)');
+        I.wait(2);
         I.waitForElement('#results',5);
         I.wait(2);
         I.click('#c57');
@@ -216,6 +219,7 @@ module.exports = {
     },
 
     pay_with_cash (){
+        I.wait(3);
         I.waitForElement('#bookAllocations',5);
         I.click('#bookContinue');
         I.waitForElement('#paymentNumbers',3);
@@ -229,6 +233,7 @@ module.exports = {
     },
 
     pay_with_dd (){
+        I.wait(3);
         I.waitForElement('#bookAllocations',5);
         I.click('#bookContinue');
         I.waitForElement('#paymentNumbers',3);
@@ -242,6 +247,7 @@ module.exports = {
     },
 
     topup_with_cash (){
+        I.wait(3);
         I.waitForElement('#bookAllocations',5);
         I.click('#bookContinue');
         I.waitForElement('#paymentNumbers',6);
@@ -255,6 +261,7 @@ module.exports = {
     },
 
     topup_with_dd (){
+        I.wait(3);
         I.waitForElement('#bookAllocations',5);
         I.click('#bookContinue');
         I.waitForElement('#paymentNumbers',5);
@@ -291,6 +298,7 @@ module.exports = {
         I.waitForElement('#member',6);
         I.fillField('#member', 'Marley Zimmerman');
         I.click('#search');
+        I.wait(3);
         I.waitForElement('#m4',6);
         I.click('#m4');
         I.wait(3);
@@ -300,6 +308,7 @@ module.exports = {
         I.waitForElement('#member',6);
         I.fillField('#member', 'Katelin Luna');
         I.click('#search');
+        I.wait(3);
         I.waitForElement('#m114',6);
         I.click('#m114');
         I.wait(3);
@@ -379,10 +388,11 @@ module.exports = {
     },
 
     create_user () {
+        I.wait(2);
         I.waitForElement('#add',6);
         I.click('#add');
         I.waitForElement('#first_name',6);
-        I.wait(0.5);
+        I.wait(1);
         I.fillField('#first_name','Dan');
         I.fillField('#last_name','Jakobson');
         I.fillField('#email','qa@cap2.co.uk');
@@ -425,6 +435,7 @@ module.exports = {
     },
 
     add_to_existing_list () {
+        I.wait(2);
         I.waitForElement('#add',3);
         I.click('#add');
         I.waitForElement('#level_id',5);
@@ -450,6 +461,7 @@ module.exports = {
     },
 
     add_to_new_list () {
+        I.wait(2);
         I.waitForElement('#add',3);
         I.click('#add');
         I.waitForElement('#level_id',5);
@@ -473,6 +485,11 @@ module.exports = {
         I.waitForElement('#results',5);
         I.wait(2);
         I.see('Camille Matthews','#results');
+    },
+
+    overview_report () {
+        I.wait(2);
+        I.see('Overview','#body > header > h1');
     },
 
     class_member_report () {

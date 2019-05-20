@@ -5,21 +5,21 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2019-05-20T07:56:39.777Z",
-    "end": "2019-05-20T07:56:50.467Z",
-    "duration": 10690,
-    "testsRegistered": 43,
-    "passPercent": 2.3,
+    "start": "2019-05-20T13:37:06.160Z",
+    "end": "2019-05-20T13:37:24.397Z",
+    "duration": 18237,
+    "testsRegistered": 46,
+    "passPercent": 2.2,
     "pendingPercent": 0,
     "other": 0,
     "hasOther": false,
-    "skipped": 42,
+    "skipped": 45,
     "hasSkipped": true,
     "passPercentClass": "danger",
     "pendingPercentClass": "danger"
   },
   "suites": {
-    "uuid": "fa402bc3-b617-4040-be53-cfd675b19ed2",
+    "uuid": "39a85661-ebb7-4ce0-b49d-00b89f2fde75",
     "title": "",
     "fullFile": "",
     "file": "",
@@ -28,7 +28,7 @@
     "tests": [],
     "suites": [
       {
-        "uuid": "0662fb57-fcbb-4216-8965-af4b66e1e8e6",
+        "uuid": "e7ac50d2-4731-4ccf-a517-251fd57ac96c",
         "title": "Booking Tests @P1 @Standalone @Booking_Tests",
         "fullFile": "",
         "file": "",
@@ -44,7 +44,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "08c871a7-4017-4459-a181-279c409bbe35",
+            "uuid": "b8485ba4-f413-45bf-8184-4010d1eac726",
             "isHook": true,
             "skipped": false
           },
@@ -59,7 +59,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "e7535fa0-8b6f-4779-ba45-8b5368533df5",
+            "uuid": "bb6b953f-eba2-428d-9e54-d005217a49c7",
             "isHook": true,
             "skipped": false
           }
@@ -76,7 +76,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "ccf84a91-72f6-4abc-b20a-23dce840f53b",
+            "uuid": "4f17a9a0-64f9-4497-9974-8fc6ca175320",
             "isHook": true,
             "skipped": false
           },
@@ -91,7 +91,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "38606d00-7115-4f37-9007-95e74293a08d",
+            "uuid": "1125a44a-cc70-47a1-821f-521d19533b15",
             "isHook": true,
             "skipped": false
           }
@@ -108,7 +108,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "70101f0a-0b29-4ff0-9c41-50ac3b649413",
+            "uuid": "62835dc9-75ac-4c6b-8e41-ebf7fb58e9cd",
             "isHook": false,
             "skipped": true
           },
@@ -123,7 +123,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "e2ab173e-766b-4eb3-9e90-0c1b03f69957",
+            "uuid": "6f073d7c-767a-494e-a46b-548298370dcd",
             "isHook": false,
             "skipped": true
           },
@@ -138,7 +138,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "2f28cb51-81da-4232-bcf7-35c99f3b9d21",
+            "uuid": "43b87c04-43c9-4cbc-aad5-402e059fb1f9",
             "isHook": false,
             "skipped": true
           },
@@ -153,7 +153,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "fa3ca703-e358-4134-a0ba-38396289907f",
+            "uuid": "715f903e-4b13-480c-8aa3-b5ce5b796fef",
             "isHook": false,
             "skipped": true
           },
@@ -168,7 +168,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "a8749613-a8f0-48a4-ac6e-c3afaf197754",
+            "uuid": "792c70dd-9d58-4f29-9c5e-619a84383979",
             "isHook": false,
             "skipped": true
           },
@@ -183,7 +183,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "e1384707-126e-412c-a23e-c15df6e8c8b5",
+            "uuid": "b732907a-2243-4c82-9b84-3412c4d7c930",
             "isHook": false,
             "skipped": true
           },
@@ -198,7 +198,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "b269749b-0092-4bba-b6f9-0aaf7079620b",
+            "uuid": "f80fe0bb-3c49-4f6f-a523-0a95d4354e9b",
             "isHook": false,
             "skipped": true
           },
@@ -213,7 +213,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "e71daa4f-f327-4c68-9da5-a4b03ed93f6e",
+            "uuid": "0a6349c7-4695-49a9-84eb-011f4598abb1",
             "isHook": false,
             "skipped": true
           }
@@ -223,14 +223,14 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "70101f0a-0b29-4ff0-9c41-50ac3b649413",
-          "e2ab173e-766b-4eb3-9e90-0c1b03f69957",
-          "2f28cb51-81da-4232-bcf7-35c99f3b9d21",
-          "fa3ca703-e358-4134-a0ba-38396289907f",
-          "a8749613-a8f0-48a4-ac6e-c3afaf197754",
-          "e1384707-126e-412c-a23e-c15df6e8c8b5",
-          "b269749b-0092-4bba-b6f9-0aaf7079620b",
-          "e71daa4f-f327-4c68-9da5-a4b03ed93f6e"
+          "62835dc9-75ac-4c6b-8e41-ebf7fb58e9cd",
+          "6f073d7c-767a-494e-a46b-548298370dcd",
+          "43b87c04-43c9-4cbc-aad5-402e059fb1f9",
+          "715f903e-4b13-480c-8aa3-b5ce5b796fef",
+          "792c70dd-9d58-4f29-9c5e-619a84383979",
+          "b732907a-2243-4c82-9b84-3412c4d7c930",
+          "f80fe0bb-3c49-4f6f-a523-0a95d4354e9b",
+          "0a6349c7-4695-49a9-84eb-011f4598abb1"
         ],
         "duration": null,
         "root": false,
@@ -238,7 +238,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "33f94d6c-abbe-4d75-a99d-ec0989bd155a",
+        "uuid": "24719ac2-f249-41e6-8009-00aa93777004",
         "title": "Contact Trigger Tests @P1 @Standalone @Contact_Trigger_Tests",
         "fullFile": "",
         "file": "",
@@ -254,7 +254,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "1f13a5d9-3104-4d8d-b216-3d1d67eb9458",
+            "uuid": "b3f51188-d32a-4004-8a75-fc719d380e48",
             "isHook": true,
             "skipped": false
           },
@@ -269,7 +269,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "bf9c400c-425c-4f92-8329-746cd2531215",
+            "uuid": "8b8548e2-f4d9-4bfa-960d-9c5434574b2f",
             "isHook": true,
             "skipped": false
           }
@@ -286,7 +286,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "d423b24b-9e97-4542-a709-31f485e900d8",
+            "uuid": "a4d1e3e5-a5ff-40f3-affd-4092cc1e4e23",
             "isHook": true,
             "skipped": false
           },
@@ -301,7 +301,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "babf76f1-9869-48d1-975d-dc6dd4611b1a",
+            "uuid": "4697e329-5b5c-40ea-b4be-1a26d6b38ec1",
             "isHook": true,
             "skipped": false
           }
@@ -318,7 +318,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "e72a0a9a-4d25-48d2-9c73-9b9a6b9a7e31",
+            "uuid": "0890c777-9c05-4c43-823c-b2e1ceb2d522",
             "isHook": false,
             "skipped": true
           }
@@ -328,7 +328,7 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "e72a0a9a-4d25-48d2-9c73-9b9a6b9a7e31"
+          "0890c777-9c05-4c43-823c-b2e1ceb2d522"
         ],
         "duration": null,
         "root": false,
@@ -336,7 +336,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "dc221fa3-e13a-4955-a667-1ad6bf984e8b",
+        "uuid": "cef47c2e-0380-4932-9f01-52044722b695",
         "title": "Member Tests @P1 @Standalone @Member_Tests",
         "fullFile": "",
         "file": "",
@@ -352,7 +352,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "26ae1004-9970-4df8-bb4d-bfa1e955ba72",
+            "uuid": "eff4e9a2-b880-4efb-a9e6-cd80d5d86d66",
             "isHook": true,
             "skipped": false
           },
@@ -367,7 +367,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "297a902d-31b9-4957-8148-59788a76e848",
+            "uuid": "590e8c6f-e18d-47fb-93b8-bab33b787b6e",
             "isHook": true,
             "skipped": false
           }
@@ -384,7 +384,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "cdb3bfdf-efbe-4133-a02b-4ded47baf5ae",
+            "uuid": "b0f895f1-a2dc-487b-8ea2-6f8094695fc2",
             "isHook": true,
             "skipped": false
           },
@@ -399,7 +399,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "08b9a0d1-6f69-41cc-a32d-70548edcce26",
+            "uuid": "839854ae-bd64-4d94-96a5-e51aeae41444",
             "isHook": true,
             "skipped": false
           }
@@ -416,7 +416,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "615b23c8-91c6-4733-90e1-641afe140a20",
+            "uuid": "1bd8888c-e1c7-4989-b8bb-42d4ffd23a1f",
             "isHook": false,
             "skipped": true
           },
@@ -431,7 +431,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "4e60556a-1c13-4ad5-8ff5-038d59c95656",
+            "uuid": "365c9fa8-8f49-4fda-852e-d792dfcf6d6f",
             "isHook": false,
             "skipped": true
           },
@@ -446,7 +446,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "58bed098-1902-4347-b302-6c4c2bfe16c4",
+            "uuid": "cc534aaf-8732-49b3-a718-14d44f674405",
             "isHook": false,
             "skipped": true
           },
@@ -461,7 +461,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "7195fe51-9c78-4c5e-940f-c6c8f215e416",
+            "uuid": "672d37ef-28dc-4511-a7b7-e768cdac79e2",
             "isHook": false,
             "skipped": true
           }
@@ -471,10 +471,10 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "615b23c8-91c6-4733-90e1-641afe140a20",
-          "4e60556a-1c13-4ad5-8ff5-038d59c95656",
-          "58bed098-1902-4347-b302-6c4c2bfe16c4",
-          "7195fe51-9c78-4c5e-940f-c6c8f215e416"
+          "1bd8888c-e1c7-4989-b8bb-42d4ffd23a1f",
+          "365c9fa8-8f49-4fda-852e-d792dfcf6d6f",
+          "cc534aaf-8732-49b3-a718-14d44f674405",
+          "672d37ef-28dc-4511-a7b7-e768cdac79e2"
         ],
         "duration": null,
         "root": false,
@@ -482,7 +482,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "27018142-7d84-43a7-9734-29729101c63b",
+        "uuid": "9914cb1b-c6d4-4386-953b-05396e797244",
         "title": "Miscellaneous Tests @P1 @Standalone @Miscellaneous",
         "fullFile": "",
         "file": "",
@@ -498,7 +498,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "88930ad3-5609-43f6-8bd9-6d39e5fcf2f3",
+            "uuid": "cfa023a2-9b5d-4659-8f54-802fe06146dc",
             "isHook": true,
             "skipped": false
           },
@@ -513,7 +513,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "238f9fae-dfc2-4bfe-affa-123701b25a28",
+            "uuid": "674d19de-679b-4f92-aa17-442a62c15417",
             "isHook": true,
             "skipped": false
           }
@@ -530,7 +530,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "a3b30783-8d00-4908-88d0-0d16f28ce651",
+            "uuid": "6b0a223b-7b5c-4920-8a22-4cf7d2e931ee",
             "isHook": true,
             "skipped": false
           },
@@ -545,7 +545,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "7b130270-4e5e-4c7e-bd22-cc9482995825",
+            "uuid": "4df89a48-924e-4859-b5c3-de8a22adb1d4",
             "isHook": true,
             "skipped": false
           }
@@ -562,7 +562,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "11d9d33f-9217-4c54-a78c-75897f605fc6",
+            "uuid": "8055ec98-ce6d-47be-98b9-407b164ed173",
             "isHook": false,
             "skipped": true
           },
@@ -577,7 +577,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "2554fc18-17bc-40ce-94fa-b6b3f54e4cfd",
+            "uuid": "7954a2a6-78ed-4dfe-aabf-a52293f9e034",
             "isHook": false,
             "skipped": true
           },
@@ -592,7 +592,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "f235ba3c-1b67-4f79-85cd-afde936905ff",
+            "uuid": "90272091-d444-4e76-a971-58b8dce12442",
             "isHook": false,
             "skipped": true
           },
@@ -607,7 +607,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "859ab3c2-66d4-4c2f-bcb7-5233b3c70657",
+            "uuid": "b474d0ab-1da4-42a7-9d0e-8a6ff2dfd451",
             "isHook": false,
             "skipped": true
           }
@@ -617,10 +617,10 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "11d9d33f-9217-4c54-a78c-75897f605fc6",
-          "2554fc18-17bc-40ce-94fa-b6b3f54e4cfd",
-          "f235ba3c-1b67-4f79-85cd-afde936905ff",
-          "859ab3c2-66d4-4c2f-bcb7-5233b3c70657"
+          "8055ec98-ce6d-47be-98b9-407b164ed173",
+          "7954a2a6-78ed-4dfe-aabf-a52293f9e034",
+          "90272091-d444-4e76-a971-58b8dce12442",
+          "b474d0ab-1da4-42a7-9d0e-8a6ff2dfd451"
         ],
         "duration": null,
         "root": false,
@@ -628,7 +628,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "7a5409b4-28d2-449e-91c9-b4e755f426ca",
+        "uuid": "31a3b7bf-27c9-4042-aeee-b3ef870b0cc1",
         "title": "Overview Tests @P1 @Standalone @Overview_Tests",
         "fullFile": "",
         "file": "",
@@ -644,7 +644,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "bea54a39-d056-4a73-bb75-55a7d7c1120a",
+            "uuid": "98be002b-de1c-4e42-819d-405b2c3f1890",
             "isHook": true,
             "skipped": false
           },
@@ -659,7 +659,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "d96c7bc6-46f7-40de-8839-9890738c0d0c",
+            "uuid": "110ca383-2bdc-402c-8e8f-eb77c9762911",
             "isHook": true,
             "skipped": false
           }
@@ -676,7 +676,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "ced2465f-484c-4fe1-928e-662556b98557",
+            "uuid": "00f5c588-c6de-470b-b294-0fecae101195",
             "isHook": true,
             "skipped": false
           },
@@ -691,7 +691,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "d0ff5aa2-a099-4332-960c-799038579e2e",
+            "uuid": "5ab21053-0154-42cd-9ccb-1c9f1b6127f5",
             "isHook": true,
             "skipped": false
           }
@@ -708,7 +708,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "1b5abd88-3330-4335-a27b-91e2b8e97f8c",
+            "uuid": "a655c711-e715-42a5-8862-937c006637e0",
             "isHook": false,
             "skipped": true
           },
@@ -723,7 +723,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "cd404830-c7cb-4eb1-a9c1-0a8494d5bab7",
+            "uuid": "ad2bf891-3ef3-4526-b4a9-bd72df7b246b",
             "isHook": false,
             "skipped": true
           },
@@ -738,7 +738,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "e6b70e00-6dc2-4f8a-bc35-3427fa78b181",
+            "uuid": "898778ba-d172-4a73-9c74-59a09b31b697",
             "isHook": false,
             "skipped": true
           },
@@ -753,7 +753,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "1b875589-555a-4c2b-a25a-65ebacaba1dd",
+            "uuid": "e26e2bbd-8653-4d56-81ff-7799e5af909a",
             "isHook": false,
             "skipped": true
           }
@@ -763,10 +763,10 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "1b5abd88-3330-4335-a27b-91e2b8e97f8c",
-          "cd404830-c7cb-4eb1-a9c1-0a8494d5bab7",
-          "e6b70e00-6dc2-4f8a-bc35-3427fa78b181",
-          "1b875589-555a-4c2b-a25a-65ebacaba1dd"
+          "a655c711-e715-42a5-8862-937c006637e0",
+          "ad2bf891-3ef3-4526-b4a9-bd72df7b246b",
+          "898778ba-d172-4a73-9c74-59a09b31b697",
+          "e26e2bbd-8653-4d56-81ff-7799e5af909a"
         ],
         "duration": null,
         "root": false,
@@ -774,14 +774,14 @@
         "_timeout": 0
       },
       {
-        "uuid": "fccc527d-9739-42b1-abd2-a077059eefd3",
-        "title": "Report Tests @P1 @Standalone @Report_Tests",
+        "uuid": "f0546e99-a1f3-470b-a74f-4fce747259a9",
+        "title": "Overview Report @P1 @Standalone @Report_Tests",
         "fullFile": "",
         "file": "",
         "beforeHooks": [
           {
             "title": "\"before all\" hook: codeceptjs.beforeSuite",
-            "fullTitle": "Report Tests @P1 @Standalone @Report_Tests \"before all\" hook: codeceptjs.beforeSuite",
+            "fullTitle": "Overview Report @P1 @Standalone @Report_Tests \"before all\" hook: codeceptjs.beforeSuite",
             "timedOut": false,
             "duration": 0,
             "pass": false,
@@ -790,13 +790,13 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "d2f5e8d1-adff-4333-b860-d76b13eedd41",
+            "uuid": "0ce2ac73-e54b-4a5e-8759-4a9df0269a82",
             "isHook": true,
             "skipped": false
           },
           {
             "title": "\"before each\" hook: codeceptjs.before",
-            "fullTitle": "Report Tests @P1 @Standalone @Report_Tests \"before each\" hook: codeceptjs.before",
+            "fullTitle": "Overview Report @P1 @Standalone @Report_Tests \"before each\" hook: codeceptjs.before",
             "timedOut": false,
             "duration": 0,
             "pass": false,
@@ -805,7 +805,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "68527d87-47a2-4544-962f-133c343f651b",
+            "uuid": "2bd9ea32-38da-48ac-82c3-ad076191025c",
             "isHook": true,
             "skipped": false
           }
@@ -813,7 +813,7 @@
         "afterHooks": [
           {
             "title": "\"after all\" hook: codeceptjs.afterSuite",
-            "fullTitle": "Report Tests @P1 @Standalone @Report_Tests \"after all\" hook: codeceptjs.afterSuite",
+            "fullTitle": "Overview Report @P1 @Standalone @Report_Tests \"after all\" hook: codeceptjs.afterSuite",
             "timedOut": false,
             "duration": 0,
             "pass": false,
@@ -822,13 +822,13 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "5fc087ef-3233-416f-964c-b8f398a07cc5",
+            "uuid": "1e35d2a8-234d-4f1a-a5ad-863c9e338d49",
             "isHook": true,
             "skipped": false
           },
           {
             "title": "\"after each\" hook: codeceptjs.after",
-            "fullTitle": "Report Tests @P1 @Standalone @Report_Tests \"after each\" hook: codeceptjs.after",
+            "fullTitle": "Overview Report @P1 @Standalone @Report_Tests \"after each\" hook: codeceptjs.after",
             "timedOut": false,
             "duration": 0,
             "pass": false,
@@ -837,15 +837,15 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "2cdedc97-b40a-494b-be66-944dfde0e104",
+            "uuid": "b1e86420-9a70-4b82-9ce4-caafd6fb701e",
             "isHook": true,
             "skipped": false
           }
         ],
         "tests": [
           {
-            "title": "Class Member Report",
-            "fullTitle": "Report Tests @P1 @Standalone @Report_Tests Class Member Report",
+            "title": "Overview Report",
+            "fullTitle": "Overview Report @P1 @Standalone @Report_Tests Overview Report",
             "timedOut": false,
             "duration": 0,
             "pass": false,
@@ -854,13 +854,28 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "547583d5-3478-42b8-a215-a4e177acc410",
+            "uuid": "574821b7-8fa6-43b6-ab75-3726521f1a41",
+            "isHook": false,
+            "skipped": true
+          },
+          {
+            "title": "Class Member Report",
+            "fullTitle": "Overview Report @P1 @Standalone @Report_Tests Class Member Report",
+            "timedOut": false,
+            "duration": 0,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "runSteps(child.steps)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "b60a44a7-39f1-4903-a65a-1b24e0608980",
             "isHook": false,
             "skipped": true
           },
           {
             "title": "Class Session Member Report",
-            "fullTitle": "Report Tests @P1 @Standalone @Report_Tests Class Session Member Report",
+            "fullTitle": "Overview Report @P1 @Standalone @Report_Tests Class Session Member Report",
             "timedOut": false,
             "duration": 0,
             "pass": false,
@@ -869,13 +884,13 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "47840538-3f64-4254-a421-0fd89d2e817b",
+            "uuid": "fab228c0-f47c-4901-a437-411d7e183456",
             "isHook": false,
             "skipped": true
           },
           {
             "title": "Classes Report",
-            "fullTitle": "Report Tests @P1 @Standalone @Report_Tests Classes Report",
+            "fullTitle": "Overview Report @P1 @Standalone @Report_Tests Classes Report",
             "timedOut": false,
             "duration": 0,
             "pass": false,
@@ -884,13 +899,13 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "e68b49e2-e248-45bb-9ccb-1373888bd3f2",
+            "uuid": "91fd5cca-6799-403e-8ff0-b9297277441b",
             "isHook": false,
             "skipped": true
           },
           {
             "title": "Members Report",
-            "fullTitle": "Report Tests @P1 @Standalone @Report_Tests Members Report",
+            "fullTitle": "Overview Report @P1 @Standalone @Report_Tests Members Report",
             "timedOut": false,
             "duration": 0,
             "pass": false,
@@ -899,13 +914,13 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "ec7ab4ac-7200-494c-b3c5-c97c3497f23b",
+            "uuid": "9441e6b0-8ee3-4eab-a710-12728cc9b9d4",
             "isHook": false,
             "skipped": true
           },
           {
             "title": "Transactions Report",
-            "fullTitle": "Report Tests @P1 @Standalone @Report_Tests Transactions Report",
+            "fullTitle": "Overview Report @P1 @Standalone @Report_Tests Transactions Report",
             "timedOut": false,
             "duration": 0,
             "pass": false,
@@ -914,13 +929,13 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "78f98d90-efa1-4c16-9f3e-8424da540bd6",
+            "uuid": "7f4a7a20-8552-45d8-8709-66797977c09f",
             "isHook": false,
             "skipped": true
           },
           {
             "title": "Transactions Credit Report",
-            "fullTitle": "Report Tests @P1 @Standalone @Report_Tests Transactions Credit Report",
+            "fullTitle": "Overview Report @P1 @Standalone @Report_Tests Transactions Credit Report",
             "timedOut": false,
             "duration": 0,
             "pass": false,
@@ -929,13 +944,13 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "96d32a67-f41d-4fdb-a346-f94b37b23a71",
+            "uuid": "88822070-fd32-47c7-8aa8-f57c14b21ed9",
             "isHook": false,
             "skipped": true
           },
           {
             "title": "Transactions Refunds Report",
-            "fullTitle": "Report Tests @P1 @Standalone @Report_Tests Transactions Refunds Report",
+            "fullTitle": "Overview Report @P1 @Standalone @Report_Tests Transactions Refunds Report",
             "timedOut": false,
             "duration": 0,
             "pass": false,
@@ -944,13 +959,13 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "192340bd-ca2f-4031-8761-9f98440cd042",
+            "uuid": "3169ee66-12e1-4a66-91b1-ff6ae41a041f",
             "isHook": false,
             "skipped": true
           },
           {
             "title": "Transactions Online Report",
-            "fullTitle": "Report Tests @P1 @Standalone @Report_Tests Transactions Online Report",
+            "fullTitle": "Overview Report @P1 @Standalone @Report_Tests Transactions Online Report",
             "timedOut": false,
             "duration": 0,
             "pass": false,
@@ -959,7 +974,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "9adeef1d-49cf-4ba8-9545-25a06e794d80",
+            "uuid": "2794b915-47d4-4c33-954e-511a93c6cbb7",
             "isHook": false,
             "skipped": true
           }
@@ -969,14 +984,15 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "547583d5-3478-42b8-a215-a4e177acc410",
-          "47840538-3f64-4254-a421-0fd89d2e817b",
-          "e68b49e2-e248-45bb-9ccb-1373888bd3f2",
-          "ec7ab4ac-7200-494c-b3c5-c97c3497f23b",
-          "78f98d90-efa1-4c16-9f3e-8424da540bd6",
-          "96d32a67-f41d-4fdb-a346-f94b37b23a71",
-          "192340bd-ca2f-4031-8761-9f98440cd042",
-          "9adeef1d-49cf-4ba8-9545-25a06e794d80"
+          "574821b7-8fa6-43b6-ab75-3726521f1a41",
+          "b60a44a7-39f1-4903-a65a-1b24e0608980",
+          "fab228c0-f47c-4901-a437-411d7e183456",
+          "91fd5cca-6799-403e-8ff0-b9297277441b",
+          "9441e6b0-8ee3-4eab-a710-12728cc9b9d4",
+          "7f4a7a20-8552-45d8-8709-66797977c09f",
+          "88822070-fd32-47c7-8aa8-f57c14b21ed9",
+          "3169ee66-12e1-4a66-91b1-ff6ae41a041f",
+          "2794b915-47d4-4c33-954e-511a93c6cbb7"
         ],
         "duration": null,
         "root": false,
@@ -984,7 +1000,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "a15e2b7c-ba87-4141-8554-9036061f6b72",
+        "uuid": "9e842a86-7b50-42a3-8da1-43267e712dbe",
         "title": "Settings Tests @P1 @Standalone @Settings_Tests",
         "fullFile": "",
         "file": "",
@@ -1000,7 +1016,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "56a6e7bc-0a3c-4d0f-800c-1df59f898e26",
+            "uuid": "95be12b8-853b-40b6-916b-bd5b7aa1e7d4",
             "isHook": true,
             "skipped": false
           },
@@ -1015,7 +1031,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "2abd0b71-261d-4ffd-bd1e-ead64e82dbc3",
+            "uuid": "73b8324e-8408-48f8-904d-a20f9a9e3bbc",
             "isHook": true,
             "skipped": false
           }
@@ -1032,7 +1048,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "eef1da94-9ba1-499a-9352-44f10d40926c",
+            "uuid": "fd00d6a1-efc6-4d3f-b379-e4ae97277347",
             "isHook": true,
             "skipped": false
           },
@@ -1047,7 +1063,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "0a2fab15-a346-4440-b1cb-63083fdf0884",
+            "uuid": "e676b61f-5268-4aaf-b718-9ce8de99c06a",
             "isHook": true,
             "skipped": false
           }
@@ -1064,7 +1080,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "03524328-b347-4252-aff4-76921bb0527c",
+            "uuid": "83c5eeaf-ac86-4fa6-befa-e75186615443",
             "isHook": false,
             "skipped": true
           },
@@ -1079,7 +1095,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "cb5ee6e8-3a83-430c-9d39-14d1dbbb6fb5",
+            "uuid": "1b26b30f-eb5c-4f68-9283-157f5b695b96",
             "isHook": false,
             "skipped": true
           }
@@ -1089,8 +1105,8 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "03524328-b347-4252-aff4-76921bb0527c",
-          "cb5ee6e8-3a83-430c-9d39-14d1dbbb6fb5"
+          "83c5eeaf-ac86-4fa6-befa-e75186615443",
+          "1b26b30f-eb5c-4f68-9283-157f5b695b96"
         ],
         "duration": null,
         "root": false,
@@ -1098,7 +1114,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "e8e24405-82e6-47a8-947d-f6f2b1499c67",
+        "uuid": "236725d1-4919-4350-8af1-97e6b3ebec19",
         "title": "Waiting List Tests @P1 @Standalone @Waiting_List_Tests",
         "fullFile": "",
         "file": "",
@@ -1114,7 +1130,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "0403246d-239f-4112-a1d2-7e6f5eb0008b",
+            "uuid": "f935910a-67fd-4d20-921d-c1f42613c35a",
             "isHook": true,
             "skipped": false
           },
@@ -1129,7 +1145,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "7762fdbb-f536-478f-9390-dd9853816c6c",
+            "uuid": "9faab7ef-e86d-41c2-9ef3-73a5435b469f",
             "isHook": true,
             "skipped": false
           }
@@ -1146,7 +1162,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "b6156326-a145-4d3b-ae81-9d749e03226f",
+            "uuid": "963c2ea5-b5e7-463f-a640-b10ce8e0a04d",
             "isHook": true,
             "skipped": false
           },
@@ -1161,7 +1177,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "31fffa2f-7c36-4941-bf09-903247be9084",
+            "uuid": "8d7652ef-bcd9-4ddb-bb74-4834186c8761",
             "isHook": true,
             "skipped": false
           }
@@ -1178,7 +1194,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "eff84e93-4d6c-4882-97bd-a83b5c4a5512",
+            "uuid": "d95b7fed-7132-4dc8-99ff-cc4f10a89c19",
             "isHook": false,
             "skipped": true
           },
@@ -1193,7 +1209,7 @@
             "code": "runSteps(child.steps)",
             "err": {},
             "isRoot": false,
-            "uuid": "e27d0fa7-634b-4e01-b6ff-29ec80c460f1",
+            "uuid": "15ac0dfd-355b-4edb-9d3c-1f2fd1bee911",
             "isHook": false,
             "skipped": true
           }
@@ -1203,8 +1219,8 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "eff84e93-4d6c-4882-97bd-a83b5c4a5512",
-          "e27d0fa7-634b-4e01-b6ff-29ec80c460f1"
+          "d95b7fed-7132-4dc8-99ff-cc4f10a89c19",
+          "15ac0dfd-355b-4edb-9d3c-1f2fd1bee911"
         ],
         "duration": null,
         "root": false,
@@ -1212,7 +1228,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "7b8810ca-0256-437c-a72a-d9ce2730efe4",
+        "uuid": "a5c0f989-1148-4b63-ba74-16d7cf82829d",
         "title": "API Testing",
         "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_add_new_member_test.js",
         "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_add_new_member_test.js",
@@ -1228,7 +1244,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "f526968c-fe2b-45f4-8d46-be2957736c27",
+            "uuid": "c086eb21-646e-4b0c-9c67-b75a0a634ba7",
             "isHook": true,
             "skipped": false
           },
@@ -1243,7 +1259,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "ce1b6daf-da68-4fb8-815c-8d4921235a61",
+            "uuid": "9e33852f-76cd-42a8-9e0a-8e4eb603dacd",
             "isHook": true,
             "skipped": false
           }
@@ -1260,7 +1276,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "43d730a5-1e67-4180-a371-cd85695ea87d",
+            "uuid": "cb611a98-701f-4d48-ab61-383efde2f0c9",
             "isHook": true,
             "skipped": false
           },
@@ -1275,7 +1291,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "c99bbfd3-2883-4841-999e-3701c91b45be",
+            "uuid": "50e6b04b-3c07-401b-9ab5-a6a4393ca7ea",
             "isHook": true,
             "skipped": false
           }
@@ -1292,7 +1308,7 @@
             "code": "let sessioncall, sessionID, jsonObj, add_new_member_call;\nsessioncall = await I.sendGetRequest('/session');\nsessionID = sessioncall.headers['x-session-id'];\njsonObj = {\n    \"memberDetails\":{\n        \"title\":\"Mr\",\n        \"firstName\":\"Dan\",\n        \"lastName\":\"Jakobson\",\n        \"dateOfBirth\":\"2000-01-01\",\n        \"genderId\":1,\n        \"address1\": \"15 verbena sdlknn\",\n        \"address2\": \"sdlknn\",\n        \"city\": \"Melksham\",\n        \"county\": \"Wilshire\",\n        \"postcode\": \"SN12 7GS\",\n        \"phoneNumber\": \"7473195556\",\n        \"disabilityId\":4,\n        \"medicalConditionIds\":[],\n        \"ethnicityId\":null,\n        \"concessionaryId\":0,\n        \"marketingSourceId\":13,\n        \"acceptMarketing\":false,\n        \"acceptTerms\":true,\n        \"allowContactEmail\":false,\n        \"allowContactSms\":false,\n        \"allowContactPhone\":false,\n        \"allowContactMail\":false},\n    \"accountDetails\":{\n        \"emailAddress\": \"qa@cap2.co.uk\",\n        \"password\": \"Qwerty1!\"\n    }\n};\nadd_new_member_call = await I.sendPostRequest('/account/register/newMember', jsonObj,{\"x-session-id\": sessionID, \"Content-Type\": \"application/json\"});\nif(add_new_member_call.status == 200)\n{\n    //Passes\n}\nelse if(add_new_member_call.status == 400)\n{\n    if(add_new_member_call.data.message == \"That email address is already in use\")\n    {\n        generic_code.failTest('api add new member test', 'Email already in use');\n    }\n}\nelse{\n    generic_code.failTest('api add new member test', 'Response was not 200');\n}",
             "err": {},
             "isRoot": false,
-            "uuid": "c176b91f-7897-4ec7-b3cb-3dda89d27a01",
+            "uuid": "adc428af-5267-4127-8400-a9344f909820",
             "isHook": false,
             "skipped": true
           }
@@ -1302,7 +1318,7 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "c176b91f-7897-4ec7-b3cb-3dda89d27a01"
+          "adc428af-5267-4127-8400-a9344f909820"
         ],
         "duration": null,
         "root": false,
@@ -1310,7 +1326,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "480cee5b-b55a-4318-a555-38af5f5bdb80",
+        "uuid": "7422b4d0-8781-438b-98da-2017e8d903d3",
         "title": "API Testing",
         "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_assign_a_member_to_the_basket_test.js",
         "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_assign_a_member_to_the_basket_test.js",
@@ -1319,14 +1335,14 @@
             "title": "\"before all\" hook: codeceptjs.beforeSuite",
             "fullTitle": "API Testing \"before all\" hook: codeceptjs.beforeSuite",
             "timedOut": false,
-            "duration": 6,
+            "duration": 0,
             "pass": false,
             "fail": false,
             "pending": false,
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "f128618b-837a-4a54-b035-dcd07a359d9d",
+            "uuid": "4298784f-4000-43d8-a5fe-3e6ed4be3be3",
             "isHook": true,
             "skipped": false
           },
@@ -1334,14 +1350,14 @@
             "title": "\"before each\" hook: codeceptjs.before",
             "fullTitle": "API Testing \"before each\" hook: codeceptjs.before",
             "timedOut": false,
-            "duration": 5181,
+            "duration": 0,
             "pass": false,
             "fail": false,
             "pending": false,
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "1723fa6c-724e-46c5-a772-287f9ce025db",
+            "uuid": "052c33dd-5919-48f4-af09-936edc4eca2f",
             "isHook": true,
             "skipped": false
           }
@@ -1351,14 +1367,14 @@
             "title": "\"after all\" hook: codeceptjs.afterSuite",
             "fullTitle": "API Testing \"after all\" hook: codeceptjs.afterSuite",
             "timedOut": false,
-            "duration": 1,
+            "duration": 0,
             "pass": false,
             "fail": false,
             "pending": false,
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "23770b6f-f793-42f2-af11-98ee9536b3ed",
+            "uuid": "95bc7537-91ea-4aac-9906-ecd305e0bd89",
             "isHook": true,
             "skipped": false
           },
@@ -1366,14 +1382,14 @@
             "title": "\"after each\" hook: finalize codeceptjs",
             "fullTitle": "API Testing \"after each\" hook: finalize codeceptjs",
             "timedOut": false,
-            "duration": 1558,
+            "duration": 0,
             "pass": false,
             "fail": false,
             "pending": false,
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "d2752f56-9025-4c9c-a49e-5746219222ef",
+            "uuid": "df84596b-656f-4ea1-baa8-9f1954db4f80",
             "isHook": true,
             "skipped": false
           }
@@ -1383,34 +1399,32 @@
             "title": "api assign member to basket test",
             "fullTitle": "API Testing: api assign member to basket test",
             "timedOut": false,
-            "duration": 3928,
-            "state": "passed",
-            "speed": "slow",
-            "pass": true,
+            "duration": 0,
+            "pass": false,
             "fail": false,
             "pending": false,
-            "code": "let username_ecoded, data_json, postlogin, sessionID, postbasket,  basketstring, starter_sessioin, postpatchmemberremovecall,  postdeleteitemcall, member_json2, starter_sessioinID, postmembercall, postlogoutcall, basketID, member_json,postdeletemembercall, postpatchmembercall, memberID;\nstarter_sessioin = await I.sendGetRequest('/session');\nstarter_sessioinID = starter_sessioin.data[\"sessionId\"];\nusername_ecoded = encodeURIComponent('coursepro+hp28@cap2.co.uk');//this changes the email to: coursepro%2Bhp28%40cap2.co.uk\ndata_json = `username=${username_ecoded}&password=homeportal&in_kiosk_mode=`;\npostlogin = await I.sendPostRequest('/login', data_json, {\n    \"x-session-id\": starter_sessioinID,\n    \"Content-Type\": \"application/x-www-form-urlencoded\"\n});\nif (postlogin.status != 200) {\n    generic_code.failTest('api assign member to basket test - login', 'Status was not 200')\n}\nelse {\n    sessionID = postlogin.data[\"session_id\"];\n}\nbasketstring = \"courseId=1\";\npostbasket = await I.sendPostRequest('/booking/basket/item/?' + basketstring, \"\", {\"x-session-id\": sessionID});\nif (postbasket.status != 200) {\n    generic_code.failTest('api assign member to basket test - basket item', 'Status was not 200')\n}\nbasketID = postbasket.data[\"id\"];\npostmembercall = await I.sendGetRequest(`/booking/basket/item/${basketID}/members/`,{'x-session-id':sessionID});\nif(postmembercall.status == 200)\n{\n    if(postmembercall.data[0][\"firstName\"] != \"Abbie\")\n    {\n        generic_code.failTest('api assign member to basket test - member name', 'Was not as expected')\n    }\n    memberID = postmembercall.data[0][\"id\"];\n}\nelse{\n    generic_code.failTest('api assign member to basket test - member for basket', 'Status was not 200')\n}\nmember_json = {\n    memberId: memberID,\n    paymentPlanId: null\n};\npostpatchmembercall = await I.sendPatchRequest(`/booking/basket/item/${basketID}/`, member_json ,{'x-session-id':sessionID});\nif(postpatchmembercall.status != 200)\n{\n    generic_code.failTest('api assign member to basket test - assign member to basket', 'Status was not 200 - (Probably because there in to many booking sessions)')\n}\nelse {}\n/*postdeletemembercall = await I.sendDeleteRequest(`/booking/basket/members/${basketID}/`,{'x-session-id':sessionID});\nif (postdeletemembercall.status != 200) {\n    generic_code.failTest('api assign member to basket test - delete member from basket', 'Status was not 200')\n}\nelse {}\npostdeleteitemcall = await I.sendDeleteRequest(`/booking/basket/item/${basketID}/`,{'x-session-id':sessionID});\nif (postdeleteitemcall.status != 200) {\n    generic_code.failTest('api assign member to basket test - delete item from basket', 'Status was not 200')\n}\nelse {}*/\nmember_json2 = {\n    memberId: null,\n    paymentPlanId: null\n};\npostpatchmemberremovecall = await I.sendPatchRequest(`/booking/basket/item/${basketID}/`, member_json2 ,{'x-session-id':sessionID});\nif (postpatchmemberremovecall.status != 200) {\n    generic_code.failTest('api assign member to basket test - remove member from basket', 'Status was not 200')\n}\nelse {}\npostlogoutcall = await I.sendGetRequest('/logout',{'x-session-id':sessionID});\nif (postlogoutcall.status != 200) {\n    generic_code.failTest('api assign member to basket test - logout', 'Status was not 200')\n}\nelse {}",
+            "code": "let username_ecoded, data_json, postlogin, sessionID, postbasket,  basketstring, starter_sessioin, postpatchmemberremovecall, member_json2, starter_sessioinID, postmembercall, postlogoutcall, basketID, member_json, postpatchmembercall, memberID;\nstarter_sessioin = await I.sendGetRequest('/session');\nstarter_sessioinID = starter_sessioin.data[\"sessionId\"];\nusername_ecoded = encodeURIComponent('coursepro+hp28@cap2.co.uk');//this changes the email to: coursepro%2Bhp28%40cap2.co.uk\ndata_json = `username=${username_ecoded}&password=homeportal&in_kiosk_mode=`;\npostlogin = await I.sendPostRequest('/login', data_json, {\n    \"x-session-id\": starter_sessioinID,\n    \"Content-Type\": \"application/x-www-form-urlencoded\"\n});\nif (postlogin.status != 200) {\n    generic_code.failTest('api assign member to basket test - login', 'Status was not 200')\n}\nelse {\n    sessionID = postlogin.data[\"session_id\"];\n}\nbasketstring = \"courseId=1\";\npostbasket = await I.sendPostRequest('/booking/basket/item/?' + basketstring, \"\", {\"x-session-id\": sessionID});\nif (postbasket.status != 200) {\n    generic_code.failTest('api assign member to basket test - basket item', 'Status was not 200')\n}\nbasketID = postbasket.data[\"id\"];\npostmembercall = await I.sendGetRequest(`/booking/basket/item/${basketID}/members/`,{'x-session-id':sessionID});\nif(postmembercall.status == 200) {\n    if(postmembercall.data[0][\"firstName\"] != \"Abbie\")\n    {\n        generic_code.failTest('api assign member to basket test - member name', 'Was not as expected')\n    }\n    memberID = postmembercall.data[0][\"id\"];\n}\nelse{\n    generic_code.failTest('api assign member to basket test - member for basket', 'Status was not 200')\n}\nmember_json = {\n    memberId: memberID,\n    paymentPlanId: null\n};\npostpatchmembercall = await I.sendPatchRequest(`/booking/basket/item/${basketID}/`, member_json ,{'x-session-id':sessionID});\nif(postpatchmembercall.status != 200) {\n    generic_code.failTest('api assign member to basket test - assign member to basket', 'Status was not 200 - (Probably because there in to many booking sessions)')\n}\nelse {}\nmember_json2 = {\n    memberId: null,\n    paymentPlanId: null\n};\npostpatchmemberremovecall = await I.sendPatchRequest(`/booking/basket/item/${basketID}/`, member_json2 ,{'x-session-id':sessionID});\nif (postpatchmemberremovecall.status != 200) {\n    generic_code.failTest('api assign member to basket test - remove member from basket', 'Status was not 200')\n}\nelse {}\npostlogoutcall = await I.sendGetRequest('/logout',{'x-session-id':sessionID});\nif (postlogoutcall.status != 200) {\n    generic_code.failTest('api assign member to basket test - logout', 'Status was not 200')\n}\nelse {}",
             "err": {},
             "isRoot": false,
-            "uuid": "a758ea65-db30-45e7-8438-421ffaf83a4c",
+            "uuid": "f4e89767-280b-4561-bae0-c23b7706ffab",
             "isHook": false,
-            "skipped": false
+            "skipped": true
           }
         ],
         "suites": [],
-        "passes": [
-          "a758ea65-db30-45e7-8438-421ffaf83a4c"
-        ],
+        "passes": [],
         "failures": [],
         "pending": [],
-        "skipped": [],
-        "duration": 3928,
+        "skipped": [
+          "f4e89767-280b-4561-bae0-c23b7706ffab"
+        ],
+        "duration": null,
         "root": false,
         "rootEmpty": false,
         "_timeout": 0
       },
       {
-        "uuid": "ab0eb74b-685b-44f4-ad25-4d56b18ce0b8",
+        "uuid": "75c58c05-fb73-4867-a610-3469fc828964",
         "title": "API Testing",
         "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_avaliable_courses_test.js",
         "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_avaliable_courses_test.js",
@@ -1426,7 +1440,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "fad9a19b-c15c-46cd-942c-2ebcb62c2f4b",
+            "uuid": "2e55cf5d-9043-4b12-9a5a-b83d472ad9c6",
             "isHook": true,
             "skipped": false
           },
@@ -1441,7 +1455,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "ea863801-9f8d-4683-bf06-6f4d59278756",
+            "uuid": "a11021fc-ae6a-4845-a36d-85900eecdc18",
             "isHook": true,
             "skipped": false
           }
@@ -1458,7 +1472,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "b113b6b2-103a-4ee3-b5ec-7b5de6de9e61",
+            "uuid": "3d9f6361-da8d-4cd3-a923-1d1b40e91634",
             "isHook": true,
             "skipped": false
           },
@@ -1473,7 +1487,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "03a9a2d5-33d7-470f-abf0-823f60bf77bf",
+            "uuid": "f0b83337-8097-478b-90ea-b3dda163a28f",
             "isHook": true,
             "skipped": false
           }
@@ -1490,7 +1504,7 @@
             "code": "let json_ecoded, jsonstring, courseSearch, name_of_course;\njson_ecoded = encodeURIComponent('{\"region\": 1, \"courseGroupCategory\": [1,2,3], \"limit\": 1}');\njsonstring = `filter=${json_ecoded}`;\ncourseSearch = await I.sendGetRequest('/booking/search?' + jsonstring);\nif(courseSearch.status == 200)\n{\n    name_of_course = courseSearch.data.resultSet.results[0].name;\n    if(name_of_course != 'Swim School (Continuous) - Stage 1')\n    {\n        generic_code.failTest('api course search test', 'Course Name was not \"Swim School (Continuous) - Stage 1\"')\n    }\n    else{}\n}\nelse{\n    generic_code.failTest('api course search test', 'Response was not 200');\n}",
             "err": {},
             "isRoot": false,
-            "uuid": "9e514fcc-5523-40d3-8a14-fbe6aa838508",
+            "uuid": "08679c2a-c867-4aad-b772-12f4c4664ace",
             "isHook": false,
             "skipped": true
           }
@@ -1500,7 +1514,7 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "9e514fcc-5523-40d3-8a14-fbe6aa838508"
+          "08679c2a-c867-4aad-b772-12f4c4664ace"
         ],
         "duration": null,
         "root": false,
@@ -1508,7 +1522,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "05f2c531-ad68-4adc-894b-b07e2cacc5e1",
+        "uuid": "e3a53e5c-0ef0-4365-bdc7-ae9d6c9f3e5f",
         "title": "API Testing",
         "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_banners_test.js",
         "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_banners_test.js",
@@ -1524,7 +1538,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "8ae67106-95f2-4d40-8ac4-106240b5bbcd",
+            "uuid": "a29dba13-1bc5-4a12-8d95-454a18828026",
             "isHook": true,
             "skipped": false
           },
@@ -1539,7 +1553,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "beb07ae8-e120-4d06-abbc-1bd2357309b2",
+            "uuid": "fe555edd-fca0-4259-ac3d-f177ef140d5b",
             "isHook": true,
             "skipped": false
           }
@@ -1556,7 +1570,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "af3d0a50-345b-432d-b9c2-1f70f8f3a110",
+            "uuid": "89db7b19-fd8c-46d6-8e4b-60d91471bab7",
             "isHook": true,
             "skipped": false
           },
@@ -1571,7 +1585,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "295bbfa0-0169-4571-acd5-8a29e71cb019",
+            "uuid": "2f959716-96ce-493f-bcc8-76aa14463aa1",
             "isHook": true,
             "skipped": false
           }
@@ -1588,7 +1602,7 @@
             "code": "let sessionID, bannerscall, sessioin  ;\nsessioin = await I.sendGetRequest('/session');\nsessionID = sessioin.data[\"sessionId\"];\nbannerscall = await I.sendGetRequest('/banners?',{\"x-session-id\" : sessionID});\nif(bannerscall.status != 200)\n{\n    generic_code.failTest('api basket test - basket call', 'Status was not 200')\n}\n   else {}",
             "err": {},
             "isRoot": false,
-            "uuid": "6ab8a039-caa4-432f-8927-da03e75277be",
+            "uuid": "014862df-8b9c-44e9-b521-0a7959182548",
             "isHook": false,
             "skipped": true
           }
@@ -1598,7 +1612,7 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "6ab8a039-caa4-432f-8927-da03e75277be"
+          "014862df-8b9c-44e9-b521-0a7959182548"
         ],
         "duration": null,
         "root": false,
@@ -1606,7 +1620,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "b75b09ae-e1b7-4600-b726-6ed876f9e0a1",
+        "uuid": "e17b30c5-b9bd-4fdd-b2c9-29e160173be0",
         "title": "API Testing",
         "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_basket_test.js",
         "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_basket_test.js",
@@ -1622,7 +1636,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "afd492d5-8bb3-45d3-9cf6-d4be1ff65be0",
+            "uuid": "6559647f-577b-4463-8295-5bfc62991a88",
             "isHook": true,
             "skipped": false
           },
@@ -1637,7 +1651,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "b4fdd6e6-fd85-49be-b6da-b89f3a7ed14d",
+            "uuid": "e7466794-f882-4a64-91aa-90aaa2c85a27",
             "isHook": true,
             "skipped": false
           }
@@ -1654,7 +1668,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "011672be-3af7-4ee8-8292-168a5e0e3a34",
+            "uuid": "6d7abd73-31c5-4844-87d4-4ddcdc2edbef",
             "isHook": true,
             "skipped": false
           },
@@ -1669,7 +1683,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "20d1d645-198d-4be1-bb9c-c0b48eafdf29",
+            "uuid": "04a36699-df5f-47c4-bc47-d7c3199fb6f7",
             "isHook": true,
             "skipped": false
           }
@@ -1686,7 +1700,7 @@
             "code": "let username_ecoded, data_json, postlogin, sessionID, basketcall, postbasket, basketID, basketstring,starter_sessioin,  starter_sessioinID;\nstarter_sessioin = await I.sendGetRequest('/session');\nstarter_sessioinID = starter_sessioin.data[\"sessionId\"];\nusername_ecoded = encodeURIComponent('coursepro+hp28@cap2.co.uk');//this changes the email to: coursepro%2Bhp28%40cap2.co.uk\ndata_json = `username=${username_ecoded}&password=homeportal&in_kiosk_mode=`;\npostlogin = await I.sendPostRequest('/login', data_json, {\"x-session-id\": starter_sessioinID, \"Content-Type\": \"application/x-www-form-urlencoded\"});\nif(postlogin.status != 200)\n{\n    generic_code.failTest('api basket test - login', 'Status was not 200')\n}\nelse{\n    sessionID = postlogin.data[\"session_id\"];\n}\nbasketstring = \"courseId=1\";\npostbasket = await I.sendPostRequest('/booking/basket/item/?'+ basketstring,\"\",{\"x-session-id\": sessionID});\nif(postbasket.status != 200)\n{\n    generic_code.failTest('api basket test - basket item', 'Status was not 200')\n}\nbasketcall = await I.sendGetRequest(`/booking/basket/?`,{\"x-session-id\" : sessionID});\nif(basketcall.status != 200)\n{\n    generic_code.failTest('api basket test - basket call', 'Status was not 200')\n}\nelse if(basketcall.data[\"state\"] != \"open\")\n{\n    generic_code.failTest('api basket test - basket calls state', 'was not \"open\"')\n}",
             "err": {},
             "isRoot": false,
-            "uuid": "61d16c61-32bb-4447-b7f7-d7bba82b10ee",
+            "uuid": "fbed17e8-35fb-4dba-98a3-8d6e5ea667b8",
             "isHook": false,
             "skipped": true
           }
@@ -1696,7 +1710,7 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "61d16c61-32bb-4447-b7f7-d7bba82b10ee"
+          "fbed17e8-35fb-4dba-98a3-8d6e5ea667b8"
         ],
         "duration": null,
         "root": false,
@@ -1704,7 +1718,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "54c99644-94e8-4ccf-8c11-84d8ad49d41a",
+        "uuid": "5d05aae7-3506-4669-9e0a-4bd1edbb79f8",
         "title": "API Testing",
         "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_centre_info_based_on_id_test.js",
         "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_centre_info_based_on_id_test.js",
@@ -1720,7 +1734,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "b311410c-bfbf-417d-96b9-9b2351a44b9e",
+            "uuid": "7cd65b42-2be4-4624-8f56-49237552ddbf",
             "isHook": true,
             "skipped": false
           },
@@ -1735,7 +1749,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "3313ec80-2f48-4771-8aca-ea3ddb851df5",
+            "uuid": "789d6882-c252-4031-a88f-f0ba0c2501eb",
             "isHook": true,
             "skipped": false
           }
@@ -1752,7 +1766,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "f6daa9e9-fd14-44a7-a738-770c1c7d6afb",
+            "uuid": "70928394-3925-4465-8d77-cf85c29de46b",
             "isHook": true,
             "skipped": false
           },
@@ -1767,7 +1781,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "c0bba60a-001d-48c1-8bea-bd7ff584e832",
+            "uuid": "bb5ed0ee-2036-4733-be30-22d94a8c9590",
             "isHook": true,
             "skipped": false
           }
@@ -1784,7 +1798,7 @@
             "code": "let id1, centerSearch, name_of_center, id2, centerSearch2, name_of_center2, id3, centerSearch3, name_of_center3;\nid1 = \"/1/?\";\ncenterSearch = await I.sendGetRequest('/centres' + id1);\nif(centerSearch.status == 200)\n{\n    name_of_center = centerSearch.data.name;\n    if(name_of_center != 'Westminster Leisure Centre')\n    {\n        generic_code.failTest('api course search test', 'Center Name was not \"Westminster Leisure Centre\"')\n    }\n    else{}\n}\nelse{\n    generic_code.failTest('api course search test', 'Response was not 200');\n}\nid2 = \"/2/?\";\ncenterSearch2 = await I.sendGetRequest('/centres' + id2);\nif(centerSearch2.status == 200)\n{\n    name_of_center2 = centerSearch2.data.name;\n    if(name_of_center2 != 'Canary Wharf Leisure Centre')\n    {\n        generic_code.failTest('api course search test', 'Center Name was not \"Canary Wharf Leisure Centre\"')\n    }\n    else{}\n}\nelse{\n    generic_code.failTest('api course search test', 'Response was not 200');\n}\nid3 = \"/3/?\";\ncenterSearch3 = await I.sendGetRequest('/centres' + id3);\nif(centerSearch3.status == 200)\n{\n    name_of_center3 = centerSearch3.data.name;\n    if(name_of_center3 != 'Castle Leisure Centre')\n    {\n        generic_code.failTest('api course search test', 'Center Name was not \"Castle Leisure Centre\"')\n    }\n    else{}\n}\nelse{\n    generic_code.failTest('api course search test', 'Response was not 200');\n}",
             "err": {},
             "isRoot": false,
-            "uuid": "f6553f81-2c58-417f-8dbd-2a50961b494f",
+            "uuid": "4507d3dd-5ed2-4ca8-a952-fbd319a13926",
             "isHook": false,
             "skipped": true
           }
@@ -1794,7 +1808,7 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "f6553f81-2c58-417f-8dbd-2a50961b494f"
+          "4507d3dd-5ed2-4ca8-a952-fbd319a13926"
         ],
         "duration": null,
         "root": false,
@@ -1802,7 +1816,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "012f4f18-fbb0-435a-b5cc-300d26bd1f88",
+        "uuid": "2662b4ea-4313-4fdd-a98d-623349e732dd",
         "title": "API Testing",
         "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_centre_search_test.js",
         "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_centre_search_test.js",
@@ -1818,7 +1832,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "895c1458-f577-4208-94ac-f349bfec7451",
+            "uuid": "522986dc-de37-4c84-badc-6086635dbfa2",
             "isHook": true,
             "skipped": false
           },
@@ -1833,7 +1847,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "eecbffff-9b8f-4d7c-8e09-255377a1822b",
+            "uuid": "cb62ebb5-258c-4023-b8e7-0cdcd8ab77ef",
             "isHook": true,
             "skipped": false
           }
@@ -1850,7 +1864,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "156e6df8-71a6-426c-a379-e131acf04fcf",
+            "uuid": "76029f26-737b-4eb5-87c4-fb98c91bfeda",
             "isHook": true,
             "skipped": false
           },
@@ -1865,7 +1879,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "f814448e-f5d8-4599-b610-7e5aeb101163",
+            "uuid": "f55956f6-120f-4b02-8dc3-85cfda4e741f",
             "isHook": true,
             "skipped": false
           }
@@ -1882,7 +1896,7 @@
             "code": "let centerSearch, nameofregion;\ncenterSearch = await I.sendGetRequest('/booking/findLocation');\nif(centerSearch.status == 200)\n{\n    nameofregion = centerSearch.data.value[1].name;\n    if(nameofregion != 'London')\n    {\n        generic_code.failTest('api centre search test', 'Region was not \"London\"')\n    }\n    else{}\n}\nelse{\n    generic_code.failTest('api centre search test', 'Response was not 200');\n}",
             "err": {},
             "isRoot": false,
-            "uuid": "5485ff09-9417-4718-9c07-fe9ea1572e10",
+            "uuid": "819e189c-0d20-4227-83ea-352d49a5863b",
             "isHook": false,
             "skipped": true
           }
@@ -1892,7 +1906,7 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "5485ff09-9417-4718-9c07-fe9ea1572e10"
+          "819e189c-0d20-4227-83ea-352d49a5863b"
         ],
         "duration": null,
         "root": false,
@@ -1900,23 +1914,23 @@
         "_timeout": 0
       },
       {
-        "uuid": "227969ad-ca0c-4b8e-93a2-7996987f01d8",
+        "uuid": "e9495946-5798-4ab7-b77c-2b3adb672d72",
         "title": "API Testing",
-        "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_filter_options_test.js",
-        "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_filter_options_test.js",
+        "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_delete_basket_item_test.js",
+        "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_delete_basket_item_test.js",
         "beforeHooks": [
           {
             "title": "\"before all\" hook: codeceptjs.beforeSuite",
             "fullTitle": "API Testing \"before all\" hook: codeceptjs.beforeSuite",
             "timedOut": false,
-            "duration": 0,
+            "duration": 1,
             "pass": false,
             "fail": false,
             "pending": false,
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "c0ae46da-cf0b-4817-af07-e7663160d48a",
+            "uuid": "a6580d1d-2155-4215-9c63-17d45d60b6ac",
             "isHook": true,
             "skipped": false
           },
@@ -1924,14 +1938,14 @@
             "title": "\"before each\" hook: codeceptjs.before",
             "fullTitle": "API Testing \"before each\" hook: codeceptjs.before",
             "timedOut": false,
-            "duration": 0,
+            "duration": 13494,
             "pass": false,
             "fail": false,
             "pending": false,
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "9020f49b-1dae-4974-a9c4-3c6935110612",
+            "uuid": "c8c5a798-b2c7-4664-a383-3d0a8e7208da",
             "isHook": true,
             "skipped": false
           }
@@ -1948,7 +1962,107 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "208851e6-e90e-4ff5-9d6b-a281f562f8b2",
+            "uuid": "091da773-3fcc-4655-af99-11c34d42b2e3",
+            "isHook": true,
+            "skipped": false
+          },
+          {
+            "title": "\"after each\" hook: finalize codeceptjs",
+            "fullTitle": "API Testing \"after each\" hook: finalize codeceptjs",
+            "timedOut": false,
+            "duration": 1485,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.teardown(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "2c92635e-a2c6-413a-91b0-1a63b4fc8e16",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "tests": [
+          {
+            "title": "api delete item from basket test",
+            "fullTitle": "API Testing: api delete item from basket test",
+            "timedOut": false,
+            "duration": 3236,
+            "state": "passed",
+            "speed": "slow",
+            "pass": true,
+            "fail": false,
+            "pending": false,
+            "code": "let postbasket,  basketstring, starter_sessioin, starter_sessioinID, basketID, postdeleteitemcall, postgetbasketcall, postgetbasketcallll;\nstarter_sessioin = await I.sendGetRequest('/session');\nstarter_sessioinID = starter_sessioin.data[\"sessionId\"];\nbasketstring = \"courseId=1\";\npostbasket = await I.sendPostRequest('/booking/basket/item/?' + basketstring, \"\", {\"x-session-id\": starter_sessioinID});\nif (postbasket.status != 200) {\n    generic_code.failTest('api delete item from basket test - add an item to the basket', 'Status was not 200')\n}\nbasketID = postbasket.data[\"id\"];\npostgetbasketcallll = await I.sendGetRequest('/booking/basket/',{'x-session-id':starter_sessioinID});\nif (postbasket.status != 200) {\n    generic_code.failTest('api delete item from basket test - get basket before delete', 'Status was not 200')\n}\npostdeleteitemcall = await I.sendDeleteRequest(`/booking/basket/item/${basketID}/?`, {'accept': '*/*', 'x-session-id': starter_sessioinID});\nif(postdeleteitemcall.status != 200) {\n    generic_code.failTest('api delete item from basket test - delete basket item', 'Status was not 200')\n}\npostgetbasketcall = await I.sendGetRequest('/booking/basket/',{'x-session-id':starter_sessioinID});\nif(postgetbasketcall.status != 200) {\n    generic_code.failTest('api delete item from basket test - get basket after delete', 'Status was not 200')\n}\n\n\nif(postgetbasketcall.data[\"items\"] == postgetbasketcallll.data[\"items\"]){\n    generic_code.failTest('api delete item from basket test - ', 'Basket item was not deleted when it should have been.')\n}",
+            "err": {},
+            "isRoot": false,
+            "uuid": "6b879aaa-4401-454a-8a25-36ce1def4adb",
+            "isHook": false,
+            "skipped": false
+          }
+        ],
+        "suites": [],
+        "passes": [
+          "6b879aaa-4401-454a-8a25-36ce1def4adb"
+        ],
+        "failures": [],
+        "pending": [],
+        "skipped": [],
+        "duration": 3236,
+        "root": false,
+        "rootEmpty": false,
+        "_timeout": 0
+      },
+      {
+        "uuid": "5d415232-af01-4e51-a481-2dac83e3cdc1",
+        "title": "API Testing",
+        "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_filter_options_test.js",
+        "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_filter_options_test.js",
+        "beforeHooks": [
+          {
+            "title": "\"before all\" hook: codeceptjs.beforeSuite",
+            "fullTitle": "API Testing \"before all\" hook: codeceptjs.beforeSuite",
+            "timedOut": false,
+            "duration": 0,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.suiteSetup(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "74c9a823-0c28-4539-aa0f-a162fddc1ddc",
+            "isHook": true,
+            "skipped": false
+          },
+          {
+            "title": "\"before each\" hook: codeceptjs.before",
+            "fullTitle": "API Testing \"before each\" hook: codeceptjs.before",
+            "timedOut": false,
+            "duration": 0,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.setup(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "d23c6018-e1ab-406e-adcd-916b10ce31d7",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "afterHooks": [
+          {
+            "title": "\"after all\" hook: codeceptjs.afterSuite",
+            "fullTitle": "API Testing \"after all\" hook: codeceptjs.afterSuite",
+            "timedOut": false,
+            "duration": 0,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.suiteTeardown(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "2d3438fc-813c-479a-bb3e-f33826001a1f",
             "isHook": true,
             "skipped": false
           },
@@ -1963,7 +2077,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "f2add0a3-4f17-441a-b5b4-38aa464bec82",
+            "uuid": "ba06a814-78e5-470e-8c36-6592f215246e",
             "isHook": true,
             "skipped": false
           }
@@ -1980,7 +2094,7 @@
             "code": "let json_ecoded_include, json_ecoded_filter, jsonstring, filteroptions;\nlet name1, name2, name3, name4, name5, name6, name7, name8, name9, name10, name11;\njson_ecoded_include = encodeURIComponent('[\"courseGroupCategoryType\",\"courseGroupCategory\",\"levelGroup\",\"level\",\"dayOfWeek\",\"timeOfDay\",\"region\",\"centre\",\"postcode\",\"geolocation\",\"distance\",\"courseType\"]');\njson_ecoded_filter = encodeURIComponent('{\"courseGroupCategoryType\": 1,\"courseGroupCategory\": [1,2],\"levelGroup\": [1,4],\"level\": [1],\"dayOfWeek\": 2,\"timeOfDay\": 1,\"region\": 1,\"centre\": 1,\"postcode\": \"BA2 4ET\",\"geolocation\": {\"latitude\":51.382154,\"longitude\":-2.354059},\"distance\": 5,\"courseType\": 1}');\njsonstring = `include=${json_ecoded_include}&filter${json_ecoded_filter}`;\nfilteroptions = await I.sendGetRequest('/booking/centres/search/filter?' + jsonstring);\nif(filteroptions.status == 200)\n{\n    name1 = filteroptions.data[0].name; //distance\n    name2 = filteroptions.data[1].name; //courseGroupCategoryType\n    name3 = filteroptions.data[2].name; //courseType\n    name4 = filteroptions.data[3].name; //levelGroup\n    name5 = filteroptions.data[4].name; //level\n    name6 = filteroptions.data[5].name; //dayOfWeek\n    name7 = filteroptions.data[6].name; //region\n    name8 = filteroptions.data[7].name; //centre\n    name9 = filteroptions.data[8].name; //postcode\n    name10 = filteroptions.data[9].name; //courseGroupCategory\n    name11 = filteroptions.data[10].name; //geolocation\n    if(name1 != \"distance\" &&\n        name2 != \"courseGroupCategoryType\" &&\n        name3 != \"courseType\" &&\n        name4 != \"levelGroup\" &&\n        name5 != \"level\" &&\n        name6 != \"dayOfWeek\" &&\n        name7 != \"region\" &&\n        name8 != \"centre\" &&\n        name9 != \"postcode\" &&\n        name10 != \"courseGroupCategory\" &&\n        name11 != \"geolocation\")\n    {\n        generic_code.failTest('api filter options test', 'filter Options were not in the correct order')\n    }\n    else{}\n}\nelse{\n    generic_code.failTest('api filter options test', 'Response was not 200');\n}",
             "err": {},
             "isRoot": false,
-            "uuid": "5d577d87-027a-4842-8e3e-ff1f8c012f4a",
+            "uuid": "a9a8c2b9-3c53-4694-94cb-588cdf838398",
             "isHook": false,
             "skipped": true
           }
@@ -1990,7 +2104,7 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "5d577d87-027a-4842-8e3e-ff1f8c012f4a"
+          "a9a8c2b9-3c53-4694-94cb-588cdf838398"
         ],
         "duration": null,
         "root": false,
@@ -1998,7 +2112,7 @@
         "_timeout": 0
       },
       {
-        "uuid": "b35ca1b5-408b-42d1-a14c-a184488e327b",
+        "uuid": "e7b123e2-cf38-41eb-9b0a-fc8973ddf5ef",
         "title": "API Testing",
         "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_login_test.js",
         "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_login_test.js",
@@ -2014,7 +2128,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "1d3ddcb1-a08d-4c38-803a-5216d38c9aba",
+            "uuid": "a480f57e-3fc9-44af-b892-1a6a642f2d6a",
             "isHook": true,
             "skipped": false
           },
@@ -2029,7 +2143,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "d32b1c3c-440c-423d-bbad-13a6cf80b51e",
+            "uuid": "784a0084-faed-4055-a14d-a6a5e14555f5",
             "isHook": true,
             "skipped": false
           }
@@ -2046,7 +2160,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "9e95994d-356c-42b4-a229-132a8cc9f15c",
+            "uuid": "ded7d781-2ea1-423b-aea9-9d3b5dba8e34",
             "isHook": true,
             "skipped": false
           },
@@ -2061,7 +2175,7 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "f6fb7dcc-93fc-44ef-bf14-448057165398",
+            "uuid": "a40400a5-36d5-4eee-ba05-199547b88cc5",
             "isHook": true,
             "skipped": false
           }
@@ -2078,7 +2192,7 @@
             "code": "let username_ecoded, data_json, postlogin;\nusername_ecoded = encodeURIComponent('coursepro+hp28@cap2.co.uk');//this changes the email to: coursepro%2Bhp28%40cap2.co.uk\ndata_json = `username=${username_ecoded}&password=homeportal&in_kiosk_mode=`;\npostlogin = await I.sendPostRequest('/login', data_json, {\"Content-Type\": \"application/x-www-form-urlencoded\"});\nif(postlogin.status != 200)\n{\n    generic_code.failTest('api login test', 'Status was not 200')\n}\nelse{}",
             "err": {},
             "isRoot": false,
-            "uuid": "267ac160-b6cc-4092-a8d7-0d333a862c48",
+            "uuid": "5a7df0ab-dd43-4c49-a12d-9923aa316079",
             "isHook": false,
             "skipped": true
           }
@@ -2088,7 +2202,7 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "267ac160-b6cc-4092-a8d7-0d333a862c48"
+          "5a7df0ab-dd43-4c49-a12d-9923aa316079"
         ],
         "duration": null,
         "root": false,
@@ -2096,10 +2210,10 @@
         "_timeout": 0
       },
       {
-        "uuid": "00f6d0fa-4ac4-4799-b799-fc3a20d741cc",
+        "uuid": "43d42dd7-9d73-44d7-80d8-687e8f422506",
         "title": "API Testing",
-        "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_postcode_search_test.js",
-        "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_postcode_search_test.js",
+        "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_payment_plans_search_test.js",
+        "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_payment_plans_search_test.js",
         "beforeHooks": [
           {
             "title": "\"before all\" hook: codeceptjs.beforeSuite",
@@ -2112,7 +2226,7 @@
             "code": "scenario.suiteSetup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "3caa0aa4-af6e-4ce9-8a22-d5d7d16f5bbd",
+            "uuid": "e5c286ce-fb59-4841-b6b4-db6c01376dbd",
             "isHook": true,
             "skipped": false
           },
@@ -2127,7 +2241,7 @@
             "code": "scenario.setup(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "34f92300-cd6d-4867-b615-f9972b256a16",
+            "uuid": "f82dc2fc-9862-4375-9f9b-0249c2a05520",
             "isHook": true,
             "skipped": false
           }
@@ -2144,7 +2258,7 @@
             "code": "scenario.suiteTeardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "873ddb7c-4be2-41d7-ba04-0602b218c7b6",
+            "uuid": "e82ee53e-9297-4a97-b29d-39c3f63ccd24",
             "isHook": true,
             "skipped": false
           },
@@ -2159,7 +2273,105 @@
             "code": "scenario.teardown(suite)",
             "err": {},
             "isRoot": false,
-            "uuid": "35ab7d88-8dfa-4e65-9e6a-eb18f78a04ee",
+            "uuid": "21b99c4d-294b-41d6-bb67-8516cb1121dd",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "tests": [
+          {
+            "title": "api payment plan search for basket test",
+            "fullTitle": "API Testing: api payment plan search for basket test",
+            "timedOut": false,
+            "duration": 0,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "let username_ecoded, data_json, postlogin, sessionID, postbasket, basketstring, starter_sessioin, starter_sessioinID, basketID, postpaymentdetailcall;\nstarter_sessioin = await I.sendGetRequest('/session');\nstarter_sessioinID = starter_sessioin.data[\"sessionId\"];\nusername_ecoded = encodeURIComponent('coursepro+hp28@cap2.co.uk');//this changes the email to: coursepro%2Bhp28%40cap2.co.uk\ndata_json = `username=${username_ecoded}&password=homeportal&in_kiosk_mode=`;\npostlogin = await I.sendPostRequest('/login', data_json, {\n    \"x-session-id\": starter_sessioinID,\n    \"Content-Type\": \"application/x-www-form-urlencoded\"\n});\nif (postlogin.status != 200) {\n    generic_code.failTest('api payment plan search for basket test - login', 'Status was not 200')\n}\nelse {\n    sessionID = postlogin.data[\"session_id\"];\n}\nbasketstring = \"courseId=1\";\npostbasket = await I.sendPostRequest('/booking/basket/item/?' + basketstring, \"\", {\"x-session-id\": sessionID});\nif (postbasket.status != 200) {\n    generic_code.failTest('api payment plan search for basket test - basket item', 'Status was not 200')\n}\nbasketID = postbasket.data[\"id\"];\npostpaymentdetailcall = await I.sendGetRequest(`/booking/basket/item/${basketID}/paymentplans`,{'x-session-id' : sessionID});\nif (postpaymentdetailcall.status != 200) {\n    generic_code.failTest('api payment plan search for basket test - payment plans', 'Status was not 200')\n}\nelse if(postpaymentdetailcall.data[0][\"description\"] != \"Direct Debit\")\n{\n    generic_code.failTest('api payment plan search for basket test - payment plans description', 'Status was not 200')\n}",
+            "err": {},
+            "isRoot": false,
+            "uuid": "59d44a3d-b7ec-4af8-8988-7b25b7b7262d",
+            "isHook": false,
+            "skipped": true
+          }
+        ],
+        "suites": [],
+        "passes": [],
+        "failures": [],
+        "pending": [],
+        "skipped": [
+          "59d44a3d-b7ec-4af8-8988-7b25b7b7262d"
+        ],
+        "duration": null,
+        "root": false,
+        "rootEmpty": false,
+        "_timeout": 0
+      },
+      {
+        "uuid": "b5fc3328-2bda-48e9-9eed-5b7608ddedfd",
+        "title": "API Testing",
+        "fullFile": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_postcode_search_test.js",
+        "file": "C:\\Users\\DJakobson\\Regression Tests\\CodeCeption_Testing_Ground\\Tests\\Standalone\\API_Tests\\api_postcode_search_test.js",
+        "beforeHooks": [
+          {
+            "title": "\"before all\" hook: codeceptjs.beforeSuite",
+            "fullTitle": "API Testing \"before all\" hook: codeceptjs.beforeSuite",
+            "timedOut": false,
+            "duration": 0,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.suiteSetup(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "69a50761-5877-4583-bd6d-b989e1e94d2e",
+            "isHook": true,
+            "skipped": false
+          },
+          {
+            "title": "\"before each\" hook: codeceptjs.before",
+            "fullTitle": "API Testing \"before each\" hook: codeceptjs.before",
+            "timedOut": false,
+            "duration": 0,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.setup(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "259a72b9-3f64-4ab5-ace1-316b3575ff44",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "afterHooks": [
+          {
+            "title": "\"after all\" hook: codeceptjs.afterSuite",
+            "fullTitle": "API Testing \"after all\" hook: codeceptjs.afterSuite",
+            "timedOut": false,
+            "duration": 0,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.suiteTeardown(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "cdbfbe8a-530c-4406-af48-fa7585e79d0e",
+            "isHook": true,
+            "skipped": false
+          },
+          {
+            "title": "\"after each\" hook: finalize codeceptjs",
+            "fullTitle": "API Testing \"after each\" hook: finalize codeceptjs",
+            "timedOut": false,
+            "duration": 0,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "scenario.teardown(suite)",
+            "err": {},
+            "isRoot": false,
+            "uuid": "acd28fd9-be2d-4176-a08f-61ddc0734046",
             "isHook": true,
             "skipped": false
           }
@@ -2176,7 +2388,7 @@
             "code": "let json_ecoded, jsonstring, postcode_Search;\njson_ecoded = encodeURIComponent('E1 7AA');\njsonstring = `search=${json_ecoded}`;\npostcode_Search = await I.sendGetRequest('/booking/findLocation?' + jsonstring);\nif(postcode_Search.status == 200)\n{\n    let postcode_info = postcode_Search.data.value[1].name;\n    if(postcode_info != 'Westminster Leisure Centre')\n    {\n        generic_code.failTest('api postcode search test', 'Course Name was not \"Swim School (Continuous) - Stage 1\"')\n    }\n    else{}\n}\nelse{\n    generic_code.failTest('api postcode search test', 'Response was not 200');\n}",
             "err": {},
             "isRoot": false,
-            "uuid": "2a919dfb-db0b-4dcb-a3e1-d918cfdfd8bd",
+            "uuid": "e36cab34-8f00-4f6b-93fc-42282c80924b",
             "isHook": false,
             "skipped": true
           }
@@ -2186,7 +2398,7 @@
         "failures": [],
         "pending": [],
         "skipped": [
-          "2a919dfb-db0b-4dcb-a3e1-d918cfdfd8bd"
+          "e36cab34-8f00-4f6b-93fc-42282c80924b"
         ],
         "duration": null,
         "root": false,

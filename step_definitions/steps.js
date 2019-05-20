@@ -23,11 +23,13 @@ When('I click the logout button', () => {
     generic_code.logout()
 });
 When('I click the leisure centre button', () => {
+    I.wait(3);
     I.click('#userCentre');
     I.click('#centreList > ul > li:nth-child(2)');
     I.wait(2);
 });
 When('I click the leisure centre button for lead', () => {
+    I.wait(3);
     I.waitForElement('#userCentre', 3);
     I.click('#userCentre');
     I.see('Westminster Leisure Centre', '#centreList');
@@ -84,16 +86,19 @@ Then('I should see overview screen', () => {
     generic_code.overview_page()
 });
 Then('I should see the homepage', () => {
+    I.wait(2);
     I.waitForElement('#username', 3);
     I.wait(2);
     I.see('Please log in to continue');
 });
 Then('I should be able to switch leisure centres', () => {
+    I.wait(2);
     I.waitForElement('#userCentre', 6);
     I.wait(2);
     I.seeTextEquals('Castle Leisure Centre', '#userCentre');
 });
 Then('I should not be able to switch leisure centres', () => {
+    I.wait(2);
     I.waitForElement('#userCentre', 6);
     I.click('#userCentre');
     I.wait(2);
@@ -104,6 +109,7 @@ Then('I should be able to assess a pupil', () => {
 });
 Then('I should be able to mark a pupil', () => {
     I.amOnPage(global.config.domain + '/classes/session/547/');
+    I.wait(2);
     I.waitForElement('#present_49', 3);
     I.click('#present_49');
 });

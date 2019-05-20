@@ -17,6 +17,10 @@ module.exports = {
         Sql_database_name: global.config.Sql_database_name,
     },
 
+    failTest(test,error) {
+        throw new Error('Failed Test: ' + test + ' Because: ' + error)
+    },
+
     login_admin () {
         I.amOnPage(this.fields.Domain + '/');
         I.waitForElement('#username',3);
@@ -105,8 +109,8 @@ module.exports = {
     },
 
     reports_page () {
-        I.amOnPage(this.fields.Domain + '/newreports/');
-        I.waitForElement('#fields',6);
+        I.amOnPage(this.fields.Domain + '/newreports/overview?params[%27centres.centre_id%27]=1');
+        I.waitForElement('#report-container',6);
         I.wait(2);
     },
 
@@ -132,7 +136,7 @@ module.exports = {
         I.waitForElement('#assessMember_20', 3);
         I.click('#assessMember_20');
         I.wait(2);
-        I.see('85%', '#percentage');
+        I.see('100%', '#percentage');
     },
 
     cancel_class () {
@@ -240,7 +244,7 @@ module.exports = {
     topup_with_cash (){
         I.waitForElement('#bookAllocations',5);
         I.click('#bookContinue');
-        I.waitForElement('#paymentNumbers',3);
+        I.waitForElement('#paymentNumbers',6);
         I.click('#tillNumber_exact');
         I.wait(1);
         I.click('#method_cash');

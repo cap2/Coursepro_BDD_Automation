@@ -1,6 +1,7 @@
 const I = actor();
 const global = require('../node_modules/.bin/codecept.conf');
 const DB_Connect = require('../Generic_Code/DB_Connection');
+const helpers = require('../Custom_Helpers/Custom_Helper');
 
 
 module.exports = {
@@ -113,6 +114,13 @@ module.exports = {
         I.amOnPage(this.fields.Domain + '/newreports/overview?params[%27centres.centre_id%27]=1');
         I.waitForElement('#report-container',6);
         I.wait(2);
+    },
+
+    async ipod_page () {
+        let url = this.fields.Domain + '/i/?embedded=1#device';
+        let url_replace = url.replace('http' , 'https');
+        I.amOnPage(url_replace);
+        I.wait(3);
     },
 
     asses_pupil () {
@@ -603,6 +611,130 @@ module.exports = {
             }
         }
         await I.removeConnection( "coursepro_default" ); // also disconnects
+    },
+
+    async ipod_login () {
+        if(I.see('Enter Device ID','#login_explanation'))
+        {
+            I.click('#username');
+            I.waitForElement('#username', 1);
+            I.fillField(".//*[contains(@name, 'username')]", 'test');
+            I.click('#deviceSelect');
+            I.wait(3);
+            I.waitForElement('#key_1',10);
+            I.click('#key_1');
+            I.click('#key_2');
+            I.click('#key_3');
+            I.click('#key_4');
+            I.wait(4);
+        }
+        I.waitForElement('#teacherList',10);
+        I.wait(3);
+        I.see('Teachers','#home > div.toolbar > h1');
+    },
+
+    async ipod_mark_attendance () {
+        I.click('#t');
+        I.waitForElement('#classList', 15);
+        I.wait(5);
+        I.click('#classList > li:nth-child(2)');
+        I.waitForElement('#class_buttons', 5);
+        I.wait(3);
+        I.click('#ic_register');
+        I.waitForElement('#registerList', 5);
+        I.wait(3);
+        I.click('#cm_66 > span.touch.cross');
+        I.wait(0.5);
+        I.click('#cm_71 > span.touch.cross');
+        I.wait(0.5);
+        I.click('#cm_68 > span.touch.cross');
+        I.wait(0.5);
+        I.click('#cm_67 > span.touch.cross');
+        I.wait(0.5);
+        I.seeElement('#cm_66 > span.touch.tick');
+        I.seeElement('#cm_71 > span.touch.tick');
+        I.seeElement('#cm_68 > span.touch.tick');
+        I.seeElement('#cm_67 > span.touch.tick');
+    },
+
+    async ipod_asses_by_pupil () {
+        I.click('#t');
+        I.waitForElement('#classList', 15);
+        I.wait(8);
+        I.click('#classList > li:nth-child(2)');
+        I.waitForElement('#class_buttons', 5);
+        I.wait(3);
+        I.click('#ic_assesspupil');
+
+        helpers.match_string('#assesspupilList','assessPupil','');
+
+
+        I.waitForElement('#assessPupil_35',5);
+        I.click('#assessPupil_35');
+        I.wait(0.5);
+        I.waitForElement('#assesspupilgradesList',5);
+        I.wait(2);
+        I.click('#competency_1 > ul > li.touch.grade_2');
+        I.wait(0.5);
+        I.click('#competency_2 > ul > li.touch.grade_3');
+        I.wait(0.5);
+        I.click('#competency_3 > ul > li.touch.grade_4');
+        I.wait(0.5);
+        I.seeElement('#competency_1 > span.time_stamp');
+        I.seeElement('#competency_2 > span.time_stamp');
+        I.seeElement('#competency_3 > span.time_stamp');
+    },
+
+    async ipod_asses_by_competency () {
+        I.click('#teacherList > li:nth-child(1)');
+        I.waitForElement('#classList', 15);
+        I.wait(8);
+        I.click('#classList > li:nth-child(1)');
+        I.waitForElement('#class_buttons', 5);
+        I.wait(3);
+        I.click('#ic_assesscompetency');
+        I.waitForElement('#assesscompetencyList',5);
+        I.wait(3);
+        I.click('#assessCompetencyGroupList-0-0 > li:nth-child(1) > a');
+        I.waitForElement('#assesscompetencygradesList',5);
+        I.wait(3);
+        I.click('#member_35 > span.competencyAssess > ul > li.touch.grade_3');
+        I.wait(0.5);
+        I.click('#member_34 > span.competencyAssess > ul > li.touch.grade_4');
+        I.wait(0.5);
+        I.seeElement('#member_35 > span.time_stamp');
+        I.seeElement('#member_34 > span.time_stamp');
+
+    },
+
+    async ipod_mark_member_to_move () {
+        I.click('#teacherList > li:nth-child(1)');
+        I.waitForElement('#classList', 15);
+        I.wait(8);
+        I.click('#classList > li:nth-child(1) > a > span');
+        I.waitForElement('#class_buttons', 5);
+        I.wait(3);
+        I.click('#ic_assesspupil');
+        I.waitForElement('#assessPupil_34',5);
+        I.click('#assessPupil_34');
+        I.wait(0.5);
+        I.waitForElement('#assesspupilgradesList',5);
+        I.wait(5);
+        I.click('#assesspupilgrades > div > a.button.pop');
+        I.waitForElement('#level',6);
+        I.seeElement('#level');
+    },
+
+    async ipod_view_medical_and_payment_alerts () {
+        I.click('#teacherList > li:nth-child(1)');
+        I.waitForElement('#classList', 15);
+        I.wait(5);
+        I.click('#classList > li:nth-child(2)');
+        I.waitForElement('#class_buttons', 5);
+        I.wait(3);
+        I.click('#ic_alerts');
+
+
     },
 
 

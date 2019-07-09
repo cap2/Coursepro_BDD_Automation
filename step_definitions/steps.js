@@ -79,6 +79,9 @@ When('I click the waiting list page', () =>{
 When('I go to the reports page', () => {
 generic_code.reports_page()
 });
+When('I go to the ipod device', ()=> {
+generic_code.ipod_page();
+});
 
 
 //Then //
@@ -190,4 +193,22 @@ generic_code.transactions_refund_report()
 });
 Then('I should see transactions online report', () => {
 generic_code.transactions_online_report()
+});
+Then('I should be able to login to device', () => {
+    generic_code.ipod_login();
+});
+Then('I should be able to mark attendance', () => {
+    generic_code.ipod_mark_attendance();
+});
+Then('I should be able to assess by pupil', () => {
+    generic_code.ipod_asses_by_pupil();
+});
+Then('I should be able to assess by competency', () => {
+    generic_code.ipod_asses_by_competency();
+});
+Then('I should be mark a member as ready to move', () => {
+    generic_code.ipod_mark_member_to_move();
+});
+Then('I should be able to view medical and payment alerts', () => {
+    generic_code.ipod_view_medical_and_payment_alerts();
 });

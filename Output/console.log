@@ -1,8 +1,13 @@
 
 [0m[0m
 [0m  Portable Devices Tests @P1 @Standalone @Portable_Devices_Tests[0m
-  [32m  √[0m[90m Can mark a member as ready to move[0m[31m (38575ms)[0m
+  [32m  √[0m[90m Can login to device[0m[31m (25080ms)[0m
+  [32m  √[0m[90m Can mark attendance[0m[31m (39052ms)[0m
+  [32m  √[0m[90m Can assess by pupil[0m[31m (38538ms)[0m
+  [32m  √[0m[90m Can assess by competency[0m[31m (42095ms)[0m
+  [32m  √[0m[90m Can mark a member as ready to move[0m[31m (35866ms)[0m
+  [32m  √[0m[90m Can view medical and payment alerts[0m[31m (37738ms)[0m
 
 
-[92m [0m[32m 1 passing[0m[90m (47s)[0m
+[92m [0m[32m 6 passing[0m[90m (4m)[0m
 

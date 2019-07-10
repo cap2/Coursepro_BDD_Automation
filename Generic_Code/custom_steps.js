@@ -720,7 +720,6 @@ module.exports = {
         I.click('#ic_assesspupil');
         let target = await I.match_string_for_assess_pupil('#assesspupilList'); // just need the element.
         let element_to_wait_for = '#' + target;
-        console.log(target + ' ' + element_to_wait_for);
         I.waitForElement(element_to_wait_for ,5);
         I.click(element_to_wait_for);
         I.wait(0.5);
@@ -732,14 +731,15 @@ module.exports = {
     },
 
     async ipod_view_medical_and_payment_alerts () {
-        I.click('#teacherList > li:nth-child(1)');
+        I.click('#t');
         I.waitForElement('#classList', 15);
-        I.wait(5);
+        I.wait(8);
         I.click('#classList > li:nth-child(2)');
         I.waitForElement('#class_buttons', 5);
         I.wait(3);
         I.click('#ic_alerts');
-
+        I.wait(2);
+        I.seeElement('#alerts');
 
     },
 

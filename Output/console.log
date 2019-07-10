@@ -1,8 +1,8 @@
 
 [0m[0m
 [0m  Portable Devices Tests @P1 @Standalone @Portable_Devices_Tests[0m
-  [32m  √[0m[90m Can mark a member as ready to move[0m[31m (42972ms)[0m
+  [32m  √[0m[90m Can mark a member as ready to move[0m[31m (38575ms)[0m
 
 
-[92m [0m[32m 1 passing[0m[90m (48s)[0m
+[92m [0m[32m 1 passing[0m[90m (47s)[0m
 

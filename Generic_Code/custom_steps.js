@@ -665,12 +665,11 @@ module.exports = {
         I.waitForElement('#class_buttons', 5);
         I.wait(3);
         I.click('#ic_assesspupil');
-
-        helpers.match_string('#assesspupilList','assessPupil','');
-
-
-        I.waitForElement('#assessPupil_35',5);
-        I.click('#assessPupil_35');
+        I.wait(2);
+        let target = await I.match_string_for_assess_pupil('#assesspupilList'); // just need the element.
+        let element_to_wait_for = '#' + target;
+        I.waitForElement(element_to_wait_for ,5);
+        I.click(element_to_wait_for);
         I.wait(0.5);
         I.waitForElement('#assesspupilgradesList',5);
         I.wait(2);
@@ -686,40 +685,47 @@ module.exports = {
     },
 
     async ipod_asses_by_competency () {
-        I.click('#teacherList > li:nth-child(1)');
+        I.click('#t');
         I.waitForElement('#classList', 15);
         I.wait(8);
-        I.click('#classList > li:nth-child(1)');
+        I.click('#classList > li:nth-child(2)');
         I.waitForElement('#class_buttons', 5);
         I.wait(3);
         I.click('#ic_assesscompetency');
         I.waitForElement('#assesscompetencyList',5);
         I.wait(3);
-        I.click('#assessCompetencyGroupList-0-0 > li:nth-child(1) > a');
+        I.click('#assessCompetencyGroupList-0-0 > li:nth-child(2)');
         I.waitForElement('#assesscompetencygradesList',5);
         I.wait(3);
-        I.click('#member_35 > span.competencyAssess > ul > li.touch.grade_3');
+        let target = await I.match_string_for_member_info('#assesscompetencygradesList');
+        let member_1_click = '#' + target[0] + ' > span.competencyAssess > ul > li.touch.grade_3';
+        let member_2_click = '#' + target[1] + ' > span.competencyAssess > ul > li.touch.grade_4';
+        let member_1_time = '#' + target[0] + ' > span.time_stamp';
+        let member_2_time = '#' + target[1] + ' > span.time_stamp';
+        I.click(member_1_click);
         I.wait(0.5);
-        I.click('#member_34 > span.competencyAssess > ul > li.touch.grade_4');
+        I.click(member_2_click);
         I.wait(0.5);
-        I.seeElement('#member_35 > span.time_stamp');
-        I.seeElement('#member_34 > span.time_stamp');
-
+        I.seeElement(member_1_time);
+        I.seeElement(member_2_time);
     },
 
     async ipod_mark_member_to_move () {
-        I.click('#teacherList > li:nth-child(1)');
+        I.click('#t');
         I.waitForElement('#classList', 15);
         I.wait(8);
-        I.click('#classList > li:nth-child(1) > a > span');
+        I.click('#classList > li:nth-child(2)');
         I.waitForElement('#class_buttons', 5);
         I.wait(3);
         I.click('#ic_assesspupil');
-        I.waitForElement('#assessPupil_34',5);
-        I.click('#assessPupil_34');
+        let target = await I.match_string_for_assess_pupil('#assesspupilList'); // just need the element.
+        let element_to_wait_for = '#' + target;
+        console.log(target + ' ' + element_to_wait_for);
+        I.waitForElement(element_to_wait_for ,5);
+        I.click(element_to_wait_for);
         I.wait(0.5);
         I.waitForElement('#assesspupilgradesList',5);
-        I.wait(5);
+        I.wait(2);
         I.click('#assesspupilgrades > div > a.button.pop');
         I.waitForElement('#level',6);
         I.seeElement('#level');

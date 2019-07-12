@@ -11,13 +11,15 @@ class MyHelper extends Helper {
     // If you need to access other helpers
     // use: this.helpers['helperName']
 
+
+
     _init() {
         I = actor();
-    }
+    };
 
     fail_test(message) {
         assert.fail(message);
-    }
+    };
 
     async match_string_for_assess_pupil(element){
         let match;
@@ -33,7 +35,7 @@ class MyHelper extends Helper {
             }
         }
         return match;
-    }
+    };
 
     async match_string_for_member_info(element){
         let match1,match2,match3,match4;
@@ -49,7 +51,7 @@ class MyHelper extends Helper {
             match4 = id_for_member[4];
         }
         return [match1,match2,match3,match4];
-    }
+    };
 
     async match_string_for_alerts(element){
         let match1,match2,string_match1,string_match2;
@@ -67,7 +69,21 @@ class MyHelper extends Helper {
 
         }
         return [string_match1,string_match2];
-    }
+    };
+
+    async match_string_for_member_DOB(element){
+        let match1,string_match1;
+        const targetEls = await this.helpers['Puppeteer'].page.$$(element);
+        for(let target of targetEls)
+        {
+            const cell_content = await this.helpers['Puppeteer'].page.evaluate(el => el.innerHTML, target);
+            let alert_for_member ='';
+            alert_for_member = cell_content.match(/(\d*)\/(\d*)\/(\d*)/g);
+            match1 = alert_for_member[0];
+            string_match1 = match1.replace('br>','');
+        }
+        return [string_match1];
+    };
 
 }
 

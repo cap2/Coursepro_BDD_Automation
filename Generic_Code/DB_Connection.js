@@ -4,23 +4,16 @@ const I = actor();
 
 module.exports =
     {
-        fields:{
-            Sql_host: global.config.Sql_host,
-            Sql_server_username: global.config.Sql_server_username,
-            Sql_server_password: global.config.Sql_server_password,
-            Sql_database_name: global.config.Sql_database_name,
-            Cron_run_location: global.config.Cron_run_location,
-        },
-
+        // old way of doing it.
         connect_to_db: async function (sql_query)
         {
             return new Promise((resolve, reject) => {
                 (async () => {
                     let con = sql.createConnection({
-                        host: this.fields.Sql_host,
-                        user: this.fields.Sql_server_username,
-                        password: this.fields.Sql_server_password,
-                        database: this.fields.Sql_database_name
+                        host: global.config.Sql_host,
+                        user: global.config.Sql_server_username,
+                        password: global.config.Sql_server_password,
+                        database: global.config.Sql_database_name
                     });
 
                     await con.connect((err) => {
@@ -40,5 +33,16 @@ module.exports =
 
                 })();
             });
+        },
+
+        // DbHelper way of doing it.
+        connect_to_db2: async function (query, datapassed)
+        {
+            await I.connect("coursepro_default", "mysql:///test:testpassword@localhost:3306/coursepro_default");
+            const result = await I.run( "coursepro_default", query , datapassed );
+            I.say(result[0], 'blue');
+
+            await I.removeConnection( "coursepro_default" );
         }
+
     };

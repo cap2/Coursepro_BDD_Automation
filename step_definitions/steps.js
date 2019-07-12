@@ -13,6 +13,9 @@ Given('Im logged in', () => {
 Given('Im logged in as a none root user', () => {
     generic_code.login_default()
 });
+Given('Im on the HomePortal Page after getting member data', () => {
+    generic_code.hp2_page()
+});
 
 
 //When //
@@ -82,6 +85,10 @@ generic_code.reports_page()
 When('I go to the ipod device', ()=> {
 generic_code.ipod_page();
 });
+When('I login to HomePortal with User 1', ()=> {
+    generic_code.login_HP2_User1();
+});
+
 
 
 //Then //
@@ -211,4 +218,25 @@ Then('I should be mark a member as ready to move', () => {
 });
 Then('I should be able to view medical and payment alerts', () => {
     generic_code.ipod_view_medical_and_payment_alerts();
+});
+Then('I should be able to Register for HomePortal', () => {
+    generic_code.register_for_homeportal();
+});
+Then('I should be able to View Progress on HomePortal', () => {
+    generic_code.view_progress_on_homeportal();
+});
+Then('I should be able to use Quick Activation on HomePortal', () => {
+    generic_code.quick_activation_on_homeportal();
+});
+Then('I should be able to Topup - Continuous', () => {
+    generic_code.homeportal_topup_continuous();
+});
+Then('I should be able to Topup - Fixed', () => {
+    generic_code.homeportal_topup_fixed();
+});
+Then('I should be able to move - Continuous', () => {
+    generic_code.homeportal_move_continuous();
+});
+Then('I should be able to move - Fixed', () => {
+    generic_code.homeportal_move_fixed();
 });

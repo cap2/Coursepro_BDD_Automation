@@ -3,7 +3,7 @@ const global = require('../node_modules/.bin/codecept.conf');
 const DB_Connect = require('../Generic_Code/DB_Connection');
 const helpers = require('../Custom_Helpers/Custom_Helper');
 
-
+let target;
 module.exports = {
 
     fields:{
@@ -12,11 +12,19 @@ module.exports = {
         Admin_email: global.config.CoursePro_Username1,
         Admin_password: global.config.CoursePro_Password1,
         Domain: global.config.domain,
+        HP2_Domain: global.config.HP2_Domain,
+        HP2_User1: global.config.HomePortal_username1, // no class has homeportal account
+        HP2_User2: global.config.HomePortal_username2, // has a con class and requires topup
+        HP2_Password: global.config.HomePortal_passowrd,
+        HP2_memberID: global.config.HomePortal_memberID,
+        HP2_member_PostCode: global.config.HomePortal_member_PostCode,
         Sql_host: global.config.Sql_host,
         Sql_server_username: global.config.Sql_server_username,
         Sql_server_password: global.config.Sql_server_password,
         Sql_database_name: global.config.Sql_database_name,
     },
+
+
 
     failTest(test,error) {
         throw new Error('Failed Test: ' + test + ' Because: ' + error)
@@ -43,6 +51,47 @@ module.exports = {
         I.fillField('#username', this.fields.Standard_email);
         I.fillField('#password', this.fields.Standard_password);
         I.click('#btnG');
+        I.wait(2);
+    },
+
+    hp2_page: async function () {
+        // get member data.
+        I.amOnPage(this.fields.Domain + '/');
+        I.waitForElement('#username', 3);
+        I.wait(2);
+        I.see('Please log in to continue');
+        I.waitForElement('#username', 3);
+        I.fillField('#username', this.fields.Admin_email);
+        I.fillField('#password', this.fields.Admin_password);
+        I.click('#btnG');
+        I.wait(2);
+        I.amOnPage('https://default.coursepro/members/188/');
+        I.wait(2);
+        target = await I.match_string_for_member_DOB('#profile > div.box > div > div > div:nth-child(2)');
+
+        // goto HP2 now
+        I.amOnPage(this.fields.HP2_Domain + '/');
+        I.waitForElement('#username', 3);
+        I.wait(2);
+    },
+
+    login_HP2_User1 () {
+
+        I.see('If you already have a HomePortal account, please login below:');
+        I.waitForElement('#username',3);
+        I.fillField('#username', this.fields.HomePortal_username1);
+        I.fillField('#password', this.fields.HomePortal_passowrd);
+        I.click('#login_button');
+        I.wait(2);
+    },
+
+    login_HP2_User2 () {
+
+        I.see('If you already have a HomePortal account, please login below:');
+        I.waitForElement('#username',3);
+        I.fillField('#username', this.fields.HomePortal_username2);
+        I.fillField('#password', this.fields.HomePortal_passowrd);
+        I.click('#login_button');
         I.wait(2);
     },
 
@@ -743,5 +792,35 @@ module.exports = {
 
     },
 
+    async register_for_homeportal () {
+        let dob = target[0];
+        I.say(dob);
+        I.wait(2);
+
+    },
+
+    async view_progress_on_homeportal () {
+
+    },
+
+    async quick_activation_on_homeportal () {
+
+    },
+
+    async homeportal_topup_continuous () {
+
+    },
+
+    async homeportal_topup_fixed () {
+
+    },
+
+    async homeportal_move_continuous () {
+
+    },
+
+    async homeportal_move_fixed () {
+
+    },
 
 };
